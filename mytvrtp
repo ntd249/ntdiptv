@@ -12,7 +12,7 @@ rtp://@232.84.2.32:10600
 rtp://@232.84.3.106:10600
 #EXTINF:5 tvg-name="VTV5 HD" group-title="VTV" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5 (HD 8.5Mbps)
 rtp://@232.84.2.33:10606
-#EXTINF:6 tvg-name="VTV Cần Thơ HD" group-title="VTV" tvg-logo="https://i.imgur.com/ATJwYik.jpg",VTV Cần Thơ (HD 8.5Mbps)
+#EXTINF:6 tvg-name="VTV Cần Thơ HD" group-title="VTV" tvg-logo="https://i.imgur.com/4ChOVPF.png",VTV Cần Thơ (HD 8.5Mbps)
 rtp://@232.84.1.119:10266
 #EXTINF:9 tvg-name="VTV7 HD" group-title="VTV" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",VTV7 (HD 8.5Mbps)
 rtp://@232.84.2.202:10996
@@ -32,7 +32,7 @@ rtp://@232.84.3.249:11416
 rtp://@232.84.3.250:11422
 #EXTINF:5 tvg-name="VTV5 HD" group-title="VTV" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5 (HD 6.5Mbps)
 rtp://@232.84.3.251:11428
-#EXTINF:6 tvg-name="VTV Cần Thơ HD" group-title="VTV" tvg-logo="https://i.imgur.com/ATJwYik.jpg",VTV Cần Thơ (HD 6.5Mbps)
+#EXTINF:6 tvg-name="VTV Cần Thơ HD" group-title="VTV" tvg-logo="https://i.imgur.com/4ChOVPF.png",VTV Cần Thơ (HD 6.5Mbps)
 rtp://@232.84.3.252:11434
 #EXTINF:-1 tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1
 rtp://@232.84.1.27:8136
@@ -44,7 +44,7 @@ rtp://@232.84.1.28:8142
 rtp://@232.84.1.40:8214
 #EXTINF:-1 tvg-name="VTV5 HD" group-title="VTV" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5
 rtp://@232.84.1.41:8220
-#EXTINF:-1 tvg-name="VTV Cần Thơ HD" group-title="VTV" tvg-logo="https://i.imgur.com/ATJwYik.jpg",VTV Cần Thơ
+#EXTINF:-1 tvg-name="VTV Cần Thơ HD" group-title="VTV" tvg-logo="https://i.imgur.com/4ChOVPF.png",VTV Cần Thơ
 rtp://@232.84.1.42:8226
 #EXTINF:-1 tvg-name="VTV7 HD" group-title="VTV" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",VTV7
 rtp://@232.84.2.201:10990
@@ -55,9 +55,9 @@ rtp://@232.84.1.241:9420
 #------------------------VTVcab------------------------#
 #EXTINF:37 tvg-name="ON Sports HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/kKd3Ssh.jpg",ON Sports HD (HD 8.5Mbps)
 rtp://@232.84.1.207:9216
-#EXTINF:194 tvg-name="VTVCab4 - Phim Đặc Sắc" group-title="VTVcab" tvg-logo="https://i.imgur.com/BIy8hdr.jpg",ON Movies (HD 8.5Mbps)
+#EXTINF:194 tvg-name="VTVCab4 - Phim Đặc Sắc" group-title="VTVcab" tvg-logo="https://i.imgur.com/eZf5gIz.jpg",ON Movies (HD 8.5Mbps)
 rtp://@232.84.2.190:10924
-#EXTINF:102 tvg-name="VTVCab8 - Bibi" group-title="VTVcab" tvg-logo="https://i.imgur.com/tFXYz2b.jpg",ON BiBi (HD 8.5Mbps)
+#EXTINF:102 tvg-name="VTVCab8 - Bibi" group-title="VTVcab" tvg-logo="https://i.imgur.com/1doyHjp.jpg",ON BiBi (HD 8.5Mbps)
 rtp://@232.84.3.217:11224
 #EXTINF:39 tvg-name="ON Football HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/BdZ2IRC.jpg",ON Football HD (HD 8.5Mbps)
 rtp://@232.84.1.210:9234
@@ -69,9 +69,9 @@ rtp://@232.84.3.218:11230
 rtp://@232.84.1.143:8832
 #EXTINF:98 tvg-name="VTVCab2 - ON Phim Việt" group-title="VTVcab" tvg-logo="https://i.imgur.com/6iITUe5.jpg",ON Phim Việt
 rtp://@232.84.1.168:8982
-#EXTINF:91 tvg-name="VTVCab7 - Sức khỏe và cuộc sống" group-title="VTVcab" tvg-logo="https://i.imgur.com/bFWgi4j.png",ON O2TV
+#EXTINF:91 tvg-name="VTVCab7 - Sức khỏe và cuộc sống" group-title="VTVcab" tvg-logo="https://i.imgur.com/vhA7qXh.jpg",ON O2TV
 rtp://@232.84.1.26:8130
-#EXTINF:-1 tvg-name="VTVCab8 - Bibi" group-title="VTVcab" tvg-logo="https://i.imgur.com/tFXYz2b.jpg",ON BiBi
+#EXTINF:-1 tvg-name="VTVCab8 - Bibi" group-title="VTVcab" tvg-logo="https://i.imgur.com/1doyHjp.jpg",ON BiBi
 rtp://@232.84.1.206:9210
 #EXTINF:195 tvg-name="VTVCab9 - Info TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/TuYOsTV.jpg",VTVcab9 Info TV
 rtp://@232.84.2.191:10930
@@ -79,7 +79,7 @@ rtp://@232.84.2.191:10930
 rtp://@232.84.1.205:9204
 #EXTINF:103 tvg-name="VTVCab12 - Style TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/XquBifl.jpg",VTVcab12 Style TV
 rtp://@232.84.1.244:9438
-#EXTINF:196 tvg-name="VTVCab15 - M Channel" group-title="VTVcab" tvg-logo="https://i.imgur.com/dEzdry4.jpg",ON Music
+#EXTINF:196 tvg-name="VTVCab15 - M Channel" group-title="VTVcab" tvg-logo="https://i.imgur.com/UxE6sLX.jpg",ON Music
 rtp://@232.84.2.192:10936
 #EXTINF:38 tvg-name="VTVCab16 - ON Football" group-title="VTVcab" tvg-logo="https://i.imgur.com/BdZ2IRC.jpg",ON Football
 rtp://@232.84.1.138:8802
@@ -149,11 +149,11 @@ rtp://@232.84.1.215:9264
 #EXTINF:90 tvg-name="VOVTV" group-title="VTC" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
 rtp://@232.84.1.46:8256
 #------------------------HTV/HTVC------------------------#
-#EXTINF:93 tvg-name="HTV2" group-title="HTV/HTVC" tvg-logo="https://imgur.com/aFUOlhc.jpg",HTV2 Vie Channel (HD 5Mbps)
+#EXTINF:93 tvg-name="HTV2" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/aFUOlhc.jpg",HTV2 Vie Channel (HD 5Mbps)
 rtp://@232.84.2.182:9306
-#EXTINF:94 tvg-name="HTV7" group-title="HTV/HTVC" tvg-logo="https://imgur.com/6iugioT.jpg",HTV7 HD (HD 8Mbps)
+#EXTINF:94 tvg-name="HTV7" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/6iugioT.jpg",HTV7 HD (HD 8Mbps)
 rtp://@232.84.1.223:9312
-#EXTINF:95 tvg-name="HTV9" group-title="HTV/HTVC" tvg-logo="https://imgur.com/KnpPVUB.jpg",HTV9 HD (HD 8Mbps)
+#EXTINF:95 tvg-name="HTV9" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KnpPVUB.jpg",HTV9 HD (HD 8Mbps)
 rtp://@232.84.1.224:9318
 #EXTINF:15 tvg-name="HTV Thể Thao" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV Thể Thao (HD 7.5Mbps)
 rtp://@232.84.3.88:11524
@@ -165,11 +165,11 @@ rtp://@232.84.3.118:9594
 rtp://@232.84.2.134:9600
 #EXTINF:168 tvg-name="HTVC Plus" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC+ (HD 4.5Mbps)
 rtp://@232.84.3.245:11392
-#EXTINF:10 tvg-name="HTV1" group-title="HTV/HTVC" tvg-logo="https://imgur.com/XaaTCtg.jpg",HTV1
+#EXTINF:10 tvg-name="HTV1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XaaTCtg.jpg",HTV1
 rtp://@232.84.1.35:8184
-#EXTINF:-1 tvg-name="HTV2" group-title="HTV/HTVC" tvg-logo="https://imgur.com/aFUOlhc.jpg",HTV2 Vie Channel
+#EXTINF:-1 tvg-name="HTV2" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/aFUOlhc.jpg",HTV2 Vie Channel
 rtp://@232.84.1.36:8190
-#EXTINF:87 tvg-name="HTV3" group-title="HTV/HTVC" tvg-logo="https://imgur.com/fd4tJg2.jpg",HTV3
+#EXTINF:87 tvg-name="HTV3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/aHRi2p9.jpg",HTV3
 rtp://@232.84.1.104:8598
 #EXTINF:14 tvg-name="HTV4" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/Qe0DqXp.jpg",HTV Keys
 rtp://@232.84.1.25:8124
