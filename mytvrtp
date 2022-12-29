@@ -22,6 +22,8 @@ rtp://@232.84.2.34:10612
 rtp://@232.84.3.104:10612
 #EXTINF:69 tvg-name="VTV9 HD" group-title="VTV" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",VTV9 (HD 8.5Mbps)
 rtp://@232.84.2.35:10618
+#EXTINF:106 tvg-name="VTV5 Tây Nam Bộ HD" group-title="VTV" tvg-logo="https://i.imgur.com/fCpZa6a.png",VTV5 Tây Nam Bộ (HD 9Mbps)
+rtp://@232.84.3.86:11542
 #EXTINF:1 tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 (HD 6.5Mbps)
 rtp://@232.84.3.247:11404
 #EXTINF:2 tvg-name="VTV2 HD" group-title="VTV" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 (HD 6.5Mbps)
@@ -52,6 +54,8 @@ rtp://@232.84.2.201:10990
 rtp://@232.84.1.148:8862
 #EXTINF:-1 tvg-name="VTV9 HD" group-title="VTV" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",VTV9
 rtp://@232.84.1.241:9420
+#EXTINF:-1 tvg-name="VTV5 Tây Nam Bộ HD" group-title="VTV" tvg-logo="https://i.imgur.com/fCpZa6a.png",VTV5 Tây Nam Bộ
+rtp://@232.84.3.85:11536
 #------------------------VTVcab------------------------#
 #EXTINF:37 tvg-name="ON Sports HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/kKd3Ssh.jpg",ON Sports HD (HD 8.5Mbps)
 rtp://@232.84.1.207:9216
@@ -617,6 +621,8 @@ rtp://@232.84.2.128:8352
 rtp://@232.84.3.191:11068
 #EXTINF:-1 tvg-name="" group-title="Quốc Tế (SD)" tvg-logo="",Phoenix Infonews
 rtp://@232.84.3.190:11062
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",POCCNR PTP
+rtp://@232.84.2.127:8544
 #EXTINF:-1 tvg-name="" group-title="Quốc Tế (SD)" tvg-logo="",Rai Italia
 rtp://@232.84.2.124:8358
 #EXTINF:-1 tvg-name="" group-title="Quốc Tế (SD)" tvg-logo="",Russia Today
@@ -662,8 +668,6 @@ rtp://@232.84.1.238:10296
 rtp://@232.84.2.56:10546
 #EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Feed Quốc Hội
 rtp://@232.84.3.1:10278
-#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",POCCNR PTP
-rtp://@232.84.2.127:8544
 #EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Unknown
 rtp://@232.84.2.197:10966
 #EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Unknown
