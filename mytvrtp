@@ -215,7 +215,9 @@ rtp://@232.84.1.228:9342
 #EXTINF:-1 tvg-name="VNews" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS
 rtp://@232.84.1.52:8292
 #------------------------Other------------------------#
-#EXTINF:92 tvg-name="HITV" group-title="Other Channel" tvg-logo="https://i.imgur.com/v08VbZS.png",HCATV1 HiTV
+#EXTINF:92 tvg-name="HITV" group-title="Other Channel" tvg-logo="https://i.imgur.com/v08VbZS.png",HCATV1 HiTV HD (HD 8Mbps)
+rtp://@232.84.3.84:11548
+#EXTINF:-1 tvg-name="HITV" group-title="Other Channel" tvg-logo="https://i.imgur.com/v08VbZS.png",HCATV1 HiTV
 rtp://@232.84.1.55:8310
 #------------------------Địa phương (HD)------------------------#
 #EXTINF:211 tvg-name="Yên Bái" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6tey10m.png",YTV HD _ TH Yên Bái (HD 6Mbps)
