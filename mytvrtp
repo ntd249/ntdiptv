@@ -165,7 +165,7 @@ rtp://@232.84.3.88:11524
 rtp://@232.84.2.133:9594
 #EXTINF:77 tvg-name="HTVC Phim" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/pNG3Fri.png",HTVC Phim (HD 4.5Mbps)
 rtp://@232.84.3.118:9594
-#EXTINF:74 tvg-name="HTVC Thuần Việt HD" group-title="HTV/HTVC" tvg-logo="https://imgur.com/Y1dU8EG.jpg",Thuần Việt HD (HD 4Mbps)
+#EXTINF:74 tvg-name="HTVC Thuần Việt HD" group-title="HTV/HTVC" tvg-logo="https://imgur.com/LFL1x49.jpg",HTVC Thuần Việt (HD 4Mbps)
 rtp://@232.84.2.134:9600
 #EXTINF:168 tvg-name="HTVC Plus" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC+ (HD 4.5Mbps)
 rtp://@232.84.3.245:11392
@@ -215,14 +215,8 @@ rtp://@232.84.1.228:9342
 #EXTINF:-1 tvg-name="VNews" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS
 rtp://@232.84.1.52:8292
 #------------------------Other------------------------#
-#EXTINF:79 tvg-name="MTV" group-title="Other Channel" tvg-logo="https://i.imgur.com/qE1q70A.jpg",MTV (HD 7Mbps)
-rtp://@232.84.2.171:10834
-#EXTINF:79 tvg-name="MTV" group-title="Other Channel" tvg-logo="https://i.imgur.com/qE1q70A.jpg",MTV (HD 7Mbps)
-rtp://@232.84.3.107:10834
 #EXTINF:92 tvg-name="HITV" group-title="Other Channel" tvg-logo="https://i.imgur.com/v08VbZS.png",HCATV1 HiTV
 rtp://@232.84.1.55:8310
-#EXTINF:-1 tvg-name="MTV" group-title="Other Channel" tvg-logo="https://i.imgur.com/qE1q70A.jpg",MTV
-rtp://@232.84.1.82:8466
 #------------------------Địa phương (HD)------------------------#
 #EXTINF:211 tvg-name="Yên Bái" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6tey10m.png",YTV HD _ TH Yên Bái (HD 6Mbps)
 rtp://@232.84.3.253:11440
@@ -246,8 +240,10 @@ rtp://@232.84.1.248:10978
 rtp://@232.84.1.249:10984
 #EXTINF:992 tvg-name="Bắc Ninh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/t2s5M6k.png",BTV _ TH Bắc Ninh (HD 6Mbps)
 rtp://@232.84.2.245:10506
-#EXTINF:190 tvg-name="Hà Nội 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/tMHmrZz.jpg",H1 HD _ TH Hà Nội (HD 2.5Mbps)
+#EXTINF:190 tvg-name="Hà Nội 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/tMHmrZz.jpg",H1 HD _ TH Hà Nội (HD 3.5Mbps)
 rtp://@232.84.3.143:10738
+#EXTINF:193 tvg-name="Hà Nội 2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/9lscH4N.jpg",H2 HD _ TH Hà Nội (HD 3.5Mbps)
+rtp://@232.84.3.137:10744
 #EXTINF:159 tvg-name="Hải Phòng" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/HZluJKB.png",THP HD _ TH TP. Hải Phòng (HD 6Mbps)
 rtp://@232.84.3.142:10780
 #EXTINF:892 tvg-name="Hưng Yên" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/rIV7Na3.png",HY HD _ TH Hưng Yên (HD 6Mbps)
@@ -331,6 +327,8 @@ rtp://@232.84.1.133:8772
 rtp://@232.84.2.82:8916
 #EXTINF:-1 tvg-name="Hà Nội 1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/tMHmrZz.jpg",H1 _ TH Hà Nội
 rtp://@232.84.1.29:8148
+#EXTINF:-1 tvg-name="Hà Nội 2" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/9lscH4N.jpg",H2 _ TH Hà Nội
+rtp://@232.84.1.23:8112
 #EXTINF:341 tvg-name="Hải Dương" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/2yykcKF.png",THD _ TH Hải Dương
 rtp://@232.84.2.79:8928
 #EXTINF:341 tvg-name="Hải Dương" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/2yykcKF.png",THD _ TH Hải Dương
@@ -537,8 +535,6 @@ rtp://@232.84.2.244:10482
 rtp://@232.84.3.131:10482
 #EXTINF:-1 tvg-name="AXN" group-title="Quốc Tế (SD)" tvg-logo="",AXN
 rtp://@232.84.1.14:8058
-#EXTINF:-1 tvg-name="Baby First" group-title="Quốc Tế (SD)" tvg-logo="",Baby First
-rtp://@232.84.3.221:11248
 #EXTINF:-1 tvg-name="CBeebies" group-title="Quốc Tế (SD)" tvg-logo="",BBC CBeeBies
 rtp://@232.84.3.200:11122
 #EXTINF:-1 tvg-name="BBC News" group-title="Quốc Tế (SD)" tvg-logo="",BBC WORLD NEWS
@@ -677,11 +673,15 @@ rtp://@232.84.3.194:11086
 #EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Unknown 
 rtp://@232.84.3.210:11182
 #EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Unknown 
-rtp://@232.84.3.137:10744
-#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Unknown 
-rtp://@232.84.1.23:8112
-#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Unknown 
 rtp://@232.84.3.135:10476
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Unknown
+rtp://@232.84.2.171:10834
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Unknown
+rtp://@232.84.3.107:10834
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Unknown
+rtp://@232.84.1.82:8466
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Unknown
+rtp://@232.84.3.221:11248
 #EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",Vĩnh Long 1 (Test)
 rtp://@232.84.3.212:11194
 #EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",ON Sports (Test)
