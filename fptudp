@@ -32,8 +32,6 @@ udp://@225.1.4.4:30120
 udp://@225.1.4.5:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/ATJwYik.jpg",VTV Cần Thơ (HD 4Mbps)
 udp://@225.1.4.108:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",VTV7 (HD 4Mbps)
-udp://@225.1.4.10:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7pgnEzG.jpg",VTV8 (HD 4Mbps)
 udp://@225.1.4.7:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",VTV9 (HD 4Mbps)
@@ -71,8 +69,6 @@ udp://@225.1.2.193:30120
 udp://@225.1.2.51:30120
 #EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
 udp://@225.1.2.171:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD (HD 4Mbps)
-udp://@225.1.4.94:30120
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD (HD 4Mbps)
 udp://@225.1.4.42:30120
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD (HD 4Mbps)
@@ -129,7 +125,7 @@ udp://@225.1.4.60:30120
 #EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/mvQ37T0.jpg",HTVC Du Lịch và Cuộc Sống (HD 4Mbps)
 udp://@225.1.4.67:30120
 #EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/pQYcNMU.jpg",HTVC Ca Nhạc (HD 4Mbps)
-udp://@225.1.4.92:30120
+udp://@225.1.4.223:30120
 #EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/tDOkgfV.jpg",HTVC Gia Đình (HD 4Mbps)
 udp://@225.1.4.64:30120
 #EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/diEuUuw.jpg",HTVC Phụ Nữ (HD 4Mbps)
@@ -144,7 +140,7 @@ udp://@225.1.4.91:30120
 #EXTINF:-1 group-title="SCTV",SCTV6 (HD 8Mbps)
 udp://@225.1.1.188:30120
 #EXTINF:-1 group-title="SCTV",SCTV6 (HD 4Mbps)
-udp://@225.1.4.70:30120
+udp://@225.1.4.211:30120
 #-------------------Thiết yếu-------------------#
 #EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV HD (HD 8Mbps)
 udp://@225.1.2.169:30120
@@ -157,7 +153,7 @@ udp://@225.1.2.217:30120
 #EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS (HD 8Mbps)
 udp://@225.1.1.167:30120
 #EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV HD (HD 4Mbps)
-udp://@225.1.4.97:30120
+udp://@225.1.4.221:30120
 #EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/kzrCtPg.jpg",Nhân Dân TV (HD 4Mbps)
 udp://@225.1.4.98:30120
 #EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/713vQig.jpg",Quốc Hội HD (HD 4Mbps)
@@ -165,7 +161,7 @@ udp://@225.1.4.148:30120
 #EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN (HD 4Mbps)
 udp://@225.1.4.170:30120
 #EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS (HD 4Mbps)
-udp://@225.1.4.95:30120
+udp://@225.1.4.219:30120
 #-------------------Other-------------------#
 #EXTINF:-1 group-title="Other",HCATV2 YouTV
 udp://@225.1.1.207:30120
@@ -188,7 +184,7 @@ udp://@225.1.2.188:30120
 udp://@225.1.2.179:30120
 #EXTINF:-1 group-title="Địa phương (HD)",PTV HD _ TH Phú Thọ (HD 8Mbps)
 udp://@225.1.2.165:30120
-#EXTINF:-1 group-title="Địa phương (HD)",BGTV HD _ TH Bắc Giang (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",BGTV _ TH Bắc Giang (HD 8Mbps)
 udp://@225.1.1.164:30120
 #EXTINF:-1 group-title="Địa phương (HD)",LSTV HD _ TH Lạng Sơn (HD 8Mbps)
 udp://@225.1.1.160:30120
@@ -323,7 +319,7 @@ udp://@225.1.4.173:30120
 #EXTINF:-1 group-title="Địa phương (HD)",TBK HD _ TH Bắc Kạn
 udp://@225.1.4.174:30120
 #EXTINF:-1 group-title="Địa phương (HD)",THVL1 HD _ TH Vĩnh Long (HD 4Mbps)
-udp://@225.1.4.12:30120
+udp://@225.1.4.202:30120
 #EXTINF:-1 group-title="Địa phương (HD)",THVL2 HD _ TH Vĩnh Long (HD 4Mbps)
 udp://@225.1.4.87:30120
 #EXTINF:-1 group-title="Địa phương (HD)",THVL3 HD _ TH Vĩnh Long (HD 4Mbps)
@@ -408,13 +404,15 @@ udp://@225.1.1.227:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",ABC AUSTRALIA (HD 4Mbps)
 udp://@225.1.4.19:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",Animal Planet (HD 4Mbps)
-udp://@225.1.4.27:30120
+udp://@225.1.4.209:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",Animax HD (HD 4Mbps)
 udp://@225.1.4.168:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",Asian Food Network (HD 4Mbps)
 udp://@225.1.4.36:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",AXN (HD 4Mbps)
 udp://@225.1.4.9:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",BabyTV (HD 4Mbps)
+udp://@225.1.4.207:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",BBC CBeeBies (HD 4Mbps)
 udp://@225.1.4.29:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",BBC earth HD (HD 4Mbps)
@@ -436,13 +434,13 @@ udp://@225.1.4.13:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",Cinema World (HD 4Mbps)
 udp://@225.1.4.15:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",CINEMAX HD (HD 4Mbps)
-udp://@225.1.4.33:30120
+udp://@225.1.4.205:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",CNA (HD 4Mbps)
 udp://@225.1.4.76:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",CNN (HD 4Mbps)
 udp://@225.1.4.17:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",Da Vinci (HD 4Mbps)
-udp://@225.1.4.38:30120
+udp://@225.1.4.208:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",Discovery Asia (HD 4Mbps)
 udp://@225.1.4.25:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",Discovery Channel (HD 4Mbps)
@@ -454,25 +452,25 @@ udp://@225.1.4.75:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",FASHION TV HD (HD 4Mbps)
 udp://@225.1.4.20:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",FRANCE 24 (HD 4Mbps)
-udp://@225.1.4.71:30120
+udp://@225.1.4.212:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",HBO (HD 4Mbps)
 udp://@225.1.4.90:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",KBS WORLD (HD 4Mbps)
-udp://@225.1.4.69:30120
+udp://@225.1.4.214:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",KIX (HD 4Mbps)
 udp://@225.1.4.40:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
-udp://@225.1.4.31:30120
+udp://@225.1.4.215:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",NAT GEO WILD HD (HD 4Mbps)
 udp://@225.1.4.83:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",NHK WORLD JAPAN (HD 4Mbps)
 udp://@225.1.4.73:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",Outdoor Channel (HD 4Mbps)
-udp://@225.1.4.37:30120
+udp://@225.1.4.210:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",TLC (HD 4Mbps)
 udp://@225.1.4.26:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",TV5 MONDE ASIE (HD 4Mbps)
-udp://@225.1.4.72:30120
+udp://@225.1.4.213:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",WBTV HD (HD 4Mbps)
 udp://@225.1.4.14:30120
 #-------------------FPT Play-------------------#
@@ -511,23 +509,23 @@ udp://@225.1.4.85:30120
 #EXTINF:-1 group-title="FPT Play",arirang KOREA
 udp://@225.1.4.74:30120
 #EXTINF:-1 group-title="FPT Play",H1 _ TH Hà Nội
-udp://@225.1.4.30:30120
+udp://@225.1.4.203:30120
 #EXTINF:-1 group-title="FPT Play",GS Shop
-udp://@225.1.4.32:30120
+udp://@225.1.4.204:30120
 #EXTINF:-1 group-title="FPT Play",BTV6
-udp://@225.1.4.34:30120
+udp://@225.1.4.206:30120
 #EXTINF:-1 group-title="FPT Play",VTC12
 udp://@225.1.4.51:30120
 #EXTINF:-1 group-title="FPT Play",CNBC
 udp://@225.1.4.77:30120
-#EXTINF:-1 group-title="FPT Play",THVL2 HD
-udp://@225.1.4.93:30120
+#EXTINF:-1 group-title="FPT Play",THVL4 HD
+udp://@225.1.4.217:30120
 #EXTINF:-1 group-title="FPT Play",VOV TV
-udp://@225.1.4.96:30120
+udp://@225.1.4.220:30120
 #EXTINF:-1 group-title="FPT Play",BTV9 An Viên HD
 udp://@225.1.4.99:30120
 #EXTINF:-1 group-title="FPT Play",YouTV
-udp://@225.1.4.100:30120
+udp://@225.1.4.222:30120
 #EXTINF:-1 group-title="FPT Play",Bạc Liêu HD
 udp://@225.1.4.109:30120
 #EXTINF:-1 group-title="FPT Play",Bắc Ninh HD
@@ -658,13 +656,9 @@ udp://@225.1.2.244:30120
 #EXTINF:-1 group-title="FPT Service",Event
 udp://@225.1.1.27:30120
 #EXTINF:-1 group-title="FPT Service",Event
-udp://@225.1.1.31:30120
+udp://@225.1.1.28:30120
 #EXTINF:-1 group-title="FPT Service",Event
-udp://@225.1.1.35:30120
-#EXTINF:-1 group-title="FPT Service",Event
-udp://@225.1.1.97:30120
-#EXTINF:-1 group-title="FPT Service",Cartoon Network HD
-udp://@225.1.1.53:30120
+udp://@225.1.1.30:30120
 #EXTINF:-1 group-title="FPT Service",VTV3 HD
 udp://@225.1.1.65:30120
 #EXTINF:-1 group-title="FPT Service",VTV3 HD
@@ -885,6 +879,8 @@ udp://@225.1.3.98:30120
 udp://@225.1.3.99:30120
 #EXTINF:-1 group-title="Test udp 3",Cà Mau HD
 udp://@225.1.3.100:30120
+#EXTINF:-1 group-title="Test udp 3",VTV5 Tây Nam Bộ HD
+udp://@225.1.3.137:30120
 #-------------------FPT Advertisement-------------------#
 #EXTINF:-1 group-title="FPT Advertisement",Dolife Hospital
 udp://@225.1.1.127:30120
