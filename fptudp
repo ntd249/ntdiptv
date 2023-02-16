@@ -104,7 +104,7 @@ udp://@225.1.1.184:30120
 udp://@225.1.1.171:30120
 #EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://imgur.com/LFL1x49.jpg",HTVC Thuần Việt (HD 8Mbps)
 udp://@225.1.1.174:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://imgur.com/Y1dU8EG.jpg",Thuần Việt HD (HD 8Mbps)
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://imgur.com/LFL1x49.jpg",HTVC Thuần Việt (HD 8Mbps)
 udp://@225.1.1.186:30120
 #EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC+ (HD 8Mbps)
 udp://@225.1.1.181:30120
@@ -132,7 +132,7 @@ udp://@225.1.4.64:30120
 udp://@225.1.4.66:30120
 #EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://imgur.com/LFL1x49.jpg",HTVC Thuần Việt (HD 4Mbps)
 udp://@225.1.4.61:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://imgur.com/Y1dU8EG.jpg",Thuần Việt HD (HD 4Mbps)
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://imgur.com/LFL1x49.jpg",HTVC Thuần Việt (HD 4Mbps)
 udp://@225.1.4.62:30120
 #EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC+ (HD 4Mbps)
 udp://@225.1.4.91:30120
@@ -176,7 +176,7 @@ udp://@225.1.1.74:30120
 udp://@225.1.2.168:30120
 #EXTINF:-1 group-title="Địa phương (HD)",LTV HD _ TH Lai Châu (HD 8Mbps)
 udp://@225.1.2.36:30120
-#EXTINF:-1 group-title="Địa phương (HD)",HGTV HD _ TH Hà Giang (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",HGTV _ TH Hà Giang (HD 8Mbps)
 udp://@225.1.1.62:30120
 #EXTINF:-1 group-title="Địa phương (HD)",TTV HD _ TH Tuyên Quang (HD 8Mbps)
 udp://@225.1.2.188:30120
@@ -202,7 +202,7 @@ udp://@225.1.2.186:30120
 udp://@225.1.1.44:30120
 #EXTINF:-1 group-title="Địa phương (HD)",NTV HD _ TH Ninh Bình (HD 8Mbps)
 udp://@225.1.2.185:30120
-#EXTINF:-1 group-title="Địa phương (HD)",TBTV HD _ TH Thái Bình (HD 4Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",TBTV HD _ TH Thái Bình (HD 8Mbps)
 udp://@225.1.1.99:30120
 #EXTINF:-1 group-title="Địa phương (HD)",VP HD _ TH Vĩnh Phúc (HD 8Mbps)
 udp://@225.1.2.99:30120
@@ -244,7 +244,7 @@ udp://@225.1.1.149:30120
 udp://@225.1.2.22:30120
 #EXTINF:-1 group-title="Địa phương (HD)",BTV4 HD _ TH Bình Dương (HD 8Mbps)
 udp://@225.1.1.29:30120
-#EXTINF:-1 group-title="Địa phương (HD)",BTV9 An Viên HD (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",BTV9 (HD 8Mbps)
 udp://@225.1.2.189:30120
 #EXTINF:-1 group-title="Địa phương (HD)",ĐNRTV1 HD _ TH Đồng Nai (HD 8Mbps)
 udp://@225.1.1.152:30120
@@ -256,7 +256,7 @@ udp://@225.1.1.130:30120
 udp://@225.1.2.175:30120
 #EXTINF:-1 group-title="Địa phương (HD)",THĐT1 HD _ TH Đồng Tháp (HD 8Mbps)
 udp://@225.1.1.163:30120
-#EXTINF:-1 group-title="Địa phương (HD)",THĐT2 Miền Tây (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",THĐT2 Miền Tây _ TH Đồng Tháp (HD 8Mbps)
 udp://@225.1.1.210:30120
 #EXTINF:-1 group-title="Địa phương (HD)",THTG HD _ TH Tiền Giang (HD 8Mbps)
 udp://@225.1.2.170:30120
