@@ -658,7 +658,7 @@ udp://@225.1.1.27:30120
 #EXTINF:-1 group-title="FPT Service",Event
 udp://@225.1.1.28:30120
 #EXTINF:-1 group-title="FPT Service",Event
-udp://@225.1.1.30:30120
+udp://@225.1.1.31:30120
 #EXTINF:-1 group-title="FPT Service",VTV3 HD
 udp://@225.1.1.65:30120
 #EXTINF:-1 group-title="FPT Service",VTV3 HD
