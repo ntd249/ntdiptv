@@ -200,6 +200,8 @@ udp://@225.1.1.40:30120
 udp://@225.1.2.186:30120
 #EXTINF:-1 group-title="Địa phương (HD)",THP HD _ TH TP. Hải Phòng (HD 8Mbps)
 udp://@225.1.1.44:30120
+#EXTINF:-1 group-title="Địa phương (HD)",THP+ HD _ TH TP. Hải Phòng (HD 8Mbps)
+udp://@225.1.1.113:30120
 #EXTINF:-1 group-title="Địa phương (HD)",NTV HD _ TH Ninh Bình (HD 8Mbps)
 udp://@225.1.2.185:30120
 #EXTINF:-1 group-title="Địa phương (HD)",TBTV HD _ TH Thái Bình (HD 8Mbps)
@@ -654,11 +656,13 @@ udp://@225.1.4.200:30120
 #EXTINF:-1 group-title="FPT Service",Pladio
 udp://@225.1.2.244:30120
 #EXTINF:-1 group-title="FPT Service",Event
+udp://@225.1.1.12:30120
+#EXTINF:-1 group-title="FPT Service",Event
 udp://@225.1.1.27:30120
 #EXTINF:-1 group-title="FPT Service",Event
 udp://@225.1.1.28:30120
 #EXTINF:-1 group-title="FPT Service",Event
-udp://@225.1.1.31:30120
+udp://@225.1.1.33:30120
 #EXTINF:-1 group-title="FPT Service",VTV3 HD
 udp://@225.1.1.65:30120
 #EXTINF:-1 group-title="FPT Service",VTV3 HD
