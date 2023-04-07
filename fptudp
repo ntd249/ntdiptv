@@ -383,6 +383,8 @@ udp://@225.1.1.196:30120
 udp://@225.1.2.144:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
 udp://@225.1.2.235:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",NAT GEO WILD (HD 8Mbps)
+udp://@225.1.1.211:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",NHK WORLD JAPAN (HD 8Mbps)
 udp://@225.1.1.47:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",Outdoor Channel (HD 8Mbps)
@@ -455,6 +457,8 @@ udp://@225.1.4.214:30120
 udp://@225.1.4.40:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
 udp://@225.1.4.215:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",NAT GEO WILD HD (HD 4Mbps)
+udp://@225.1.4.83:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",NHK WORLD JAPAN (HD 4Mbps)
 udp://@225.1.4.73:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",Outdoor Channel (HD 4Mbps)
@@ -741,6 +745,8 @@ udp://@225.1.3.30:30120
 udp://@225.1.3.31:30120
 #EXTINF:-1 group-title="Test udp 3",Baby TV HD
 udp://@225.1.3.32:30120
+#EXTINF:-1 group-title="Test udp 3",Nat Geo Wild HD
+udp://@225.1.3.33:30120
 #EXTINF:-1 group-title="Test udp 3",SCTV6 HD
 udp://@225.1.3.34:30120
 #EXTINF:-1 group-title="Test udp 3",VTC7
