@@ -646,27 +646,31 @@ udp://@225.1.4.172:30120
 #EXTINF:-1 group-title="FPT Service",FPT Giới Thiệu Chương Trình
 udp://@225.1.1.2:30120
 #EXTINF:-1 group-title="FPT Service",FPT Play Giới thiệu chương trình
+udp://@225.1.4.199:30120
+#EXTINF:-1 group-title="FPT Service",FPT Play Giới thiệu chương trình
 udp://@225.1.4.200:30120
 #EXTINF:-1 group-title="FPT Service",Pladio
 udp://@225.1.2.244:30120
 #EXTINF:-1 group-title="FPT Service",Event
-#udp://@225.1.1.12:30120
+udp://@225.1.1.10:30120
 #EXTINF:-1 group-title="FPT Service",Event
-#udp://@225.1.1.27:30120
+udp://@225.1.1.12:30120
 #EXTINF:-1 group-title="FPT Service",Event
-#udp://@225.1.1.28:30120
+udp://@225.1.1.15:30120
 #EXTINF:-1 group-title="FPT Service",Event
-#udp://@225.1.1.34:30120
+udp://@225.1.1.27:30120
 #EXTINF:-1 group-title="FPT Service",Event
-#udp://@225.1.1.97:30120
+udp://@225.1.1.28:30120
+#EXTINF:-1 group-title="FPT Service",Event
+udp://@225.1.1.31:30120
+#EXTINF:-1 group-title="FPT Service",Event
+udp://@225.1.1.68:30120
 #EXTINF:-1 group-title="FPT Service",VTV3 HD
 udp://@225.1.1.65:30120
 #EXTINF:-1 group-title="FPT Service",VTV3 HD
 udp://@225.1.2.229:30120
 #EXTINF:-1 group-title="FPT Service",VTV3 HD
 udp://@225.1.2.230:30120
-#EXTINF:-1 group-title="FPT Service",unknown
-udp://@225.1.4.199:30120
 #-------------------Test udp 2-------------------#
 #EXTINF:-1 group-title="Test udp 2",BBC CBeeBies HD
 udp://@225.1.2.39:30120
