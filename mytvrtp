@@ -475,7 +475,7 @@ rtp://@232.84.1.90:10398
 rtp://@232.84.3.226:11278
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",BBC Lifestyle (HD 9Mbps)
 rtp://@232.84.3.225:11272
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",BBC World News (HD 9Mbps)
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",BBC News (HD 9Mbps)
 rtp://@232.84.3.224:11266
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Bloomberg (HD 9Mbps)
 rtp://@232.84.3.157:10696
