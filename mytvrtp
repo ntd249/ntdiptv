@@ -560,7 +560,7 @@ rtp://@232.84.3.131:10482
 rtp://@232.84.1.14:8058
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",BBC CBeeBies
 rtp://@232.84.3.200:11122
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",BBC NEWS
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",BBC News
 rtp://@232.84.2.239:10452
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Bloomberg
 rtp://@232.84.1.7:8016
