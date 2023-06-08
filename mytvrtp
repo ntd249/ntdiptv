@@ -101,7 +101,15 @@ rtp://@232.84.1.245:10344
 rtp://@232.84.1.143:8832
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/mIeWnYi.jpg",VTVcab19 Vie Dramas
 rtp://@232.84.1.169:8988
-#------------------------K+SD------------------------#
+#------------------------K+------------------------#
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/QYVgR3y.jpg",K+ Cine (HD 9Mbps)
+rtp://@232.84.1.122:10314
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/E54DrD2.jpg",K+ Life (HD 9Mbps)
+rtp://@232.84.1.123:10320
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/nSbs15R.jpg",K+ Sport 1 (HD 9Mbps)
+rtp://@232.84.1.125:10326
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/pVEfe6D.jpg",K+ Sport 2 (HD 9Mbps)
+rtp://@232.84.1.176:10374
 #EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/QYVgR3y.jpg",K+ Cine
 rtp://@232.84.1.96:8550
 #EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/E54DrD2.jpg",K+ Life
@@ -285,7 +293,7 @@ rtp://@232.84.3.99:11464
 rtp://@232.84.3.109:10750
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/dG7w5h6.png",BTV4 HD _ TH Bình Dương (HD 6Mbps)
 rtp://@232.84.2.156:10756
-#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/TwCBAd3.png",BTV9 (HD 8.5Mbps)
+#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/TwCBAd3.png",BTV9 B Channel (HD 8.5Mbps)
 rtp://@232.84.3.199:11116
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/zUKKdCf.png",ĐNRTV1 HD _ TH Đồng Nai (HD 6Mbps)
 rtp://@232.84.3.112:10762
@@ -334,8 +342,6 @@ rtp://@232.84.2.107:8646
 rtp://@232.84.2.91:9138
 #EXTINF:0 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/NmObKjO.png",TN1 _ TH Thái Nguyên
 rtp://@232.84.2.87:9096
-#EXTINF:0 group-title="Địa Phương (SD)" tvg-logo="https://imgur.com/v45geuK.png",TN2 _ TH Thái Nguyên
-rtp://@232.84.3.123:9168
 #EXTINF:0 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/QFDB4wh.png",PTV _ TH Phú Thọ
 rtp://@232.84.2.95:9030
 #EXTINF:0 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/VIPvHmt.jpg",BGTV _ TH Bắc Giang
@@ -696,8 +702,6 @@ rtp://@232.84.3.201:11128
 #EXTINF:0 group-title="MyTV Service" tvg-logo="",Unknown
 rtp://@232.84.3.194:11086
 #EXTINF:0 group-title="MyTV Service" tvg-logo="",Unknown 
-rtp://@232.84.3.210:11182
-#EXTINF:0 group-title="MyTV Service" tvg-logo="",Unknown 
 rtp://@232.84.3.135:10476
 #EXTINF:0 group-title="MyTV Service" tvg-logo="",Unknown
 rtp://@232.84.2.171:10834
@@ -721,11 +725,3 @@ rtp://@232.84.1.208:9222
 rtp://@232.84.1.193:9132
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/1p7Qi8i.jpg",ON Sports+ (DRM)
 rtp://@232.84.1.220:9294
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/QYVgR3y.jpg",K+ Cine HD (DRM)
-rtp://@232.84.1.122:10314
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/E54DrD2.jpg",K+ Life HD (DRM)
-rtp://@232.84.1.123:10320
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/nSbs15R.jpg",K+ Sport 1 HD (DRM)
-rtp://@232.84.1.125:10326
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/pVEfe6D.jpg",K+ Sport 2 HD (DRM)
-rtp://@232.84.1.176:10374
