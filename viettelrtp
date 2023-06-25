@@ -236,16 +236,16 @@ rtp://@239.12.251.253:5000
 rtp://@239.12.251.3:5000
 #EXTINF:0,MOSAIC
 rtp://@239.12.251.151:5000
-#EXTINF:0,Viettel Service
-rtp://@239.12.251.79:5000
 #EXTINF:0,Hướng Dẫn Dịch Vụ Viettel
 rtp://@239.12.251.150:5000
 #EXTINF:0,Hướng Dẫn Dịch Vụ Viettel
 rtp://@239.12.251.181:5000
 #EXTINF:0,Hướng Dẫn Dịch Vụ Viettel
 rtp://@239.12.252.36:5000
-#EXTINF:0,VIETTEL MUSIC
+#EXTINF:0,Hướng Dẫn Dịch Vụ Viettel
 rtp://@239.12.251.183:5000
+#EXTINF:0,Viettel Service
+rtp://@239.12.251.79:5000
 #------------------------Other------------------------#
 #EXTINF:0,An Ninh Thế Giới
 rtp://@239.12.252.23:5000
@@ -309,6 +309,8 @@ rtp://@239.1.0.152:5501
 rtp://@239.1.0.213:5501
 #EXTINF:0,ON V Family
 rtp://@239.1.0.41:5501
+#EXTINF:0,ON Kids
+rtp://@239.1.0.79:5501
 #EXTINF:0,ON Life
 rtp://@239.1.0.82:5501
 #EXTINF:0,VTVcab11
@@ -437,7 +439,7 @@ rtp://@239.1.0.36:5501
 rtp://@239.1.0.46:5501
 #EXTINF:0,NHK WORLD JAPAN
 rtp://@239.1.0.49:5501
-#EXTINF:0,CNN
+#EXTINF:0,TV5 Monde Asie
 rtp://@239.1.0.52:5501
 #EXTINF:0,KIX
 rtp://@239.1.0.66:5501
@@ -458,6 +460,10 @@ rtp://@239.1.0.177:5501
 #EXTINF:0,DW
 rtp://@239.1.0.241:5501
 
+#EXTINF:0,Trà Vinh HD
+rtp://@239.1.0.14:5501
+#EXTINF:0,Trà Vinh HD
+rtp://@239.1.0.230:5501
 #EXTINF:0,DAK LAK
 rtp://@239.1.0.16:5501
 #EXTINF:0,HẢI PHÒNG
@@ -561,18 +567,15 @@ rtp://@239.1.0.51:5501
 rtp://@239.1.0.114:5501
 #EXTINF:0,You TV
 rtp://@239.1.0.116:5501
+
 #EXTINF:0,Unknown
 rtp://@239.1.0.223:5501
 #EXTINF:0,Unknown
 rtp://@239.1.0.160:5501
 #EXTINF:0,Unknown
-rtp://@239.1.0.14:5501
-#EXTINF:0,Unknown
 rtp://@239.1.0.57:5501
 #EXTINF:0,Unknown
 rtp://@239.1.0.31:5501
-#EXTINF:0,Unknown
-rtp://@239.1.0.230:5501
 #EXTINF:0,Unknown
 rtp://@239.1.0.24:5501
 #EXTINF:0,Unknown
