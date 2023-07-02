@@ -654,30 +654,40 @@ udp://@225.1.1.2:30120
 udp://@225.1.4.199:30120
 #EXTINF:-1 group-title="FPT Service",FPT Play Giới thiệu chương trình
 udp://@225.1.4.200:30120
-#EXTINF:-1 group-title="FPT Service",Mosaic 1: VTV1
-udp://@225.1.1.21:30120
-#EXTINF:-1 group-title="FPT Service",Mosaic 2: VTV2
-udp://@225.1.1.22:30120
-#EXTINF:-1 group-title="FPT Service",Mosaic 3: VTV3
-udp://@225.1.1.23:30120
-#EXTINF:-1 group-title="FPT Service",Mosaic 4: VTV4
-udp://@225.1.1.24:30120
-#EXTINF:-1 group-title="FPT Service",Mosaic 5: VTV5
-udp://@225.1.1.25:30120
 #EXTINF:-1 group-title="FPT Service",Pladio
 udp://@225.1.2.244:30120
+#EXTINF:-1 group-title="FPT Service",Mosaic 1: Event
+udp://@225.1.1.21:30120
+#EXTINF:-1 group-title="FPT Service",Mosaic 2: Event
+udp://@225.1.1.22:30120
+#EXTINF:-1 group-title="FPT Service",Mosaic 3: Event
+udp://@225.1.1.23:30120
+#EXTINF:-1 group-title="FPT Service",Mosaic 4: Event
+udp://@225.1.1.24:30120
+#EXTINF:-1 group-title="FPT Service",Mosaic 5: Event
+udp://@225.1.1.25:30120
+#EXTINF:-1 group-title="FPT Service",Event
+udp://@225.1.1.10:30120
+#EXTINF:-1 group-title="FPT Service",Event
+udp://@225.1.1.12:30120
+#EXTINF:-1 group-title="FPT Service",Event
+udp://@225.1.1.15:30120
 #EXTINF:-1 group-title="FPT Service",Event
 udp://@225.1.1.27:30120
 #EXTINF:-1 group-title="FPT Service",Event
+udp://@225.1.1.28:30120
+#EXTINF:-1 group-title="FPT Service",Event
+udp://@225.1.1.30:30120
+#EXTINF:-1 group-title="FPT Service",Event
+udp://@225.1.1.31:30120
+#EXTINF:-1 group-title="FPT Service",Event
 udp://@225.1.1.33:30120
 #EXTINF:-1 group-title="FPT Service",Event
-udp://@225.1.1.34:30120
+udp://@225.1.1.69:30120
 #EXTINF:-1 group-title="FPT Service",Event
-udp://@225.1.1.72:30120
+udp://@225.1.1.100:30120
 #EXTINF:-1 group-title="FPT Service",Event
-udp://@225.1.1.92:30120
-#EXTINF:-1 group-title="FPT Service",Event
-udp://@225.1.1.94:30120
+udp://@225.1.1.101:30120
 #EXTINF:-1 group-title="FPT Service",VTV3 HD
 udp://@225.1.1.65:30120
 #EXTINF:-1 group-title="FPT Service",VTV3 HD
@@ -908,11 +918,11 @@ udp://@225.1.1.123:30120
 #EXTINF:-1 group-title="FPT Advertisement",The Ocean Resort
 udp://@225.1.1.121:30120
 #-------------------Mua sắm-------------------#
-#EXTINF:-1 group-title="Mua Sắm",VTVCab11 GS SHOP
+#EXTINF:-1 group-title="Mua Sắm",VTVcab11
 udp://@225.1.2.167:30120
-#EXTINF:-1 group-title="Mua Sắm",VTVCab13 VTV Hyundai Homeshopping
+#EXTINF:-1 group-title="Mua Sắm",VTVcab13
 udp://@225.1.1.122:30120
-#EXTINF:-1 group-title="Mua Sắm",VTVCab13 VTV Hyundai Homeshopping
+#EXTINF:-1 group-title="Mua Sắm",VTVcab13
 udp://@225.1.4.79:30120
 #EXTINF:-1 group-title="Mua Sắm",HTVC VGS SHOP
 udp://@225.1.1.172:30120
