@@ -58,15 +58,9 @@ rtp://@232.84.1.241:9420
 rtp://@232.84.3.85:11536
 #------------------------VTVcab------------------------#
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/kKd3Ssh.jpg",ON Sports HD (HD 8.5Mbps)
-rtp://@232.84.1.207:9216
-#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/kKd3Ssh.jpg",ON Sports HD (HD 8.5Mbps)
 rtp://@232.84.3.242:11374
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/BdZ2IRC.jpg",ON Football HD (HD 8.5Mbps)
-rtp://@232.84.1.210:9234
-#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/BdZ2IRC.jpg",ON Football HD (HD 8.5Mbps)
 rtp://@232.84.3.243:11380
-#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/jdCeaVC.jpg",ON Sports News (HD 8.5Mbps)
-rtp://@232.84.2.193:10942
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/cETq7Wv.jpg",ON Golf (HD 8.5Mbps)
 rtp://@232.84.3.244:11386
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/cETq7Wv.jpg",ON Golf (HD 8.5Mbps)
@@ -75,7 +69,7 @@ rtp://@232.84.3.91:11506
 rtp://@232.84.3.217:11224
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/eZf5gIz.jpg",ON Movies (HD 8.5Mbps)
 rtp://@232.84.2.190:10924
-#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/mIeWnYi.jpg",VTVcab19 Vie Dramas (HD 8.5Mbps)
+#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/mIeWnYi.jpg",VTVcab19 (HD 8.5Mbps)
 rtp://@232.84.3.218:11230
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/1doyHjp.jpg",ON BiBi
 rtp://@232.84.1.206:9210
@@ -97,27 +91,10 @@ rtp://@232.84.1.244:9438
 rtp://@232.84.1.217:9276
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/WsGJxtz.jpg",ON VFamily
 rtp://@232.84.1.245:10344
-#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/fVDS1c7.jpg",VTVcab1 Vie Giải Trí
+#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/fVDS1c7.jpg",VTVcab1
 rtp://@232.84.1.143:8832
-#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/mIeWnYi.jpg",VTVcab19 Vie Dramas
+#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/mIeWnYi.jpg",VTVcab19
 rtp://@232.84.1.169:8988
-#------------------------K+------------------------#
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/QYVgR3y.jpg",K+ Cine (HD 9Mbps)
-rtp://@232.84.1.122:10314
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/E54DrD2.jpg",K+ Life (HD 9Mbps)
-rtp://@232.84.1.123:10320
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/nSbs15R.jpg",K+ Sport 1 (HD 9Mbps)
-rtp://@232.84.1.125:10326
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/pVEfe6D.jpg",K+ Sport 2 (HD 9Mbps)
-rtp://@232.84.1.176:10374
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/QYVgR3y.jpg",K+ Cine
-rtp://@232.84.1.96:8550
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/E54DrD2.jpg",K+ Life
-rtp://@232.84.1.97:8556
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/nSbs15R.jpg",K+ Sport 1
-rtp://@232.84.1.98:8562
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/pVEfe6D.jpg",K+ Sport 2
-rtp://@232.84.1.131:10368
 #------------------------VTC------------------------#
 #EXTINF:0 group-title="VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD (HD 8.5Mbps)
 rtp://@232.84.2.173:10846
@@ -223,13 +200,13 @@ rtp://@232.84.1.22:8106
 #EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC+
 rtp://@232.84.1.32:8166
 #------------------------Thiết Yếu------------------------#
-#EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/kzrCtPg.jpg",Nhân Dân TV (HD 8.5Mbps)
+#EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/kzrCtPg.jpg",Nhân Dân TV (HD 7Mbps)
 rtp://@232.84.3.124:10822
-#EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/xZMKyrn.jpg",Quốc Hội HD (HD 8.5Mbps)
+#EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/xZMKyrn.jpg",Quốc Hội HD (HD 6.5Mbps)
 rtp://@232.84.1.234:10290
-#EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/xZMKyrn.jpg",Quốc Hội HD (HD 8.5Mbps)
+#EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/xZMKyrn.jpg",Quốc Hội HD (HD 6.5Mbps)
 rtp://@232.84.2.181:10290
-#EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN (HD 8.5Mbps)
+#EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN (HD 6Mbps)
 rtp://@232.84.3.127:10816
 #EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS (HD 8.5Mbps)
 rtp://@232.84.3.125:10434
@@ -269,7 +246,7 @@ rtp://@232.84.1.249:10984
 rtp://@232.84.2.245:10506
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/tMHmrZz.jpg",H1 HD _ TH Hà Nội (HD 6Mbps)
 rtp://@232.84.3.143:10738
-#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/9lscH4N.jpg",H2 HD _ TH Hà Nội (HD 3.5Mbps)
+#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/9lscH4N.jpg",H2 HD _ TH Hà Nội (HD 4Mbps)
 rtp://@232.84.3.137:10744
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/HZluJKB.png",THP HD _ TH TP. Hải Phòng (HD 6Mbps)
 rtp://@232.84.3.142:10780
@@ -293,7 +270,7 @@ rtp://@232.84.3.99:11464
 rtp://@232.84.3.109:10750
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/dG7w5h6.png",BTV4 HD _ TH Bình Dương (HD 6Mbps)
 rtp://@232.84.2.156:10756
-#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/TwCBAd3.png",BTV9 B Channel (HD 8.5Mbps)
+#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/TwCBAd3.png",BTV9 (HD 8.5Mbps)
 rtp://@232.84.3.199:11116
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/zUKKdCf.png",ĐNRTV1 HD _ TH Đồng Nai (HD 6Mbps)
 rtp://@232.84.3.112:10762
@@ -539,6 +516,14 @@ rtp://@232.84.2.123:8454
 rtp://@232.84.1.72:8406
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Outdoor Channel (HD 8.5Mbps)
 rtp://@232.84.1.107:10218
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",SPOTV (HD 8.5Mbps)
+rtp://@232.84.2.141:10666
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",SPOTV2 (HD 8.5Mbps)
+rtp://@232.84.2.142:10672
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",SPOTV (HD 8.5Mbps)
+rtp://@232.84.3.111:10666
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",SPOTV2 (HD 8.5Mbps)
+rtp://@232.84.3.129:10672
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",TLC (HD 6Mbps)
 rtp://@232.84.3.156:10708
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",TVE (HD 6.5Mbps)
@@ -640,8 +625,6 @@ rtp://@232.84.2.122:8364
 rtp://@232.84.1.8:8022
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",NHK Premium
 rtp://@232.84.3.172:10494
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",OPT1
-rtp://@232.84.2.128:8352
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Phoenix 
 rtp://@232.84.3.191:11068
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Phoenix Infonews
@@ -654,6 +637,10 @@ rtp://@232.84.2.124:8358
 rtp://@232.84.2.125:8538
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Shenzhen Satellite TV
 rtp://@232.84.3.186:11038
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",SPOTV
+rtp://@232.84.1.11:8040
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",SPOTV2
+rtp://@232.84.1.12:8046
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",TLC
 rtp://@232.84.1.49:8274
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",TV5 MONDE ASIE
@@ -667,6 +654,8 @@ rtp://@232.84.3.187:11044
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",YTN
 rtp://@232.84.3.208:11170
 #------------------------MyTV------------------------#
+#EXTINF:0 group-title="MyTV Service" tvg-logo="",Feed Quốc Hội
+rtp://@232.84.3.1:10278
 #EXTINF:0 group-title="MyTV Service" tvg-logo="",801
 rtp://@232.84.2.175:10858
 #EXTINF:0 group-title="MyTV Service" tvg-logo="",802
@@ -691,8 +680,6 @@ rtp://@232.84.1.197:11080
 rtp://@232.84.1.239:10302
 #EXTINF:0 group-title="MyTV Service" tvg-logo="",Advertisement
 rtp://@232.84.2.56:10546
-#EXTINF:0 group-title="MyTV Service" tvg-logo="",Feed Quốc Hội
-rtp://@232.84.3.1:10278
 #EXTINF:0 group-title="MyTV Service" tvg-logo="",Vĩnh Long 1 SD (Test)
 rtp://@232.84.3.212:11194
 #EXTINF:0 group-title="MyTV Service" tvg-logo="",Unknown
@@ -713,8 +700,10 @@ rtp://@232.84.3.254:11446
 rtp://@232.84.2.180:10338
 #EXTINF:0 group-title="MyTV Service" tvg-logo="",Unknown
 rtp://@232.84.1.142:10386
+#EXTINF:0 group-title="MyTV Service" tvg-logo="",Unknown
+rtp://@232.84.2.128:8352
 #------------------------Mua Sắm------------------------#
-#EXTINF:0 group-title="Mua Sắm" tvg-logo="",VTVcab11 GS Shop
+#EXTINF:0 group-title="Mua Sắm" tvg-logo="",VTVcab11
 rtp://@232.84.1.229:9348
 #------------------------DRM------------------------#
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/cETq7Wv.jpg",ON Golf HD (DRM)
@@ -725,3 +714,27 @@ rtp://@232.84.1.208:9222
 rtp://@232.84.1.193:9132
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/1p7Qi8i.jpg",ON Sports+ (DRM)
 rtp://@232.84.1.220:9294
+#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/BdZ2IRC.jpg",ON Football (DRM)
+rtp://@232.84.1.138:8802
+#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/kKd3Ssh.jpg",ON Sports HD (DRM)
+rtp://@232.84.1.207:9216
+#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/BdZ2IRC.jpg",ON Football HD (DRM)
+rtp://@232.84.1.210:9234
+#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/jdCeaVC.jpg",ON Sports News (DRM)
+rtp://@232.84.2.193:10942
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/QYVgR3y.jpg",K+ Cine (DRM)
+rtp://@232.84.1.122:10314
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/E54DrD2.jpg",K+ Life (DRM)
+rtp://@232.84.1.123:10320
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/nSbs15R.jpg",K+ Sport 1 (DRM)
+rtp://@232.84.1.125:10326
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/pVEfe6D.jpg",K+ Sport 2 (DRM)
+rtp://@232.84.1.176:10374
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/QYVgR3y.jpg",K+ Cine (DRM)
+rtp://@232.84.1.96:8550
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/E54DrD2.jpg",K+ Life (DRM)
+rtp://@232.84.1.97:8556
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/nSbs15R.jpg",K+ Sport 1 (DRM)
+rtp://@232.84.1.98:8562
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/pVEfe6D.jpg",K+ Sport 2 (DRM)
+rtp://@232.84.1.131:10368
