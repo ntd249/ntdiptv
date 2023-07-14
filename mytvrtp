@@ -276,6 +276,8 @@ rtp://@232.84.3.199:11116
 rtp://@232.84.3.112:10762
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/EH5ogzk.png",THTG HD _ TH Tiền Giang (HD 6Mbps)
 rtp://@232.84.3.204:11146
+#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/JpnhkCA.png",ATV HD _ TH An Giang (HD 4Mbps)
+rtp://@232.84.3.81:11566
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/AnjYRjM.png",THBT HD _ TH Bến Tre (HD 6Mbps)
 rtp://@232.84.3.95:11482
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mDQssNg.jpg",THVL1 HD _ TH Vĩnh Long (HD 6.5Mbps)
