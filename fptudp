@@ -195,12 +195,16 @@ udp://@225.1.1.102:30120
 udp://@225.1.1.126:30120
 #EXTINF:-1 group-title="Địa phương (HD)",QTV1 HD _ TH Quảng Ninh (HD 8Mbps)
 udp://@225.1.2.181:30120
+#EXTINF:-1 group-title="Địa phương (HD)",QTV3 HD _ TH Quảng Ninh (HD 8Mbps)
+udp://@225.1.2.180:30120
 #EXTINF:-1 group-title="Địa phương (HD)",BTV _ TH Bắc Ninh (HD 8Mbps)
 udp://@225.1.1.40:30120
 #EXTINF:-1 group-title="Địa phương (HD)",H1 HD _ TH Hà Nội (HD 8Mbps)
 udp://@225.1.2.186:30120
 #EXTINF:-1 group-title="Địa phương (HD)",H2 HD _ TH Hà Nội (HD 8Mbps)
 udp://@225.1.1.125:30120
+#EXTINF:-1 group-title="Địa phương (HD)",THD _ TH Hải Dương (HD 8Mbps)
+udp://@225.1.1.158:30120
 #EXTINF:-1 group-title="Địa phương (HD)",THP HD _ TH TP. Hải Phòng (HD 8Mbps)
 udp://@225.1.1.44:30120
 #EXTINF:-1 group-title="Địa phương (HD)",THP+ HD _ TH TP. Hải Phòng (HD 8Mbps)
@@ -231,6 +235,8 @@ udp://@225.1.1.145:30120
 udp://@225.1.2.58:30120
 #EXTINF:-1 group-title="Địa phương (HD)",KTV HD _ TH Khánh Hòa (HD 8Mbps)
 udp://@225.1.1.133:30120
+#EXTINF:-1 group-title="Địa phương (HD)",NTV HD _ TH Ninh Thuận (HD 8Mbps)
+udp://@225.1.2.178:30120
 #EXTINF:-1 group-title="Địa phương (HD)",BTV HD _ TH Bình Thuận (HD 8Mbps)
 udp://@225.1.1.124:30120
 #EXTINF:-1 group-title="Địa phương (HD)",KRT _ TH Kon Tum (HD 8Mbps)
@@ -241,6 +247,10 @@ udp://@225.1.2.176:30120
 udp://@225.1.1.64:30120
 #EXTINF:-1 group-title="Địa phương (HD)",LTV HD _ TH Lâm Đồng (HD 8Mbps)
 udp://@225.1.2.177:30120
+#EXTINF:-1 group-title="Địa phương (HD)",BPTV1 HD _ TH Bình Phước (HD 8Mbps)
+udp://@225.1.2.23:30120
+#EXTINF:-1 group-title="Địa phương (HD)",BPTV2 HD _ TH Bình Phước (HD 8Mbps)
+udp://@225.1.2.38:30120
 #EXTINF:-1 group-title="Địa phương (HD)",BTV1 HD _ TH Bình Dương (HD 8Mbps)
 udp://@225.1.1.150:30120
 #EXTINF:-1 group-title="Địa phương (HD)",BTV2 HD _ TH Bình Dương (HD 8Mbps)
@@ -289,14 +299,11 @@ udp://@225.1.1.61:30120
 udp://@225.1.1.104:30120
 #EXTINF:-1 group-title="Địa phương (HD)",THTPCT HD _ TH TP. Cần Thơ (HD 8Mbps)
 udp://@225.1.1.132:30120
+
 #EXTINF:-1 group-title="Địa phương (SD)",STV _ TH Sơn La
 udp://@225.1.1.98:30120
-#EXTINF:-1 group-title="Địa phương (SD)",QTV3 _ TH Quảng Ninh
-udp://@225.1.2.180:30120
 #EXTINF:-1 group-title="Địa phương (SD)",THHN _ TH Hà Nam
 udp://@225.1.1.63:30120
-#EXTINF:-1 group-title="Địa phương (SD)",THD _ TH Hải Dương
-udp://@225.1.1.158:30120
 #EXTINF:-1 group-title="Địa phương (SD)",HY _ TH Hưng Yên
 udp://@225.1.1.118:30120
 #EXTINF:-1 group-title="Địa phương (SD)",NTV _ TH Nam Định
@@ -307,12 +314,6 @@ udp://@225.1.2.184:30120
 udp://@225.1.2.164:30120
 #EXTINF:-1 group-title="Địa phương (SD)",TRT _ TH Thừa Thiên Huế
 udp://@225.1.1.161:30120
-#EXTINF:-1 group-title="Địa phương (SD)",NTV _ TH Ninh Thuận
-udp://@225.1.2.178:30120
-#EXTINF:-1 group-title="Địa phương (SD)",BPTV1 _ TH Bình Phước
-udp://@225.1.2.23:30120
-#EXTINF:-1 group-title="Địa phương (SD)",BPTV2 _ TH Bình Phước
-udp://@225.1.2.38:30120
 #EXTINF:-1 group-title="Địa phương (SD)",BTV6 _ TH Bình Dương
 udp://@225.1.1.223:30120
 #EXTINF:-1 group-title="Địa phương (SD)",LA34 _ TH Long An
@@ -766,7 +767,7 @@ udp://@225.1.3.27:30120
 udp://@225.1.3.28:30120
 #EXTINF:-1 group-title="Test udp 3",France 24 (eng) HD
 udp://@225.1.3.29:30120
-#EXTINF:-1 group-title="Test udp 3",Da Vinci HD
+#EXTINF:-1 group-title="Test udp 3",VTV5 Tây Nguyên HD
 udp://@225.1.3.30:30120
 #EXTINF:-1 group-title="Test udp 3",VTC9 HD
 udp://@225.1.3.31:30120
@@ -804,11 +805,11 @@ udp://@225.1.3.46:30120
 udp://@225.1.3.47:30120
 #EXTINF:-1 group-title="Test udp 3",VTC3 HD
 udp://@225.1.3.48:30120
-#EXTINF:-1 group-title="Test udp 3",Tuyên Quang HD
+#EXTINF:-1 group-title="Test udp 3",Hà Nội 2 HD
 udp://@225.1.3.49:30120
 #EXTINF:-1 group-title="Test udp 3",VTC1 HD
 udp://@225.1.3.50:30120
-#EXTINF:-1 group-title="Test udp 3",HTVC Thuần Việt
+#EXTINF:-1 group-title="Test udp 3",Da Vinci HD
 udp://@225.1.3.51:30120
 #EXTINF:-1 group-title="Test udp 3",Hải Phòng+ HD
 udp://@225.1.3.52:30120
@@ -852,7 +853,7 @@ udp://@225.1.3.70:30120
 udp://@225.1.3.71:30120
 #EXTINF:-1 group-title="Test udp 3",Fashion TV HD
 udp://@225.1.3.72:30120
-#EXTINF:-1 group-title="Test udp 3",Vũng Tàu HD
+#EXTINF:-1 group-title="Test udp 3",VTC10 HD
 udp://@225.1.3.73:30120
 #EXTINF:-1 group-title="Test udp 3",Khánh Hòa HD
 udp://@225.1.3.74:30120
