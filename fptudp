@@ -236,7 +236,7 @@ udp://@225.1.1.75:30120
 udp://@225.1.1.117:30120
 #EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 HD _ TH TP. Đà Nẵng (HD 8Mbps)
 udp://@225.1.1.147:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",DaNangTV2 HD _ TH TP. Đà Nẵng (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/hkzIqEV.png",DaNangTV2 HD _ TH TP. Đà Nẵng (HD 8Mbps)
 udp://@225.1.1.146:30120
 #EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT HD _ TH Quảng Nam (HD 8Mbps)
 udp://@225.1.2.50:30120
