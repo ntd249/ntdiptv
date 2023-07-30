@@ -45,15 +45,15 @@ udp://@225.1.4.184:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 4Mbps)
 udp://@225.1.4.179:30120
 #-------------------K+-------------------#
-#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/QYVgR3y.png",K+Cine (HD 8Mbps)
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+Cine (HD 8Mbps)
 udp://@225.1.1.5:30120
-#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/E54DrD2.png",K+Life (HD 8Mbps)
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/6cszSeR.png",K+Life (HD 8Mbps)
 udp://@225.1.1.6:30120
-#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/nSbs15R.png",K+Sport 1 (HD 8Mbps)
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+Sport 1 (HD 8Mbps)
 udp://@225.1.1.73:30120
-#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/pVEfe6D.png",K+Sport 2 (HD 8Mbps)
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+Sport 2 (HD 8Mbps)
 udp://@225.1.1.77:30120
-#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/rnSusks.png",K+Kids (HD 8Mbps)
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+Kids (HD 8Mbps)
 udp://@225.1.1.76:30120
 #-------------------VTC/VOV-------------------#
 #EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/VlNtPHF.png",VTC1 HD (HD 8Mbps)
