@@ -86,7 +86,7 @@ udp://@225.1.2.196:30120
 udp://@225.1.2.193:30120
 #EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/mUTZM0i.png",VTC12
 udp://@225.1.2.51:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
 udp://@225.1.2.171:30120
 #EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/pSVc30b.png",VTC3 HD (HD 4Mbps)
 udp://@225.1.4.42:30120
@@ -200,12 +200,12 @@ udp://@225.1.2.179:30120
 udp://@225.1.2.165:30120
 #EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH Bắc Giang (HD 8Mbps)
 udp://@225.1.1.164:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH Lạng Sơn (HD 8Mbps)
-udp://@225.1.1.160:30120
 #EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH Cao Bằng (HD 8Mbps)
 udp://@225.1.1.102:30120
 #EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD _ TH Bắc Kạn (HD 8Mbps)
 udp://@225.1.1.126:30120
+#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH Lạng Sơn (HD 8Mbps)
+udp://@225.1.1.160:30120
 #EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh (HD 8Mbps)
 udp://@225.1.2.181:30120
 #EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh (HD 8Mbps)
