@@ -75,7 +75,7 @@ rtp://@232.84.3.218:11230
 rtp://@232.84.1.206:9210
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
 rtp://@232.84.1.205:9204
-#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/xhgZDvd.png",ON E Channel
+#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/xhgZDvd.png",ON EChannel
 rtp://@232.84.3.90:11512
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
 rtp://@232.84.2.191:10930
@@ -323,7 +323,7 @@ rtp://@232.84.2.91:9138
 rtp://@232.84.2.87:9096
 #EXTINF:0 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV _ TH Phú Thọ
 rtp://@232.84.2.95:9030
-#EXTINF:0 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/VIPvHmt.png",BGTV _ TH Bắc Giang
+#EXTINF:0 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH Bắc Giang
 rtp://@232.84.2.89:8754
 #EXTINF:0 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 _ TH Quảng Ninh
 rtp://@232.84.3.105:9060
@@ -331,9 +331,9 @@ rtp://@232.84.3.105:9060
 rtp://@232.84.1.133:8772
 #EXTINF:0 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/DCSPntI.png",THHN _ TH Hà Nam
 rtp://@232.84.2.82:8916
-#EXTINF:0 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/tMHmrZz.png",H1 _ TH Hà Nội
+#EXTINF:0 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 _ TH Hà Nội
 rtp://@232.84.1.29:8148
-#EXTINF:0 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/9lscH4N.png",H2 _ TH Hà Nội
+#EXTINF:0 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 _ TH Hà Nội
 rtp://@232.84.1.23:8112
 #EXTINF:0 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH Hải Dương
 rtp://@232.84.2.79:8928
@@ -714,9 +714,9 @@ rtp://@232.84.1.229:9348
 rtp://@232.84.2.246:10876
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports (DRM)
 rtp://@232.84.1.208:9222
-#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/XySB4yh.png",VTVcab5 E Channel (DRM)
+#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/xhgZDvd.png",ON EChannel (DRM)
 rtp://@232.84.1.193:9132
-#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/1p7Qi8i.png",ON Sports+ (DRM)
+#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/X6u98it.png",ON Sports+ (DRM)
 rtp://@232.84.1.220:9294
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football (DRM)
 rtp://@232.84.1.138:8802
@@ -724,7 +724,7 @@ rtp://@232.84.1.138:8802
 rtp://@232.84.1.207:9216
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football HD (DRM)
 rtp://@232.84.1.210:9234
-#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/jdCeaVC.png",ON Sports News (DRM)
+#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News (DRM)
 rtp://@232.84.2.193:10942
 #EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
 rtp://@232.84.1.122:10314
