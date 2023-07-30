@@ -56,51 +56,51 @@ udp://@225.1.1.77:30120
 #EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/rnSusks.png",K+Kids (HD 8Mbps)
 udp://@225.1.1.76:30120
 #-------------------VTC/VOV-------------------#
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/Pc2ZuX0.png",VTC1 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/VlNtPHF.png",VTC1 HD (HD 8Mbps)
 udp://@225.1.2.254:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/vemNwkI.png",VTC3 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/pSVc30b.png",VTC3 HD (HD 8Mbps)
 udp://@225.1.2.251:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/0dkRtxJ.png",VTC4 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/WecjEcn.png",VTC4 HD (HD 8Mbps)
 udp://@225.1.2.200:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/QuXPUqi.png",VTC9 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/3OAuCM9.png",VTC9 HD (HD 8Mbps)
 udp://@225.1.2.195:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/F6x7ZNA.png",VTC10 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/CJ1PwxH.png",VTC10 HD (HD 8Mbps)
 udp://@225.1.2.194:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/2RRt2M4.png",VTC13 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/EOcY7g1.png",VTC13 HD (HD 8Mbps)
 udp://@225.1.2.250:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/jlvmYDY.png",VTC14 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/5ICpekJ.png",VTC14 HD (HD 8Mbps)
 udp://@225.1.2.88:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/kpD8AAE.png",VTC16 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/WRa6Qki.png",VTC16 HD (HD 8Mbps)
 udp://@225.1.2.190:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/1FccD2h.png",VTC2
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/sD1QYBj.png",VTC2
 udp://@225.1.2.202:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/IDkKiEa.png",VTC5
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/qw5Q778.png",VTC5
 udp://@225.1.2.199:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/rTxMJIB.png",VTC6
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/nxG52Yf.png",VTC6
 udp://@225.1.2.198:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/sDWf2Q1.png",VTC7
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/whMdKp9.png",VTC7
 udp://@225.1.2.197:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/cQ8Ygbk.png",VTC8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/nh4oZUn.png",VTC8
 udp://@225.1.2.196:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/RoTy0Ly.png",VTC11
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/VVF4Vwq.png",VTC11
 udp://@225.1.2.193:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/qAOy5Cd.png",VTC12
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/mUTZM0i.png",VTC12
 udp://@225.1.2.51:30120
 #EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
 udp://@225.1.2.171:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/vemNwkI.png",VTC3 HD (HD 4Mbps)
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/pSVc30b.png",VTC3 HD (HD 4Mbps)
 udp://@225.1.4.42:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/0dkRtxJ.png",VTC4 HD (HD 4Mbps)
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/WecjEcn.png",VTC4 HD (HD 4Mbps)
 udp://@225.1.4.43:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/QuXPUqi.png",VTC9 HD (HD 4Mbps)
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/3OAuCM9.png",VTC9 HD (HD 4Mbps)
 udp://@225.1.4.48:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/F6x7ZNA.png",VTC10 HD (HD 4Mbps)
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/CJ1PwxH.png",VTC10 HD (HD 4Mbps)
 udp://@225.1.4.49:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/2RRt2M4.png",VTC13 HD (HD 4Mbps)
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/EOcY7g1.png",VTC13 HD (HD 4Mbps)
 udp://@225.1.4.52:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/jlvmYDY.png",VTC14 HD (HD 4Mbps)
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/5ICpekJ.png",VTC14 HD (HD 4Mbps)
 udp://@225.1.4.53:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/kpD8AAE.png",VTC16 HD (HD 4Mbps)
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/WRa6Qki.png",VTC16 HD (HD 4Mbps)
 udp://@225.1.4.54:30120
 #-------------------HTV/HTVC-------------------#
 #EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/aFUOlhc.png",HTV2 Vie Channel (HD 8Mbps)
