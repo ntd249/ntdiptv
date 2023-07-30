@@ -18,9 +18,9 @@ udp://@225.1.2.96:30120
 udp://@225.1.2.166:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.jpg",VTV9 (HD 8Mbps)
 udp://@225.1.1.128:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/wbflyqU.png",VTV5 Tây Nam Bộ (HD 8Mbps)
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/62vGWNC.png",VTV5 Tây Nam Bộ (HD 8Mbps)
 udp://@225.1.2.236:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/raWDv7o.png",VTV5 Tây Nguyên (HD 8Mbps)
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/L7UL3ow.png",VTV5 Tây Nguyên (HD 8Mbps)
 udp://@225.1.1.108:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.jpg",VTV1 (HD 4Mbps)
 udp://@225.1.4.1:30120
@@ -40,9 +40,9 @@ udp://@225.1.4.201:30120
 udp://@225.1.4.7:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.jpg",VTV9 (HD 4Mbps)
 udp://@225.1.4.8:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/wbflyqU.png",VTV5 Tây Nam Bộ (HD 4Mbps)
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/62vGWNC.png",VTV5 Tây Nam Bộ (HD 4Mbps)
 udp://@225.1.4.184:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/raWDv7o.png",VTV5 Tây Nguyên (HD 4Mbps)
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/L7UL3ow.png",VTV5 Tây Nguyên (HD 4Mbps)
 udp://@225.1.4.179:30120
 #-------------------K+-------------------#
 #EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/diHhSPR.jpg",K+ Cine (HD 8Mbps)
