@@ -265,7 +265,7 @@ rtp://@232.84.3.134:10768
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quảng Ngãi (HD 6Mbps)
 rtp://@232.84.3.126:10798
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum (HD 4Mbps)
-rtp://@232.84.3.115:8970
+rtp://@232.84.3.80:11572
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk (HD 5Mbps)
 rtp://@232.84.3.99:11464
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương (HD 6Mbps)
