@@ -264,6 +264,8 @@ rtp://@232.84.2.198:10972
 rtp://@232.84.3.134:10768
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quảng Ngãi (HD 6Mbps)
 rtp://@232.84.3.126:10798
+#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum (HD 4Mbps)
+rtp://@232.84.3.115:8970
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk (HD 5Mbps)
 rtp://@232.84.3.99:11464
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương (HD 6Mbps)
@@ -518,14 +520,6 @@ rtp://@232.84.2.123:8454
 rtp://@232.84.1.72:8406
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Outdoor Channel (HD 8.5Mbps)
 rtp://@232.84.1.107:10218
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",SPOTV (HD 8.5Mbps)
-rtp://@232.84.2.141:10666
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",SPOTV2 (HD 8.5Mbps)
-rtp://@232.84.2.142:10672
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",SPOTV (HD 8.5Mbps)
-rtp://@232.84.3.111:10666
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",SPOTV2 (HD 8.5Mbps)
-rtp://@232.84.3.129:10672
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",TLC (HD 6Mbps)
 rtp://@232.84.3.156:10708
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",TVE (HD 6.5Mbps)
@@ -613,6 +607,8 @@ rtp://@232.84.1.19:8088
 rtp://@232.84.3.215:11212
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Hunan
 rtp://@232.84.3.188:11050
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Jiangsu
+rtp://@232.84.3.187:11044
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",KBS WORLD
 rtp://@232.84.2.136:9612
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",MSTV
@@ -637,12 +633,8 @@ rtp://@232.84.2.127:8544
 rtp://@232.84.2.124:8358
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Russia Today
 rtp://@232.84.2.125:8538
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Shenzhen Satellite TV
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Shenzhen
 rtp://@232.84.3.186:11038
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",SPOTV
-rtp://@232.84.1.11:8040
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",SPOTV2
-rtp://@232.84.1.12:8046
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",TLC
 rtp://@232.84.1.49:8274
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",TV5 MONDE ASIE
@@ -651,8 +643,6 @@ rtp://@232.84.1.45:8250
 rtp://@232.84.1.91:10404
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Xing Kong
 rtp://@232.84.3.189:11056
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Youman
-rtp://@232.84.3.187:11044
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",YTN
 rtp://@232.84.3.208:11170
 #------------------------MyTV------------------------#
