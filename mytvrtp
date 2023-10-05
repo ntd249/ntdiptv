@@ -155,7 +155,7 @@ rtp://@232.84.1.215:9264
 #EXTINF:0 group-title="VTC" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
 rtp://@232.84.1.46:8256
 #------------------------HTV/HTVC------------------------#
-#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/uSbnTdO.png",HTV2 (HD 5Mbps)
+#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/uSbnTdO.png",HTV2 (HD 8.5Mbps)
 rtp://@232.84.2.182:9306
 #EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD (HD 8Mbps)
 rtp://@232.84.1.223:9312
@@ -204,7 +204,7 @@ rtp://@232.84.1.32:8166
 rtp://@232.84.3.124:10822
 #EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội HD (HD 4Mbps)
 rtp://@232.84.1.234:10290
-#EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội HD (HD 8Mbps)
+#EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội HD (HD 4Mbps)
 rtp://@232.84.2.181:10290
 #EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 6Mbps)
 rtp://@232.84.3.127:10816
@@ -230,21 +230,21 @@ rtp://@232.84.3.213:11200
 rtp://@232.84.3.146:10774
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH Phú Thọ (HD 6Mbps)
 rtp://@232.84.3.148:10792
-#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH Bắc Giang (HD 6Mbps)
+#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH Bắc Giang (HD 8Mbps)
 rtp://@232.84.3.100:11452
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH Cao Bằng (HD 6Mbps)
 rtp://@232.84.3.202:11134
-#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD _ TH Bắc Kạn (HD 4Mbps)
+#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD _ TH Bắc Kạn (HD 8.5Mbps)
 rtp://@232.84.3.94:11488
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH Lạng Sơn (HD 6Mbps)
 rtp://@232.84.3.203:11140
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh (HD 6Mbps)
 rtp://@232.84.1.248:10978
-#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh (HD 5Mbps)
+#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh (HD 6.5Mbps)
 rtp://@232.84.1.249:10984
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH Bắc Ninh (HD 6Mbps)
 rtp://@232.84.2.245:10506
-#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội (HD 6Mbps)
+#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội (HD 4Mbps)
 rtp://@232.84.3.143:10738
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội (HD 4Mbps)
 rtp://@232.84.3.137:10744
@@ -254,13 +254,13 @@ rtp://@232.84.3.142:10780
 rtp://@232.84.3.83:11554
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY HD _ TH Hưng Yên (HD 6Mbps)
 rtp://@232.84.3.110:10786
-#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD _ TH Ninh Bình (HD 4Mbps)
+#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD _ TH Ninh Bình (HD 8.5Mbps)
 rtp://@232.84.3.89:11518
-#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa (HD 6.5Mbps)
+#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa (HD 8.5Mbps)
 rtp://@232.84.3.198:11110
-#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Nghệ An (HD 6.5Mbps)
+#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Nghệ An (HD 8Mbps)
 rtp://@232.84.2.198:10972
-#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV HD _ TH Hà Tĩnh (HD 6.5Mbps)
+#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV HD _ TH Hà Tĩnh (HD 8.5Mbps)
 rtp://@232.84.3.134:10768
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quảng Ngãi (HD 6Mbps)
 rtp://@232.84.3.126:10798
@@ -278,9 +278,9 @@ rtp://@232.84.3.199:11116
 rtp://@232.84.3.112:10762
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang (HD 6Mbps)
 rtp://@232.84.3.204:11146
-#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV HD _ TH An Giang (HD 4Mbps)
+#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV HD _ TH An Giang (HD 8.5Mbps)
 rtp://@232.84.3.81:11566
-#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH Bến Tre (HD 6Mbps)
+#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH Bến Tre (HD 8.5Mbps)
 rtp://@232.84.3.95:11482
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long (HD 6.5Mbps)
 rtp://@232.84.2.183:10882
@@ -296,7 +296,7 @@ rtp://@232.84.3.165:10900
 rtp://@232.84.3.160:10912
 #EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Kiên Giang (HD 6Mbps)
 rtp://@232.84.3.161:10918
-#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 HD _ TH Sóc Trăng (HD 6Mbps)
+#EXTINF:0 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 HD _ TH Sóc Trăng (HD 8.5Mbps)
 rtp://@232.84.3.97:11470
 #------------------------Địa Phương (SD)------------------------#
 #EXTINF:0 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai
@@ -446,16 +446,12 @@ rtp://@232.84.2.118:8838
 #------------------------Quốc Tế (HD)------------------------#
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Animal Planet (HD 6.5Mbps)
 rtp://@232.84.3.139:10702
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",ANIMAX (HD 9Mbps)
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Animax (HD 9Mbps)
 rtp://@232.84.1.18:8082
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Asian Food Network (HD 6.5Mbps)
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Asian Food Network (HD 7.5Mbps)
 rtp://@232.84.2.129:9570
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",AXN (HD 8.5Mbps)
 rtp://@232.84.3.121:10660
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Baby TV (HD 6.5Mbps)
-rtp://@232.84.2.36:10624
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Baby TV (HD 6.5Mbps)
-rtp://@232.84.3.128:10624
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",BBC CBeeBies (HD 9Mbps)
 rtp://@232.84.1.90:10398
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",BBC Earth (HD 8Mbps)
@@ -464,19 +460,19 @@ rtp://@232.84.3.226:11278
 rtp://@232.84.3.225:11272
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",BBC News (HD 9Mbps)
 rtp://@232.84.3.224:11266
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Bloomberg (HD 9Mbps)
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Bloomberg (HD 10Mbps)
 rtp://@232.84.3.157:10696
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",BOX HITS (HD 4Mbps)
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Box Hits (HD 4Mbps)
 rtp://@232.84.1.77:8436
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Cartoon Network (HD 9Mbps)
 rtp://@232.84.2.144:10684
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Cartoonito (HD 9Mbps)
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Cartoonito (HD 10Mbps)
 rtp://@232.84.3.222:11254
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Cinema World (HD 8Mbps)
 rtp://@232.84.2.172:10840
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Cinema World (HD 8Mbps)
 rtp://@232.84.3.103:10840
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",CINEMAX (HD 9Mbps)
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Cinemax (HD 9Mbps)
 rtp://@232.84.3.117:10654
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Clubbing TV (HD 8.5Mbps)
 rtp://@232.84.3.96:11476
@@ -484,17 +480,15 @@ rtp://@232.84.3.96:11476
 rtp://@232.84.2.55:10540
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",CNA (HD 6.5Mbps)
 rtp://@232.84.3.155:10540
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",CNN (HD 5Mbps)
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",CNN (HD 6Mbps)
 rtp://@232.84.3.153:10690
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Da Vinci (HD 8.5Mbps)
-rtp://@232.84.2.131:9582
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Discovery Channel (HD 9Mbps)
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Discovery Channel (HD 10Mbps)
 rtp://@232.84.2.53:10528
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Discovery Channel (HD 9Mbps)
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Discovery Channel (HD 10Mbps)
 rtp://@232.84.3.132:10528
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Discovery Asia (HD 8Mbps)
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Discovery Asia (HD 9.5Mbps)
 rtp://@232.84.3.219:11236
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Dreamworks (HD 8Mbps)
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Dreamworks (HD 9Mbps)
 rtp://@232.84.3.227:11284
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",DW (English) (HD 8.5Mbps)
 rtp://@232.84.2.233:10416
@@ -508,17 +502,13 @@ rtp://@232.84.3.149:10522
 rtp://@232.84.2.138:10648
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",HBO (HD 11Mbps)
 rtp://@232.84.3.101:10648
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",HITS (HD 6.5Mbps)
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Hits (HD 6.5Mbps)
 rtp://@232.84.3.214:11206
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Music Box (HD 8Mbps)
 rtp://@232.84.1.13:8052
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",NATIONAL GEOGRAPHIC HD (HD 7Mbps)
-rtp://@232.84.1.1:7980
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",NAT GEO WILD (HD 8Mbps)
-rtp://@232.84.2.123:8454
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",NHK WORLD JAPAN (HD 8.5Mbps)
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",NHK World Japan (HD 8.5Mbps)
 rtp://@232.84.1.72:8406
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Outdoor Channel (HD 8.5Mbps)
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",Outdoor (HD 7.5Mbps)
 rtp://@232.84.1.107:10218
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="",TLC (HD 6Mbps)
 rtp://@232.84.3.156:10708
@@ -533,15 +523,15 @@ rtp://@232.84.3.114:10516
 rtp://@232.84.3.206:11158
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Animal Planet
 rtp://@232.84.1.48:8268
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",ANIMAX
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Animax
 rtp://@232.84.2.143:10678
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Arirang
 rtp://@232.84.1.43:8238
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Asian Food Network
 rtp://@232.84.1.115:10236
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",ABC AUSTRALIA
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",ABC Australia
 rtp://@232.84.2.244:10482
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",ABC AUSTRALIA
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",ABC Australia
 rtp://@232.84.3.131:10482
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",AXN
 rtp://@232.84.1.14:8058
@@ -551,7 +541,7 @@ rtp://@232.84.3.200:11122
 rtp://@232.84.2.239:10452
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Bloomberg
 rtp://@232.84.1.7:8016
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",BOX HITS
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Box Hits
 rtp://@232.84.1.10:8034
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Cartoon Network
 rtp://@232.84.1.16:8070
@@ -575,7 +565,7 @@ rtp://@232.84.3.182:11014
 rtp://@232.84.3.181:11008
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Cinema World
 rtp://@232.84.1.44:8244
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",CINEMAX
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Cinemax
 rtp://@232.84.1.20:8094
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",CNA
 rtp://@232.84.1.5:8004
@@ -583,8 +573,6 @@ rtp://@232.84.1.5:8004
 rtp://@232.84.3.179:10488
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",CNN
 rtp://@232.84.2.126:8076
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Da Vinci
-rtp://@232.84.1.108:10224
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Discovery Channel
 rtp://@232.84.1.47:8262
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Dragon TV
@@ -595,21 +583,21 @@ rtp://@232.84.3.168:10428
 rtp://@232.84.1.6:8010
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Fashion TV
 rtp://@232.84.1.2:7986
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",FRANCE 24 (English)
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",France 24 (English)
 rtp://@232.84.2.135:9606
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",FRANCE 24 (English)
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",France 24 (English)
 rtp://@232.84.3.145:9606
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",FRANCE 24 (Francais)
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",France 24 (Francais)
 rtp://@232.84.3.207:11164
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",HBO
 rtp://@232.84.1.19:8088
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",HITS
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Hits
 rtp://@232.84.3.215:11212
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Hunan
 rtp://@232.84.3.188:11050
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Jiangsu
 rtp://@232.84.3.187:11044
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",KBS WORLD
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",KBS World
 rtp://@232.84.2.136:9612
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",MSTV
 rtp://@232.84.3.192:11074
@@ -617,9 +605,7 @@ rtp://@232.84.3.192:11074
 rtp://@232.84.2.132:9588
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Music Box
 rtp://@232.84.3.144:9588
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",NATIONAL GEOGRAPHIC
-rtp://@232.84.2.122:8364
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",NHK WORLD JAPAN
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",NHK World Japan 
 rtp://@232.84.1.8:8022
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",NHK Premium
 rtp://@232.84.3.172:10494
@@ -627,7 +613,7 @@ rtp://@232.84.3.172:10494
 rtp://@232.84.3.191:11068
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Phoenix Infonews
 rtp://@232.84.3.190:11062
-#EXTINF:0 group-title="MyTV Service" tvg-logo="",POCCNR PTP
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",POCCNR PTP
 rtp://@232.84.2.127:8544
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",Rai Italia
 rtp://@232.84.2.124:8358
@@ -637,7 +623,7 @@ rtp://@232.84.2.125:8538
 rtp://@232.84.3.186:11038
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",TLC
 rtp://@232.84.1.49:8274
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",TV5 MONDE ASIE
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",TV5 Monde Asie
 rtp://@232.84.1.45:8250
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="",WBTV
 rtp://@232.84.1.91:10404
@@ -696,6 +682,20 @@ rtp://@232.84.2.180:10338
 rtp://@232.84.1.142:10386
 #EXTINF:0 group-title="MyTV Service" tvg-logo="",Unknown
 rtp://@232.84.2.128:8352
+#EXTINF:0 group-title="MyTV Service" tvg-logo="",Unknown
+rtp://@232.84.2.36:10624
+#EXTINF:0 group-title="MyTV Service" tvg-logo="",Unknown
+rtp://@232.84.3.128:10624
+#EXTINF:0 group-title="MyTV Service" tvg-logo="",Unknown
+rtp://@232.84.2.131:9582
+#EXTINF:0 group-title="MyTV Service" tvg-logo="",Unknown
+rtp://@232.84.1.1:7980
+#EXTINF:0 group-title="MyTV Service" tvg-logo="",Unknown
+rtp://@232.84.2.123:8454
+#EXTINF:0 group-title="MyTV Service" tvg-logo="",Unknown
+rtp://@232.84.1.108:10224
+#EXTINF:0 group-title="MyTV Service" tvg-logo="",Unknown
+rtp://@232.84.2.122:8364
 #------------------------Mua Sắm------------------------#
 #EXTINF:0 group-title="Mua Sắm" tvg-logo="",VTVcab11
 rtp://@232.84.1.229:9348
