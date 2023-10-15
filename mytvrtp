@@ -496,9 +496,9 @@ rtp://@232.84.3.132:10528
 rtp://@232.84.3.219:11236
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 9Mbps)
 rtp://@232.84.3.227:11284
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/yzSBLCz.png",DW (English) (HD 8.5Mbps)
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) (HD 8.5Mbps)
 rtp://@232.84.2.233:10416
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/yzSBLCz.png",DW (English) (HD 8.5Mbps)
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) (HD 8.5Mbps)
 rtp://@232.84.3.154:10416
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV (HD 8.5Mbps)
 rtp://@232.84.2.52:10522
@@ -583,9 +583,9 @@ rtp://@232.84.2.126:8076
 rtp://@232.84.1.47:8262
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/OKvk2mU.png",Dragon TV
 rtp://@232.84.3.185:11032
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/yzSBLCz.png",DW (Deutsch)
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/9THHnIP.png",DW (Deutsch)
 rtp://@232.84.3.168:10428
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/yzSBLCz.png",DW (English)
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English)
 rtp://@232.84.1.6:8010
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV
 rtp://@232.84.1.2:7986
