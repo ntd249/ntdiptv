@@ -478,7 +478,7 @@ rtp://@232.84.3.222:11254
 rtp://@232.84.2.172:10840
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
 rtp://@232.84.3.103:10840
-#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/mGWLoOc.png",Cinemax (HD 9Mbps)
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax (HD 9Mbps)
 rtp://@232.84.3.117:10654
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Yhpx1Ve.png",Clubbing TV (HD 8.5Mbps)
 rtp://@232.84.3.96:11476
@@ -571,7 +571,7 @@ rtp://@232.84.3.182:11014
 rtp://@232.84.3.181:11008
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World
 rtp://@232.84.1.44:8244
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/mGWLoOc.png",Cinemax
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
 rtp://@232.84.1.20:8094
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA
 rtp://@232.84.1.5:8004
