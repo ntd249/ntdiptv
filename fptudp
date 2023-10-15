@@ -283,7 +283,7 @@ udp://@225.1.2.231:30120
 udp://@225.1.1.138:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
 udp://@225.1.1.142:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/mGWLoOc.png",CINEMAX (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",CINEMAX (HD 8Mbps)
 udp://@225.1.2.86:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 8Mbps)
 udp://@225.1.1.202:30120
@@ -295,7 +295,7 @@ udp://@225.1.2.223:30120
 udp://@225.1.1.238:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 8Mbps)
 udp://@225.1.1.136:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/yzSBLCz.png",DW (English) (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/YF2zMTz.png",DW (English) (HD 8Mbps)
 udp://@225.1.1.46:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV (HD 8Mbps)
 udp://@225.1.2.227:30120
@@ -444,7 +444,7 @@ udp://@225.1.4.13:30120
 udp://@225.1.4.16:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 4Mbps)
 udp://@225.1.4.15:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/mGWLoOc.png",CINEMAX (HD 4Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",CINEMAX (HD 4Mbps)
 udp://@225.1.4.205:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 4Mbps)
 udp://@225.1.4.76:30120
@@ -456,7 +456,7 @@ udp://@225.1.4.25:30120
 udp://@225.1.4.24:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 4Mbps)
 udp://@225.1.4.39:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/yzSBLCz.png",DW (English) (HD 4Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/YF2zMTz.png",DW (English) (HD 4Mbps)
 udp://@225.1.4.75:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",FASHION TV (HD 4Mbps)
 udp://@225.1.4.20:30120
