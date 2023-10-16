@@ -924,13 +924,13 @@ udp://@225.1.1.224:30120
 #EXTINF:-1 group-title="Mua Sắm",BTV11
 udp://@225.1.4.84:30120
 #-------------------K+-------------------#
-#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+Cine (DRM)
-udp://@225.1.1.5:30120
-#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/6cszSeR.png",K+Life (DRM)
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
 udp://@225.1.1.6:30120
-#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+Sport 1 (DRM)
-udp://@225.1.1.73:30120
-#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+Sport 2 (DRM)
-udp://@225.1.1.77:30120
-#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+Kids (DRM)
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
+udp://@225.1.1.5:30120
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (DRM)
 udp://@225.1.1.76:30120
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
+udp://@225.1.1.73:30120
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
+udp://@225.1.1.77:30120
