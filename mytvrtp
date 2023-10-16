@@ -605,8 +605,6 @@ rtp://@232.84.3.188:11050
 rtp://@232.84.3.187:11044
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
 rtp://@232.84.2.136:9612
-#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Gszh5Yb.png",MSTV
-rtp://@232.84.3.192:11074
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DoCK1GY.png",Music Box
 rtp://@232.84.2.132:9588
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DoCK1GY.png",Music Box
@@ -708,6 +706,8 @@ rtp://@232.84.2.122:8364
 rtp://@232.84.1.229:9348
 #EXTINF:0 group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Unknown
 rtp://@232.84.3.210:11182
+#EXTINF:0 group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Unknown
+rtp://@232.84.3.192:11074
 #------------------------Mua Sắm------------------------#
 #EXTINF:0 group-title="Mua Sắm" tvg-logo="https://i.imgur.com/OSK4RXT.png",VTVcab13
 rtp://@232.84.1.142:10386
@@ -724,18 +724,18 @@ rtp://@232.84.1.207:9216
 rtp://@232.84.1.210:9234
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News (DRM)
 rtp://@232.84.2.193:10942
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
+rtp://@232.84.1.123:10320
 #EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
 rtp://@232.84.1.122:10314
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/6cszSeR.png",K+ Life (DRM)
-rtp://@232.84.1.123:10320
 #EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
 rtp://@232.84.1.125:10326
 #EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
 rtp://@232.84.1.176:10374
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
+rtp://@232.84.1.97:8556
 #EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
 rtp://@232.84.1.96:8550
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/6cszSeR.png",K+ Life (DRM)
-rtp://@232.84.1.97:8556
 #EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
 rtp://@232.84.1.98:8562
 #EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
