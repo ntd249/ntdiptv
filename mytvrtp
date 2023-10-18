@@ -476,6 +476,8 @@ rtp://@232.84.2.118:8838
 #------------------------Quốc Tế (HD)------------------------#
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 6.5Mbps)
 rtp://@232.84.3.139:10702
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 10Mbps)
+rtp://@232.84.3.61:11686
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax (HD 9Mbps)
 rtp://@232.84.1.18:8082
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 7.5Mbps)
@@ -484,6 +486,8 @@ rtp://@232.84.2.129:9570
 rtp://@232.84.3.121:10660
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies (HD 9Mbps)
 rtp://@232.84.1.90:10398
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies (HD 9Mbps)
+rtp://@232.84.3.65:11662
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth (HD 8Mbps)
 rtp://@232.84.3.226:11278
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle (HD 9Mbps)
@@ -496,12 +500,18 @@ rtp://@232.84.3.157:10696
 rtp://@232.84.1.77:8436
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network (HD 9Mbps)
 rtp://@232.84.2.144:10684
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network (HD 10Mbps)
+rtp://@232.84.3.62:11680
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito (HD 10Mbps)
 rtp://@232.84.3.222:11254
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito (HD 10Mbps)
+rtp://@232.84.3.60:11692
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
 rtp://@232.84.2.172:10840
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
 rtp://@232.84.3.103:10840
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
+rtp://@232.84.3.64:11668
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax (HD 9Mbps)
 rtp://@232.84.3.117:10654
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Yhpx1Ve.png",Clubbing TV (HD 8.5Mbps)
@@ -520,6 +530,8 @@ rtp://@232.84.3.132:10528
 rtp://@232.84.3.219:11236
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 9Mbps)
 rtp://@232.84.3.227:11284
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 8Mbps)
+rtp://@232.84.3.59:11698
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) (HD 8.5Mbps)
 rtp://@232.84.2.233:10416
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) (HD 8.5Mbps)
@@ -548,6 +560,8 @@ rtp://@232.84.3.205:11152
 rtp://@232.84.2.51:10516
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
 rtp://@232.84.3.114:10516
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
+rtp://@232.84.3.63:11674
 #------------------------Quốc Tế (SD)------------------------#
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/py4oLTl.png",AlJazeera
 rtp://@232.84.3.206:11158
@@ -613,6 +627,8 @@ rtp://@232.84.3.168:10428
 rtp://@232.84.1.6:8010
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV
 rtp://@232.84.1.2:7986
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/YdRrCsg.png",Filmy
+rtp://@232.84.3.210:11182
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English)
 rtp://@232.84.2.135:9606
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English)
@@ -728,8 +744,6 @@ rtp://@232.84.1.108:10224
 rtp://@232.84.2.122:8364
 #EXTINF:0 group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Unknown
 rtp://@232.84.1.229:9348
-#EXTINF:0 group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Unknown
-rtp://@232.84.3.210:11182
 #EXTINF:0 group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Unknown
 rtp://@232.84.3.192:11074
 #------------------------Mua Sắm------------------------#
