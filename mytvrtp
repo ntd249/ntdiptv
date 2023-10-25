@@ -138,6 +138,8 @@ rtp://@232.84.2.149:10714
 rtp://@232.84.3.147:10714
 #EXTINF:0 group-title="VTC" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5 HD (HD 8.5Mbps)
 rtp://@232.84.3.136:10720
+#EXTINF:0 group-title="VTC" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6 HD (HD 8Mbps)
+rtp://@232.84.3.58:11704
 #EXTINF:0 group-title="VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7 HD (HD 8.5Mbps)
 rtp://@232.84.2.151:10726
 #EXTINF:0 group-title="VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7 HD (HD 8.5Mbps)
@@ -185,18 +187,30 @@ rtp://@232.84.1.215:9264
 #EXTINF:0 group-title="VTC" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
 rtp://@232.84.1.46:8256
 #------------------------HTV/HTVC------------------------#
+#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 (HD 6Mbps)
+rtp://@232.84.3.57:11710
 #EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/uSbnTdO.png",HTV2 (HD 8.5Mbps)
 rtp://@232.84.2.182:9306
+#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys (HD 6Mbps)
+rtp://@232.84.3.55:11722
 #EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD (HD 8Mbps)
 rtp://@232.84.1.223:9312
 #EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD (HD 8Mbps)
 rtp://@232.84.1.224:9318
 #EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao (HD 7.5Mbps)
 rtp://@232.84.3.88:11524
+#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/de7a3sf.png",HTVC Ca Nhạc (HD 6Mbps)
+rtp://@232.84.3.54:11728
+#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống (HD 6Mbps)
+rtp://@232.84.3.53:11734
+#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình (HD 6Mbps)
+rtp://@232.84.3.52:11740
 #EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim (HD 4.5Mbps)
 rtp://@232.84.2.133:9594
 #EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim (HD 4.5Mbps)
 rtp://@232.84.3.118:9594
+#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ (HD 6Mbps)
+rtp://@232.84.3.51:11746
 #EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt (HD 4Mbps)
 rtp://@232.84.2.134:9600
 #EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ (HD 4.5Mbps)
@@ -645,6 +659,8 @@ rtp://@232.84.3.188:11050
 rtp://@232.84.3.187:11044
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
 rtp://@232.84.2.136:9612
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Gszh5Yb.png",MSTV
+rtp://@232.84.3.192:11074
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DoCK1GY.png",Music Box
 rtp://@232.84.2.132:9588
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DoCK1GY.png",Music Box
@@ -744,8 +760,6 @@ rtp://@232.84.1.108:10224
 rtp://@232.84.2.122:8364
 #EXTINF:0 group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Unknown
 rtp://@232.84.1.229:9348
-#EXTINF:0 group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Unknown
-rtp://@232.84.3.192:11074
 #------------------------Mua Sắm------------------------#
 #EXTINF:0 group-title="Mua Sắm" tvg-logo="https://i.imgur.com/OSK4RXT.png",VTVcab13
 rtp://@232.84.1.142:10386
