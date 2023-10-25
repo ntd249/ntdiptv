@@ -191,6 +191,8 @@ rtp://@232.84.1.46:8256
 rtp://@232.84.3.57:11710
 #EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/uSbnTdO.png",HTV2 (HD 8.5Mbps)
 rtp://@232.84.2.182:9306
+#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3 (HD 6Mbps)
+rtp://@232.84.3.56:11716
 #EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys (HD 6Mbps)
 rtp://@232.84.3.55:11722
 #EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD (HD 8Mbps)
