@@ -201,17 +201,17 @@ rtp://@232.84.1.223:9312
 rtp://@232.84.1.224:9318
 #EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao (HD 7.5Mbps)
 rtp://@232.84.3.88:11524
-#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/de7a3sf.png",HTVC Ca Nhạc (HD 6Mbps)
+#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc (HD 6Mbps)
 rtp://@232.84.3.54:11728
 #EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống (HD 6Mbps)
 rtp://@232.84.3.53:11734
-#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình (HD 6Mbps)
+#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình (HD 6Mbps)
 rtp://@232.84.3.52:11740
-#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim (HD 4.5Mbps)
+#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim (HD 4.5Mbps)
 rtp://@232.84.2.133:9594
-#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim (HD 4.5Mbps)
+#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim (HD 4.5Mbps)
 rtp://@232.84.3.118:9594
-#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ (HD 6Mbps)
+#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ (HD 6Mbps)
 rtp://@232.84.3.51:11746
 #EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt (HD 4Mbps)
 rtp://@232.84.2.134:9600
@@ -231,15 +231,15 @@ rtp://@232.84.1.21:8100
 rtp://@232.84.1.31:8160
 #EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao
 rtp://@232.84.1.24:8118
-#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/de7a3sf.png",HTVC Ca Nhạc
+#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc
 rtp://@232.84.1.126:8730
 #EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
 rtp://@232.84.1.221:9300
-#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình
+#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình
 rtp://@232.84.1.170:8994
-#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim
+#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim
 rtp://@232.84.1.105:8604
-#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ
+#EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ
 rtp://@232.84.1.127:8736
 #EXTINF:0 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
 rtp://@232.84.1.22:8106
