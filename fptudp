@@ -64,15 +64,15 @@ udp://@225.1.1.192:30120
 udp://@225.1.1.190:30120
 #EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao (HD 8Mbps)
 udp://@225.1.1.165:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/de7a3sf.png",HTVC Ca Nhạc (HD 8Mbps)
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc (HD 8Mbps)
 udp://@225.1.1.185:30120
 #EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống (HD 8Mbps)
 udp://@225.1.1.166:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình (HD 8Mbps)
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình (HD 8Mbps)
 udp://@225.1.1.170:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim (HD 8Mbps)
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim (HD 8Mbps)
 udp://@225.1.1.184:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ (HD 8Mbps)
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ (HD 8Mbps)
 udp://@225.1.1.171:30120
 #EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt (HD 8Mbps)
 udp://@225.1.1.186:30120
@@ -370,13 +370,13 @@ udp://@225.1.4.11:30120
 udp://@225.1.4.60:30120
 #EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống (HD 4Mbps)
 udp://@225.1.4.67:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/de7a3sf.png",HTVC Ca Nhạc (HD 4Mbps)
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc (HD 4Mbps)
 udp://@225.1.4.223:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình (HD 4Mbps)
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình (HD 4Mbps)
 udp://@225.1.4.64:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim (HD 4Mbps)
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim (HD 4Mbps)
 udp://@225.1.4.63:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ (HD 4Mbps)
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ (HD 4Mbps)
 udp://@225.1.4.66:30120
 #EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt (HD 4Mbps)
 udp://@225.1.4.62:30120
