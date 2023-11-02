@@ -540,6 +540,8 @@ rtp://@232.84.2.55:10540
 rtp://@232.84.3.155:10540
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 6Mbps)
 rtp://@232.84.3.153:10690
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 7.5Mbps)
+rtp://@232.84.2.131:9582
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 10Mbps)
 rtp://@232.84.2.53:10528
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 10Mbps)
@@ -635,6 +637,8 @@ rtp://@232.84.1.5:8004
 rtp://@232.84.3.179:10488
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN
 rtp://@232.84.2.126:8076
+#EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci
+rtp://@232.84.1.108:10224
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel
 rtp://@232.84.1.47:8262
 #EXTINF:0 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/OKvk2mU.png",Dragon TV
@@ -751,18 +755,14 @@ rtp://@232.84.2.36:10624
 #EXTINF:0 group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Unknown
 rtp://@232.84.3.128:10624
 #EXTINF:0 group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Unknown
-rtp://@232.84.2.131:9582
-#EXTINF:0 group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Unknown
 rtp://@232.84.1.1:7980
 #EXTINF:0 group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Unknown
 rtp://@232.84.2.123:8454
 #EXTINF:0 group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Unknown
-rtp://@232.84.1.108:10224
-#EXTINF:0 group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Unknown
 rtp://@232.84.2.122:8364
-#EXTINF:0 group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Unknown
-rtp://@232.84.1.229:9348
 #------------------------Mua Sắm------------------------#
+#EXTINF:0 group-title="Mua Sắm" tvg-logo="https://i.imgur.com/KKhrAXP.png",HCATV5
+rtp://@232.84.1.229:9348
 #EXTINF:0 group-title="Mua Sắm" tvg-logo="https://i.imgur.com/OSK4RXT.png",VTVcab13
 rtp://@232.84.1.142:10386
 #------------------------DRM------------------------#
