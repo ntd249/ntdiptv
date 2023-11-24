@@ -35,15 +35,25 @@ rtp://@239.12.251.203:5000
 rtp://@239.12.251.233:5000
 #EXTINF:0,ON Phim Việt
 rtp://@239.12.251.186:5000
-#EXTINF:0,ON Music
-rtp://@239.12.252.10:5000
-#EXTINF:0,VTVcab19
-rtp://@239.12.251.197:5000
+#EXTINF:0,ON Phim Việt
+rtp://@239.12.251.240:5000
 #------------------------VTC------------------------#
 #EXTINF:0,VTC1 HD
 rtp://@239.12.252.6:5000
 #EXTINF:0,VTC3 HD
 rtp://@239.12.251.78:5000
+#EXTINF:0,VTC4 HD
+rtp://@239.12.252.33:5000
+#EXTINF:0,VTC5 HD
+rtp://@239.12.252.32:5000
+#EXTINF:0,VTC7 HD
+rtp://@239.12.252.34:5000
+#EXTINF:0,VTC9 HD
+rtp://@239.12.252.1:5000
+#EXTINF:0,VTC14 HD
+rtp://@239.12.252.10:5000
+#EXTINF:0,VTC16 HD
+rtp://@239.12.252.31:5000
 #EXTINF:0,VTC4
 rtp://@239.12.251.88:5000
 #EXTINF:0,VTC7
@@ -94,10 +104,14 @@ rtp://@239.12.251.39:5000
 rtp://@239.12.252.45:5000
 #EXTINF:0,PTV HD _ TH Phú Thọ
 rtp://@239.12.251.46:5000
+#EXTINF:0,BGTV HD _ TH Bắc Giang
+rtp://@239.12.252.25:5000
 #EXTINF:0,BTV HD _ TH Bắc Ninh
 rtp://@239.12.251.12:5000
 #EXTINF:0,H1 HD _ TH Hà Nội
 rtp://@239.12.251.223:5000
+#EXTINF:0,H2 HD _ TH Hà Nội
+rtp://@239.12.252.14:5000
 #EXTINF:0,THD HD _ TH Hải Dương
 rtp://@239.12.251.31:5000
 #EXTINF:0,THP HD _ TH TP. Hải Phòng
@@ -116,10 +130,14 @@ rtp://@239.12.251.70:5000
 rtp://@239.12.252.5:5000
 #EXTINF:0,KTV HD _ TH Khánh Hòa
 rtp://@239.12.252.2:5000
+#EXTINF:0,NTV HD _ TH Ninh Thuận
+rtp://@239.12.251.45:5000
 #EXTINF:0,THGL HD _ TH Gia Lai
 rtp://@239.12.252.35:5000
 #EXTINF:0,DRT HD _ TH Đắk Lắk
 rtp://@239.12.252.56:5000
+#EXTINF:0,BPTV1 HD _ TH Bình Phước
+rtp://@239.12.251.17:5000
 #EXTINF:0,BTV1 HD _ TH Bình Dương
 rtp://@239.12.251.15:5000
 #EXTINF:0,BTV2 HD _ TH Bình Dương
@@ -136,21 +154,17 @@ rtp://@239.12.252.29:5000
 rtp://@239.12.251.99:5000
 #EXTINF:0,THVL2 HD _ TH Vĩnh Long
 rtp://@239.12.251.100:5000
+#EXTINF:0,CTV HD _ TH Cà Mau
+rtp://@239.12.251.19:5000
 #------------------------Địa phương (SD)------------------------#
 #EXTINF:0,BRT _ TH Bà Rịa Vũng Tàu
 rtp://@239.12.251.8:5000
-#EXTINF:0,BGTV _ TH Bắc Giang
-rtp://@239.12.251.9:5000
 #EXTINF:0,BLTV _ TH Bạc Liêu
 rtp://@239.12.251.11:5000
 #EXTINF:0,BTV _ TH Bình Định
 rtp://@239.12.251.14:5000
-#EXTINF:0,BPTV1 _ TH Bình Phước
-rtp://@239.12.251.17:5000
 #EXTINF:0,BTV _ TH Bình Thuận
 rtp://@239.12.251.18:5000
-#EXTINF:0,CTV _ TH Cà Mau
-rtp://@239.12.251.19:5000
 #EXTINF:0,THTPCT _ TH TP. Cần Thơ
 rtp://@239.12.251.20:5000
 #EXTINF:0,CRTV _ TH Cao Bằng
@@ -183,8 +197,6 @@ rtp://@239.12.251.37:5000
 rtp://@239.12.251.38:5000
 #EXTINF:0,THLC _ TH Lào Cai
 rtp://@239.12.251.40:5000
-#EXTINF:0,LSTV _ TH Lạng Sơn
-rtp://@239.12.251.229:5000
 #EXTINF:0,LA34 _ TH Long An
 rtp://@239.12.251.41:5000
 #EXTINF:0,NTV _ TH Nam Định
@@ -193,8 +205,6 @@ rtp://@239.12.251.42:5000
 rtp://@239.12.251.43:5000
 #EXTINF:0,NTV _ TH Ninh Bình
 rtp://@239.12.251.44:5000
-#EXTINF:0,NTV _ TH Ninh Thuận
-rtp://@239.12.251.45:5000
 #EXTINF:0,PTP _ TH Phú Yên
 rtp://@239.12.251.47:5000
 #EXTINF:0,QBTV _ TH Quảng Bình
@@ -247,20 +257,18 @@ rtp://@239.12.251.183:5000
 #EXTINF:0,Viettel Service
 rtp://@239.12.251.79:5000
 #------------------------Other------------------------#
-#EXTINF:0,An Ninh Thế Giới
-rtp://@239.12.252.23:5000
 #------------------------Quốc Tế------------------------#
-#EXTINF:0,DW
-rtp://@239.12.252.16:5000
-#EXTINF:0,TV5 MONDE ASIE
-rtp://@239.12.252.17:5000
 #EXTINF:0,ARIRANG
 rtp://@239.12.252.18:5000
+#EXTINF:0,DW
+rtp://@239.12.252.16:5000
+#EXTINF:0,France 24 (English)
+rtp://@239.12.251.232:5000
 #EXTINF:0,NHK WORLD JAPAN
 rtp://@239.12.252.19:5000
+#EXTINF:0,TV5 MONDE ASIE
+rtp://@239.12.252.17:5000
 #------------------------Mua sắm------------------------#
-#EXTINF:0,VTVcab11
-rtp://@239.12.252.14:5000
 #EXTINF:0,VTVcab13
 rtp://@239.12.252.12:5000
 #EXTINF:0,BTV6
@@ -268,319 +276,4 @@ rtp://@239.12.252.57:5000
 #EXTINF:0,Unknown
 rtp://@239.12.251.64:5000
 #EXTINF:0,Unknown
-rtp://@239.12.252.60:5000
-#------------------------VTV------------------------#
-#EXTINF:0,VTV1 HD
-rtp://@239.1.0.2:5501
-#EXTINF:0,VTV1 HD
-rtp://@239.1.0.244:5501
-#EXTINF:0,VTV3 HD
-rtp://@239.1.0.118:5501
-#EXTINF:0,VTV Cần Thơ HD
-rtp://@239.1.0.247:5501
-#EXTINF:0,VTV7 HD
-rtp://@239.1.0.227:5501
-#EXTINF:0,VTV2
-rtp://@239.1.0.119:5501
-#EXTINF:0,VTV4
-rtp://@239.1.0.7:5501
-#EXTINF:0,VTV5
-rtp://@239.1.0.86:5501
-#EXTINF:0,VTV8
-rtp://@239.1.0.248:5501
-#EXTINF:0,VTV9
-rtp://@239.1.0.12:5501
-#------------------------VTVcab------------------------#
-#EXTINF:0,ON E Channel HD
-rtp://@239.1.0.39:5501
-#EXTINF:0,ON Cine HD
-rtp://@239.1.0.178:5501
-#EXTINF:0,ON Kids HD
-rtp://@239.1.0.242:5501
-#EXTINF:0,ON GOLF HD
-rtp://@239.1.0.10:5501
-#EXTINF:0,VTVcab 1 Vie Giải Trí
-rtp://@239.1.0.53:5501
-#EXTINF:0,VTVcab 1 Vie Giải Trí
-rtp://@239.1.0.64:5501
-#EXTINF:0,ON Phim Việt
-rtp://@239.1.0.152:5501
-#EXTINF:0,ON Trending TV
-rtp://@239.1.0.213:5501
-#EXTINF:0,ON V Family
-rtp://@239.1.0.41:5501
-#EXTINF:0,ON Kids
-rtp://@239.1.0.79:5501
-#EXTINF:0,ON Life
-rtp://@239.1.0.82:5501
-#EXTINF:0,VTVcab11
-rtp://@239.1.0.9:5501
-#EXTINF:0,VTVcab13
-rtp://@239.1.0.236:5501
-#------------------------VTC------------------------#
-#EXTINF:0,VTC1 HD
-rtp://@239.1.0.238:5501
-#EXTINF:0,VTC3 HD
-rtp://@239.1.0.239:5501
-#EXTINF:0,VTC13 HD
-rtp://@239.1.0.225:5501
-#EXTINF:0,VTC2
-rtp://@239.1.0.47:5501
-#EXTINF:0,VTC2
-rtp://@239.1.0.32:5501
-#EXTINF:0,VTC3
-rtp://@239.1.0.37:5501
-#EXTINF:0,VTC4
-rtp://@239.1.0.48:5501
-#EXTINF:0,VTC5
-rtp://@239.1.0.237:5501
-#EXTINF:0,VTC6
-rtp://@239.1.0.235:5501
-#EXTINF:0,VTC7
-rtp://@239.1.0.107:5501
-#EXTINF:0,VTC8
-rtp://@239.1.0.4:5501
-#EXTINF:0,VTC9
-rtp://@239.1.0.50:5501
-#EXTINF:0,VTC10
-rtp://@239.1.0.5:5501
-#EXTINF:0,VTC11
-rtp://@239.1.0.106:5501
-#EXTINF:0,VTC14
-rtp://@239.1.0.108:5501
-#EXTINF:0,VTC16
-rtp://@239.1.0.103:5501
-#EXTINF:0,VOV TV
-rtp://@239.1.0.20:5501
-#------------------------HTV------------------------#
-#EXTINF:0,HTV7 HD
-rtp://@239.1.0.243:5501
-#EXTINF:0,HTV9 HD
-rtp://@239.1.0.246:5501
-#EXTINF:0,HTVC Phim HD
-rtp://@239.1.0.76:5501
-#EXTINF:0,HTVC Thuần Việt HD
-rtp://@239.1.0.249:5501
-#EXTINF:0,HTV1
-rtp://@239.1.0.54:5501
-#EXTINF:0,HTV2
-rtp://@239.1.0.55:5501
-#EXTINF:0,HTV3
-rtp://@239.1.0.77:5501
-#EXTINF:0,HTV3
-rtp://@239.1.0.146:5501
-#EXTINF:0,HTV Keys
-rtp://@239.1.0.56:5501
-#EXTINF:0,HTV THỂ THAO
-rtp://@239.1.0.175:5501
-#EXTINF:0,HTVC Ca Nhạc
-rtp://@239.1.0.63:5501
-#EXTINF:0,HTVC Du Lịch và Cuộc sống
-rtp://@239.1.0.1:5501
-#EXTINF:0,HTVC GIA ĐÌNH
-rtp://@239.1.0.58:5501
-#EXTINF:0,HTVC PHIM
-rtp://@239.1.0.224:5501
-#EXTINF:0,HTVC Phụ Nữ
-rtp://@239.1.0.61:5501
-#EXTINF:0,HTVC Thuần Việt
-rtp://@239.1.0.62:5501
-#EXTINF:0,HTVC+
-rtp://@239.1.0.221:5501
-#------------------------Thiết Yếu------------------------#
-#EXTINF:0,QPVN HD
-rtp://@239.1.0.13:5501
-#EXTINF:0,ANTV
-rtp://@239.1.0.19:5501
-#EXTINF:0,Nhân Dân
-rtp://@239.1.0.71:5501
-#EXTINF:0,VNEWS
-rtp://@239.1.0.121:5501
-#EXTINF:0,QUỐC HỘI
-rtp://@239.1.0.214:5501
-#------------------------Quốc Tế------------------------#
-#EXTINF:0,BOX MOVIE 1 HD
-rtp://@239.1.0.6:5501
-#EXTINF:0,BOX MOVIE 1 HD
-rtp://@239.1.0.34:5501
-#EXTINF:0,KIX HD
-rtp://@239.1.0.15:5501
-#EXTINF:0,KIX HD
-rtp://@239.1.0.231:5501
-#EXTINF:0,Dr. Fit HD
-rtp://@239.1.0.25:5501
-#EXTINF:0,HAPPY KIDS HD
-rtp://@239.1.0.27:5501
-#EXTINF:0,HAPPY KIDS HD
-rtp://@239.1.0.234:5501
-#EXTINF:0,HISTORY HD
-rtp://@239.1.0.28:5501
-#EXTINF:0,HISTORY HD
-rtp://@239.1.0.232:5501
-#EXTINF:0,HOLLYWOOD CLASSICS HD
-rtp://@239.1.0.40:5501
-#EXTINF:0,Music Box HD
-rtp://@239.1.0.87:5501
-#EXTINF:0,OUTDOOR CHANNEL HD
-rtp://@239.1.0.145:5501
-#EXTINF:0,NATIONAL GEOGRAPHIC HD
-rtp://@239.1.0.228:5501
-#EXTINF:0,PLANET EARTH HD
-rtp://@239.1.0.240:5501
-#EXTINF:0,FRANCE 24 (ENG)
-rtp://@239.1.0.17:5501
-#EXTINF:0,CNA
-rtp://@239.1.0.18:5501
-#EXTINF:0,HOLLYWOOD CLASSICS
-rtp://@239.1.0.35:5501
-#EXTINF:0,BOX MOVIE 1
-rtp://@239.1.0.36:5501
-#EXTINF:0,KBS WORLD
-rtp://@239.1.0.46:5501
-#EXTINF:0,NHK WORLD JAPAN
-rtp://@239.1.0.49:5501
-#EXTINF:0,TV5 Monde Asie
-rtp://@239.1.0.52:5501
-#EXTINF:0,KIX
-rtp://@239.1.0.66:5501
-#EXTINF:0,Baby TV
-rtp://@239.1.0.69:5501
-#EXTINF:0,Happy Kids
-rtp://@239.1.0.80:5501
-#EXTINF:0,Planet Earth
-rtp://@239.1.0.88:5501
-#EXTINF:0,Dr. Fit
-rtp://@239.1.0.91:5501
-#EXTINF:0,Arirang
-rtp://@239.1.0.115:5501
-#EXTINF:0,AFN
-rtp://@239.1.0.148:5501
-#EXTINF:0,HISTORY
-rtp://@239.1.0.177:5501
-#EXTINF:0,DW
-rtp://@239.1.0.241:5501
-
-#EXTINF:0,Trà Vinh HD
-rtp://@239.1.0.14:5501
-#EXTINF:0,Trà Vinh HD
-rtp://@239.1.0.230:5501
-#EXTINF:0,DAK LAK
-rtp://@239.1.0.16:5501
-#EXTINF:0,HẢI PHÒNG
-rtp://@239.1.0.22:5501
-#EXTINF:0,QTV1 _ TH Quảng Ninh
-rtp://@239.1.0.23:5501
-#EXTINF:0,NGHỆ AN
-rtp://@239.1.0.26:5501
-#EXTINF:0,HÀ NAM
-rtp://@239.1.0.30:5501
-#EXTINF:0,Phú Thọ (No Video)
-rtp://@239.1.0.45:5501
-#EXTINF:0,H1 _ TH Hà Nội
-rtp://@239.1.0.59:5501
-#EXTINF:0,Quảng Trị
-rtp://@239.1.0.81:5501
-#EXTINF:0,DaNang TV 1
-rtp://@239.1.0.89:5501
-#EXTINF:0,THVL1 _ TH Vĩnh Long
-rtp://@239.1.0.90:5501
-#EXTINF:0,Phú Thọ
-rtp://@239.1.0.92:5501
-#EXTINF:0,THANH HOÁ
-rtp://@239.1.0.98:5501
-#EXTINF:0,THÁI NGUYÊN 1
-rtp://@239.1.0.99:5501
-#EXTINF:0,THỪA THIÊN HUẾ
-rtp://@239.1.0.100:5501
-#EXTINF:0,QUẢNG NAM
-rtp://@239.1.0.102:5501
-#EXTINF:0,KHÁNH HOÀ
-rtp://@239.1.0.110:5501
-#EXTINF:0,LÂM ĐỒNG
-rtp://@239.1.0.111:5501
-#EXTINF:0,Thái Nguyên 1 (No Audio)
-rtp://@239.1.0.112:5501
-#EXTINF:0,BẮC NINH
-rtp://@239.1.0.122:5501
-#EXTINF:0,CAO BẰNG
-rtp://@239.1.0.123:5501
-#EXTINF:0,HÀ GIANG
-rtp://@239.1.0.124:5501
-#EXTINF:0,LAI CHÂU
-rtp://@239.1.0.125:5501
-#EXTINF:0,SƠN LA
-rtp://@239.1.0.126:5501
-#EXTINF:0,HẢI DƯƠNG
-rtp://@239.1.0.127:5501
-#EXTINF:0,NAM ĐỊNH
-rtp://@239.1.0.128:5501
-#EXTINF:0,QUẢNG BÌNH
-rtp://@239.1.0.129:5501
-#EXTINF:0,PHÚ YÊN
-rtp://@239.1.0.130:5501
-#EXTINF:0,BÌNH THUẬN
-rtp://@239.1.0.131:5501
-#EXTINF:0,LÀO CAI
-rtp://@239.1.0.132:5501
-#EXTINF:0,THÁI BÌNH
-rtp://@239.1.0.133:5501
-#EXTINF:0,BÌNH ĐỊNH
-rtp://@239.1.0.134:5501
-#EXTINF:0,GIA LAI
-rtp://@239.1.0.135:5501
-#EXTINF:0,HƯNG YÊN
-rtp://@239.1.0.136:5501
-#EXTINF:0,HÀ TĨNH
-rtp://@239.1.0.137:5501
-#EXTINF:0,VĨNH PHÚC
-rtp://@239.1.0.138:5501
-#EXTINF:0,KON TUM
-rtp://@239.1.0.139:5501
-#EXTINF:0,NINH THUẬN
-rtp://@239.1.0.140:5501
-#EXTINF:0,NINH BÌNH
-rtp://@239.1.0.141:5501
-#EXTINF:0,YÊN BÁI
-rtp://@239.1.0.142:5501
-#EXTINF:0,QUẢNG NGÃI
-rtp://@239.1.0.143:5501
-#EXTINF:0,ĐẮK NÔNG
-rtp://@239.1.0.144:5501
-#EXTINF:0,ĐIỆN BIÊN
-rtp://@239.1.0.149:5501
-#EXTINF:0,Bắc Giang
-rtp://@239.1.0.168:5501
-#EXTINF:0,BẮC KẠN
-rtp://@239.1.0.215:5501
-#EXTINF:0,TUYÊN QUANG
-rtp://@239.1.0.216:5501
-#EXTINF:0,HOÀ BÌNH
-rtp://@239.1.0.217:5501
-#EXTINF:0,Lạng Sơn
-rtp://@239.1.0.3:5501
-#EXTINF:0,BTV4 _ TH Bình Dương
-rtp://@239.1.0.222:5501
-
-#EXTINF:0,HiTV
-rtp://@239.1.0.51:5501
-#EXTINF:0,AN NINH THẾ GIỚI
-rtp://@239.1.0.114:5501
-#EXTINF:0,You TV
-rtp://@239.1.0.116:5501
-
-#EXTINF:0,Unknown
-rtp://@239.1.0.223:5501
-#EXTINF:0,Unknown
-rtp://@239.1.0.160:5501
-#EXTINF:0,Unknown
-rtp://@239.1.0.57:5501
-#EXTINF:0,Unknown
-rtp://@239.1.0.31:5501
-#EXTINF:0,Unknown
-rtp://@239.1.0.24:5501
-#EXTINF:0,Unknown
-rtp://@239.1.0.67:5501
-#EXTINF:0,Unknown
-rtp://@239.1.0.68:5501
-#EXTINF:0,Unknown
-rtp://@239.1.0.83:5501
+rtp://@239.12.252.23:5000
