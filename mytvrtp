@@ -80,8 +80,6 @@ rtp://@232.84.1.52:8292
 #------------------------VTVcab------------------------#
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (HD 8.5Mbps)
 rtp://@232.84.3.242:11374
-#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ (HD 7Mbps)
-rtp://@232.84.3.75:11602
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football HD (HD 8.5Mbps)
 rtp://@232.84.3.243:11380
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf (HD 8.5Mbps)
@@ -114,12 +112,12 @@ rtp://@232.84.3.68:11644
 rtp://@232.84.3.78:11584
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/emLcVMU.png",VTVcab19 (HD 8.5Mbps)
 rtp://@232.84.3.218:11230
+#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football
+rtp://@232.84.3.93:11494
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
 rtp://@232.84.1.206:9210
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
 rtp://@232.84.1.205:9204
-#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON EChannel
-rtp://@232.84.1.193:9132
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
 rtp://@232.84.2.191:10930
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
@@ -128,8 +126,6 @@ rtp://@232.84.2.192:10936
 rtp://@232.84.1.26:8130
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
 rtp://@232.84.1.168:8982
-#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+
-rtp://@232.84.1.220:9294
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
 rtp://@232.84.1.244:9438
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
@@ -568,6 +564,10 @@ rtp://@232.84.1.13:8052
 rtp://@232.84.1.72:8406
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor (HD 7.5Mbps)
 rtp://@232.84.1.107:10218
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (HD 10Mbps)
+rtp://@232.84.2.142:10672
+#EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (HD 10Mbps)
+rtp://@232.84.3.129:10672
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC (HD 6Mbps)
 rtp://@232.84.3.156:10708
 #EXTINF:0 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/YyYy7jy.png",TVE (HD 6.5Mbps)
@@ -764,6 +764,12 @@ rtp://@232.84.1.229:9348
 #EXTINF:0 group-title="Mua Sắm" tvg-logo="https://i.imgur.com/OSK4RXT.png",VTVcab13
 rtp://@232.84.1.142:10386
 #------------------------DRM------------------------#
+#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ (DRM)
+rtp://@232.84.3.75:11602
+#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ (DRM)
+rtp://@232.84.1.220:9294
+#EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON EChannel (DRM)
+rtp://@232.84.1.193:9132
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf HD (DRM)
 rtp://@232.84.2.246:10876
 #EXTINF:0 group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports (DRM)
