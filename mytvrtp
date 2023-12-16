@@ -80,10 +80,6 @@ rtp://@232.84.1.52:8292
 #------------------------VTVcab------------------------#
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (HD 8.5Mbps)
 rtp://@232.84.3.242:11374
-#EXTINF:0 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football HD (HD 8.5Mbps)
-rtp://@232.84.3.243:11380
-#EXTINF:0 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf (HD 8.5Mbps)
-rtp://@232.84.3.244:11386
 #EXTINF:0 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi (HD 8.5Mbps)
 rtp://@232.84.3.217:11224
 #EXTINF:0 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine (HD 8Mbps)
@@ -319,11 +315,7 @@ rtp://@232.84.3.81:11566
 #EXTINF:0 tvg-id="bentre" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH Bến Tre (HD 8.5Mbps)
 rtp://@232.84.3.95:11482
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long (HD 7Mbps)
-rtp://@232.84.2.183:10882
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long (HD 7Mbps)
 rtp://@232.84.3.152:10882
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long (HD 8Mbps)
-rtp://@232.84.2.184:10888
 #EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long (HD 8Mbps)
 rtp://@232.84.3.164:10888
 #EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vĩnh Long (HD 7Mbps)
@@ -726,8 +718,10 @@ rtp://@232.84.3.195:11092
 rtp://@232.84.1.238:10296
 #EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",MyTV Giới Thiệu
 rtp://@232.84.1.4:7998
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Test
+#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",HTV2 HD (Timecode)
 rtp://@232.84.3.212:11194
+#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Notification
+rtp://@232.84.3.50:11752
 #EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Unknown
 rtp://@232.84.2.197:10966
 #EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Unknown
