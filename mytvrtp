@@ -102,7 +102,7 @@ rtp://@232.84.3.71:11626
 rtp://@232.84.3.69:11638
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily (HD 8Mbps)
 rtp://@232.84.3.68:11644
-#EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/pdj0qFN.png",ON Vie Giải Trí (HD 8Mbps)
+#EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí (HD 8Mbps)
 rtp://@232.84.3.78:11584
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/emLcVMU.png",VTVcab19 (HD 8.5Mbps)
 rtp://@232.84.3.218:11230
@@ -124,7 +124,7 @@ rtp://@232.84.1.244:9438
 rtp://@232.84.1.217:9276
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
 rtp://@232.84.1.245:10344
-#EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/pdj0qFN.png",ON Vie Giải Trí
+#EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
 rtp://@232.84.1.143:8832
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/emLcVMU.png",VTVcab19
 rtp://@232.84.1.169:8988
