@@ -44,6 +44,8 @@ rtp://@239.12.251.203:5000
 rtp://@239.12.251.233:5000
 #EXTINF:0 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV HD
 rtp://@239.12.252.42:5000
+#EXTINF:0 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies HD
+rtp://@239.12.252.39:5000
 #EXTINF:0 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music HD
 rtp://@239.12.251.195:5000
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt HD
@@ -52,7 +54,7 @@ rtp://@239.12.252.41:5000
 rtp://@239.12.252.43:5000
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily HD
 rtp://@239.12.252.49:5000
-#EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/emLcVMU.png",VTVcab19 HD
+#EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie Dramas HD
 rtp://@239.12.252.38:5000
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
 rtp://@239.12.251.186:5000
