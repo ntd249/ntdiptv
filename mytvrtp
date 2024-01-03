@@ -550,11 +550,11 @@ rtp://@232.84.1.13:8052
 rtp://@232.84.1.72:8406
 #EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor (HD 7.5Mbps)
 rtp://@232.84.1.107:10218
-#EXTINF:0 tvg-id="spotv" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (HD 9Mbps)
+#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (HD 9Mbps)
 rtp://@232.84.2.141:10666
-#EXTINF:0 tvg-id="spotv" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (HD 9Mbps)
+#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (HD 9Mbps)
 rtp://@232.84.3.111:10666
-#EXTINF:0 tvg-id="spotv" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (HD 9Mbps)
+#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (HD 9Mbps)
 rtp://@232.84.3.49:11758
 #EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (HD 9Mbps)
 rtp://@232.84.2.142:10672
@@ -681,7 +681,7 @@ rtp://@232.84.2.125:8538
 rtp://@232.84.3.209:11176
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/6bUPlxA.png",Shenzhen
 rtp://@232.84.3.186:11038
-#EXTINF:0 tvg-id="spotv" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV
+#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV
 rtp://@232.84.1.11:8040
 #EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2
 rtp://@232.84.1.12:8046
