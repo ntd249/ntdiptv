@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #------------------------VTV------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8.5Mbps)
 rtp://@232.84.1.117:10254
@@ -151,8 +151,6 @@ rtp://@232.84.3.120:10726
 rtp://@232.84.3.141:10732
 #EXTINF:0 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10 HD (HD 8.5Mbps)
 rtp://@232.84.3.87:11530
-#EXTINF:0 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://i.imgur.com/wnNBcEo.png",VTC13 (HD 8.5Mbps)
-rtp://@232.84.1.74:8418
 #EXTINF:0 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14 HD (HD 8.5Mbps)
 rtp://@232.84.3.216:11218
 #EXTINF:0 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 HD (HD 8.5Mbps)
@@ -179,10 +177,6 @@ rtp://@232.84.1.59:8334
 rtp://@232.84.1.214:9258
 #EXTINF:0 tvg-id="vtc11" group-title="VTC" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
 rtp://@232.84.1.61:8340
-#EXTINF:0 tvg-id="vtc12dhd" group-title="VTC" tvg-logo="https://i.imgur.com/YawrTlw.png",VTC12
-rtp://@232.84.3.193:11080
-#EXTINF:0 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://i.imgur.com/wnNBcEo.png",VTC13
-rtp://@232.84.1.62:8346
 #EXTINF:0 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14
 rtp://@232.84.1.216:9270
 #EXTINF:0 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16
@@ -294,6 +288,8 @@ rtp://@232.84.3.198:11110
 rtp://@232.84.2.198:10972
 #EXTINF:0 tvg-id="hatinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV HD _ TH Hà Tĩnh (HD 8.5Mbps)
 rtp://@232.84.3.134:10768
+#EXTINF:0 tvg-id="quangtri" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/yIHs2sI.png",QRTV HD _ TH Quảng Trị (HD 7.5Mbps)
+rtp://@232.84.3.46:11776
 #EXTINF:0 tvg-id="quangngai" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quảng Ngãi (HD 6Mbps)
 rtp://@232.84.3.126:10798
 #EXTINF:0 tvg-id="kontum" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum (HD 7.5Mbps)
@@ -306,6 +302,8 @@ rtp://@232.84.3.109:10750
 rtp://@232.84.3.199:11116
 #EXTINF:0 tvg-id="dongnai1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD _ TH Đồng Nai (HD 6Mbps)
 rtp://@232.84.3.112:10762
+#EXTINF:0 tvg-id="vungtau" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà Rịa Vũng Tàu (HD 8Mbps)
+rtp://@232.84.3.47:11770
 #EXTINF:0 tvg-id="tiengiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang (HD 6Mbps)
 rtp://@232.84.3.204:11146
 #EXTINF:0 tvg-id="angiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV HD _ TH An Giang (HD 8.5Mbps)
@@ -744,6 +742,12 @@ rtp://@232.84.2.156:10756
 rtp://@232.84.1.139:8808
 #EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Unknown
 rtp://@232.84.3.179:10488
+#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Unknown
+rtp://@232.84.1.74:8418
+#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Unknown
+rtp://@232.84.3.193:11080
+#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Unknown
+rtp://@232.84.1.62:8346
 #------------------------Mua Sắm------------------------#
 #EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/KKhrAXP.png",HCATV5
 rtp://@232.84.1.229:9348
