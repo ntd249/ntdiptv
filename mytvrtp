@@ -302,7 +302,7 @@ rtp://@232.84.3.109:10750
 rtp://@232.84.3.199:11116
 #EXTINF:0 tvg-id="dongnai1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD _ TH Đồng Nai (HD 6Mbps)
 rtp://@232.84.3.112:10762
-#EXTINF:0 tvg-id="tayninh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh (HD 6Mbps)
+#EXTINF:0 tvg-id="tayninh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh (HD 6Mbps)
 rtp://@232.84.3.233:11320
 #EXTINF:0 tvg-id="vungtau" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà Rịa Vũng Tàu (HD 8Mbps)
 rtp://@232.84.3.47:11770
