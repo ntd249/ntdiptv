@@ -133,7 +133,7 @@ rtp://@232.84.1.143:8832
 rtp://@232.84.2.173:10846
 #EXTINF:0 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD (HD 7Mbps)
 rtp://@232.84.3.102:10846
-#EXTINF:0 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 HD (HD 6.5Mbps)
+#EXTINF:0 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 HD (HD 6Mbps)
 rtp://@232.84.1.81:8460
 #EXTINF:0 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4 HD (HD 8.5Mbps)
 rtp://@232.84.2.149:10714
@@ -676,19 +676,19 @@ rtp://@232.84.3.189:11056
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/SSQxzsd.png",YTN
 rtp://@232.84.3.208:11170
 #------------------------MyTV------------------------#
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Feed Quốc Hội
+#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Feed Quốc Hội
 rtp://@232.84.3.1:10278
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Event 801
+#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Event 801
 rtp://@232.84.2.175:10858
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Event 802
+#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Event 802
 rtp://@232.84.2.176:10864
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Event 803
+#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Event 803
 rtp://@232.84.2.195:10954
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Event 804
+#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Event 804
 rtp://@232.84.2.196:10960
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Mosaic 1
+#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Mosaic 1
 rtp://@232.84.3.174:9426
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",Mosaic 2
+#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Mosaic 2
 rtp://@232.84.3.173:9432
 #EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/MZIGm1R.png",Meliã Hotels International
 rtp://@232.84.2.54:10534
@@ -700,16 +700,16 @@ rtp://@232.84.1.239:10302
 rtp://@232.84.2.56:10546
 #EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/QzD6Gv0.png",Marriott Bonvoy
 rtp://@232.84.1.159:10422
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",MyTV Promo
+#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",MyTV Promo
 rtp://@232.84.3.195:11092
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",MyTV Promo
+#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",MyTV Promo
 rtp://@232.84.1.238:10296
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/is05vgr.png",MyTV Promo
+#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",MyTV Promo
 rtp://@232.84.1.4:7998
 #------------------------Mua Sắm------------------------#
 #EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/KKhrAXP.png",HCATV5
 rtp://@232.84.1.229:9348
-#EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/OSK4RXT.png",VTVcab13
+#EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping
 rtp://@232.84.1.142:10386
 #------------------------DRM------------------------#
 #EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ (DRM)
@@ -766,35 +766,9 @@ rtp://@232.84.1.12:8046
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
 rtp://@232.84.3.50:11752
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.2.197:10966
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.3.201:11128
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.3.194:11086
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard) 
-rtp://@232.84.3.135:10476
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.2.171:10834
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.3.107:10834
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
 rtp://@232.84.3.254:11446
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
 rtp://@232.84.2.180:10338
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.2.128:8352
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.2.36:10624
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.3.128:10624
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.1.1:7980
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.2.123:8454
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.2.156:10756
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.1.139:8808
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
 rtp://@232.84.3.179:10488
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
