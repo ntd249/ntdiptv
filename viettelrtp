@@ -34,12 +34,6 @@ rtp://@239.12.251.208:5000
 #EXTINF:0 tvg-id="ttxvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS
 rtp://@239.12.252.8:5000
 #------------------------VTVcab------------------------#
-#EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD
-rtp://@239.12.251.200:5000
-#EXTINF:0 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ HD
-rtp://@239.12.251.189:5000
-#EXTINF:0 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News HD
-rtp://@239.12.251.203:5000
 #EXTINF:0 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf HD 
 rtp://@239.12.251.233:5000
 #EXTINF:0 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV HD
@@ -90,12 +84,12 @@ rtp://@239.12.251.23:5000
 rtp://@239.12.252.20:5000
 #EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
 rtp://@239.12.252.15:5000
+#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
+rtp://@239.12.252.52:5000
 #------------------------SCTV------------------------#
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 HD
 rtp://@239.12.251.71:5000
 #------------------------Other------------------------#
-#EXTINF:0 tvg-id="hitv" group-title="Other" tvg-logo="https://i.imgur.com/78fQx65.png",HCATV1 HiTV HD
-rtp://@239.12.252.11:5000
 #------------------------Địa phương (HD)------------------------#
 #EXTINF:0 tvg-id="yenbai" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái
 rtp://@239.12.252.55:5000
@@ -111,6 +105,8 @@ rtp://@239.12.251.46:5000
 rtp://@239.12.252.25:5000
 #EXTINF:0 tvg-id="bacninh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV HD _ TH Bắc Ninh
 rtp://@239.12.251.12:5000
+#EXTINF:0 tvg-id="hanam" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/DCSPntI.png",THHN HD _ TH Hà Nam
+rtp://@239.12.252.63:5000
 #EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội
 rtp://@239.12.251.223:5000
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội
@@ -131,6 +127,10 @@ rtp://@239.12.251.68:5000
 rtp://@239.12.251.70:5000
 #EXTINF:0 tvg-id="hue" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/29px2Qy.png",TRT HD _ TH Thừa Thiên Huế
 rtp://@239.12.252.5:5000
+#EXTINF:0 tvg-id="binhdinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/APCkufv.png",BTV HD _ TH Bình Định
+rtp://@239.12.251.14:5000
+#EXTINF:0 tvg-id="binhdinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/APCkufv.png",BTV HD _ TH Bình Định
+rtp://@239.12.252.62:5000
 #EXTINF:0 tvg-id="khanhhoa" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH Khánh Hòa
 rtp://@239.12.252.2:5000
 #EXTINF:0 tvg-id="ninhthuan" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/cx5AaTV.png",NTV HD _ TH Ninh Thuận
@@ -139,6 +139,8 @@ rtp://@239.12.251.45:5000
 rtp://@239.12.252.35:5000
 #EXTINF:0 tvg-id="daklak" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk
 rtp://@239.12.252.56:5000
+#EXTINF:0 tvg-id="daklak" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk
+rtp://@239.12.252.82:5000
 #EXTINF:0 tvg-id="binhphuoc1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/DHWoGfP.png",BPTV1 HD _ TH Bình Phước
 rtp://@239.12.251.17:5000
 #EXTINF:0 tvg-id="binhduong1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương
@@ -200,8 +202,6 @@ rtp://@239.12.252.27:5000
 rtp://@239.12.251.49:5000
 #EXTINF:0 tvg-id="quangngai" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quảng Ngãi
 rtp://@239.12.251.50:5000
-#EXTINF:0 tvg-id="binhdinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/APCkufv.png",BTV _ TH Bình Định
-rtp://@239.12.251.14:5000
 #EXTINF:0 tvg-id="phuyen" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP _ TH Phú Yên
 rtp://@239.12.251.47:5000
 #EXTINF:0 tvg-id="binhthuan" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV _ TH Bình Thuận
@@ -241,12 +241,16 @@ rtp://@239.12.251.20:5000
 rtp://@239.12.251.162:5000
 #EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
 rtp://@239.12.252.18:5000
+#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
+rtp://@239.12.252.57:5000
 #EXTINF:0 tvg-id="dw" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW
 rtp://@239.12.252.16:5000
 #EXTINF:0 tvg-id="france24eng" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English)
 rtp://@239.12.251.232:5000
 #EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan 
 rtp://@239.12.252.19:5000
+#EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan 
+rtp://@239.12.252.53:5000
 #EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie
 rtp://@239.12.252.17:5000
 #------------------------Viettel Service------------------------#
@@ -271,9 +275,9 @@ rtp://@239.12.251.183:5000
 #EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
 rtp://@239.12.251.79:5000
 #EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Unknown
-rtp://@239.12.252.23:5000
-#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",QPVN HD (422 Color Test)
-rtp://@239.12.251.9:5000
+rtp://@239.12.252.58:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Unknown
+rtp://@239.12.252.11:5000
 #------------------------Mua sắm------------------------#
-#EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/OSK4RXT.png",VTVcab13
+#EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping
 rtp://@239.12.252.12:5000
