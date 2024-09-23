@@ -274,6 +274,8 @@ rtp://@232.84.2.245:10506
 rtp://@232.84.3.143:10738
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội (HD 4Mbps)
 rtp://@232.84.3.137:10744
+#EXTINF:0 tvg-id="haiduong" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH Hải Dương (HD 8Mbps)
+rtp://@232.84.3.44:11788
 #EXTINF:0 tvg-id="haiphong" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. Hải Phòng (HD 6Mbps)
 rtp://@232.84.3.142:10780
 #EXTINF:0 tvg-id="haiphongplus" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ HD _ TH TP. Hải Phòng (HD 6Mbps)
