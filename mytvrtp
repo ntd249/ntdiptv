@@ -88,6 +88,10 @@ rtp://@232.84.3.72:11620
 rtp://@232.84.3.76:11596
 #EXTINF:0 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV (HD 8Mbps)
 rtp://@232.84.3.73:11614
+#EXTINF:0 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/Y2SzhHG.png",ON Kids (HD 7Mbps)
+rtp://@232.84.3.41:11806
+#EXTINF:0 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life (HD 7Mbps)
+rtp://@232.84.3.40:11812
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies (HD 8.5Mbps)
 rtp://@232.84.2.190:10924
 #EXTINF:0 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music (HD 8Mbps)
@@ -128,6 +132,11 @@ rtp://@232.84.1.245:10344
 rtp://@232.84.1.169:8988
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
 rtp://@232.84.1.143:8832
+#------------------------K+------------------------#
+#EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (HD 9Mbps)
+rtp://@232.84.3.42:11800
+#EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids
+rtp://@232.84.3.43:11794
 #------------------------VTC------------------------#
 #EXTINF:0 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD (HD 7.5Mbps)
 rtp://@232.84.2.173:10846
@@ -510,6 +519,8 @@ rtp://@232.84.2.172:10840
 rtp://@232.84.3.103:10840
 #EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
 rtp://@232.84.3.64:11668
+#EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax (HD 9Mbps)
+rtp://@232.84.3.117:10654
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Yhpx1Ve.png",Clubbing TV (HD 8.5Mbps)
 rtp://@232.84.3.96:11476
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 6.5Mbps)
@@ -527,7 +538,7 @@ rtp://@232.84.2.53:10528
 #EXTINF:0 tvg-id="discoveryhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 10Mbps)
 rtp://@232.84.3.132:10528
 #EXTINF:0 tvg-id="dmax" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vHmt91V.png",Dmax (HD 8.5Mbps)
-rtp://@232.84.3.117:10654
+rtp://@232.84.1.1:7980
 #EXTINF:0 tvg-id="dreamworks" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 15Mbps)
 rtp://@232.84.3.227:11284
 #EXTINF:0 tvg-id="dreamworks" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 8Mbps)
@@ -611,6 +622,8 @@ rtp://@232.84.3.182:11014
 rtp://@232.84.3.181:11008
 #EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World
 rtp://@232.84.1.44:8244
+#EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
+rtp://@232.84.1.20:8094
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA
 rtp://@232.84.1.5:8004
 #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN
@@ -619,8 +632,6 @@ rtp://@232.84.2.126:8076
 rtp://@232.84.1.108:10224
 #EXTINF:0 tvg-id="discoveryhd" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel
 rtp://@232.84.1.47:8262
-#EXTINF:0 tvg-id="dmax" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/vHmt91V.png",Dmax
-rtp://@232.84.1.20:8094
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/OKvk2mU.png",Dragon TV
 rtp://@232.84.3.185:11032
 #EXTINF:0 tvg-id="dw" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English)
@@ -655,6 +666,8 @@ rtp://@232.84.3.144:9588
 rtp://@232.84.1.8:8022
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/RB4ymyh.png",NHK Premium
 rtp://@232.84.3.172:10494
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/lquiFgx.png",OBS
+rtp://@232.84.3.208:11170
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/n93KZnX.png",Phoenix Chinese Channel
 rtp://@232.84.3.191:11068
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/CAcJfPZ.png",Phoenix Infonews Channel
@@ -677,8 +690,6 @@ rtp://@232.84.1.45:8250
 rtp://@232.84.1.91:10404
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/V0l9O6g.png",Xing Kong International
 rtp://@232.84.3.189:11056
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/SSQxzsd.png",YTN
-rtp://@232.84.3.208:11170
 #------------------------MyTV------------------------#
 #EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Feed Quốc Hội
 rtp://@232.84.3.1:10278
@@ -711,8 +722,6 @@ rtp://@232.84.1.238:10296
 #EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",MyTV Promo
 rtp://@232.84.1.4:7998
 #------------------------Mua Sắm------------------------#
-#EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/KKhrAXP.png",HCATV5
-rtp://@232.84.1.229:9348
 #EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping
 rtp://@232.84.1.142:10386
 #------------------------DRM------------------------#
@@ -791,6 +800,8 @@ rtp://@232.84.3.215:11212
 rtp://@232.84.3.84:11548
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
 rtp://@232.84.1.55:8310
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
+rtp://@232.84.3.194:11086
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",(VTC Infocard)
 rtp://@232.84.1.74:8418
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",(VTC Infocard)
