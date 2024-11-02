@@ -44,6 +44,8 @@ rtp://@239.12.252.40:5000
 rtp://@239.12.252.39:5000
 #EXTINF:0 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music HD
 rtp://@239.12.251.195:5000
+#EXTINF:0 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV HD
+rtp://@239.12.251.91:5000
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt HD
 rtp://@239.12.252.41:5000
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV HD
@@ -82,8 +84,6 @@ rtp://@239.12.252.9:5000
 rtp://@239.12.251.23:5000
 #EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
 rtp://@239.12.252.20:5000
-#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
-rtp://@239.12.252.15:5000
 #------------------------SCTV------------------------#
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 HD
 rtp://@239.12.251.71:5000
@@ -101,6 +101,8 @@ rtp://@239.12.252.45:5000
 rtp://@239.12.251.46:5000
 #EXTINF:0 tvg-id="bacgiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV HD _ TH Bắc Giang
 rtp://@239.12.252.25:5000
+#EXTINF:0 tvg-id="bacgiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV HD _ TH Bắc Giang
+rtp://@239.12.252.83:5000
 #EXTINF:0 tvg-id="bacninh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV HD _ TH Bắc Ninh
 rtp://@239.12.251.12:5000
 #EXTINF:0 tvg-id="hanam" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/DCSPntI.png",THHN HD _ TH Hà Nam
@@ -138,7 +140,7 @@ rtp://@239.12.252.35:5000
 #EXTINF:0 tvg-id="daklak" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk
 rtp://@239.12.252.56:5000
 #EXTINF:0 tvg-id="daklak" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk
-rtp://@239.12.252.82:5000
+rtp://@239.12.252.84:5000
 #EXTINF:0 tvg-id="binhphuoc1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/DHWoGfP.png",BPTV1 HD _ TH Bình Phước
 rtp://@239.12.251.17:5000
 #EXTINF:0 tvg-id="binhduong1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương
@@ -153,6 +155,8 @@ rtp://@239.12.251.75:5000
 rtp://@239.12.251.7:5000
 #EXTINF:0 tvg-id="bentre" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH Bến Tre
 rtp://@239.12.252.29:5000
+#EXTINF:0 tvg-id="bentre" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH Bến Tre
+rtp://@239.12.252.85:5000
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long
 rtp://@239.12.251.99:5000
 #EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long
@@ -249,6 +253,8 @@ rtp://@239.12.251.232:5000
 rtp://@239.12.252.19:5000
 #EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie
 rtp://@239.12.252.17:5000
+#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie
+rtp://@239.12.252.82:5000
 #------------------------Viettel Service------------------------#
 #EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/64r9a8f.png",TV360+1
 rtp://@239.12.251.72:5000
@@ -266,6 +272,8 @@ rtp://@239.12.252.52:5000
 rtp://@239.12.252.53:5000
 #EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/ytWk07o.png",TV360+8
 rtp://@239.12.252.60:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/FE1lVL6.png",TV360+9
+rtp://@239.12.252.15:5000
 #EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",MOSAIC
 rtp://@239.12.251.151:5000
 #EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
