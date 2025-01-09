@@ -58,8 +58,6 @@ udp://@225.1.2.197:30120
 udp://@225.1.2.196:30120
 #EXTINF:0 tvg-id="vtc11" group-title="VTC" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
 udp://@225.1.2.193:30120
-#EXTINF:0 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
-udp://@225.1.2.171:30120
 #-------------------HTV/HTVC-------------------#
 #EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel (HD 8Mbps)
 udp://@225.1.1.193:30120
@@ -288,6 +286,8 @@ udp://@225.1.1.112:30120
 udp://@225.1.2.233:30120
 #EXTINF:0 tvg-id="kbsworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World (HD 8Mbps)
 udp://@225.1.1.196:30120
+#EXTINF:0 tvg-id="kix" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/pxigRGm.png",KIX (HD 8Mbps)
+udp://@225.1.2.144:30120
 #EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan (HD 8Mbps)
 udp://@225.1.1.47:30120
 #EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 8Mbps)
@@ -656,8 +656,6 @@ udp://@225.1.4.46:30120
 udp://@225.1.4.47:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",VTC11
 udp://@225.1.4.50:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",VOV TV
-udp://@225.1.4.220:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",HTV1
 udp://@225.1.4.55:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",HTV3
@@ -880,5 +878,7 @@ udp://@225.1.1.76:30120
 udp://@225.1.1.73:30120
 #EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
 udp://@225.1.1.77:30120
-#EXTINF:0,(FPT Infocard)
-udp://@225.1.2.144:30120
+#EXTINF:0,(VOV Infocard)
+udp://@225.1.2.171:30120
+#EXTINF:0,(VOV Infocard)
+udp://@225.1.4.220:30120
