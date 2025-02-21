@@ -223,6 +223,8 @@ udp://@225.1.2.52:30120
 udp://@225.1.2.74:30120
 #EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg (HD 8Mbps)
 udp://@225.1.2.91:30120
+#EXTINF:0 tvg-id="boomerang" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/rRDAzm4.png",Boomerang (HD 8Mbps)
+udp://@225.1.1.138:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network (HD 8Mbps)
 udp://@225.1.2.231:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
@@ -358,6 +360,8 @@ udp://@225.1.3.106:30120
 udp://@225.1.3.74:30120
 #EXTINF:0 tvg-id="binhthuan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV HD _ TH Bình Thuận (HD 8Mbps)
 udp://@225.1.3.104:30120
+#EXTINF:0 tvg-id="kontum" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum (HD 8Mbps)
+udp://@225.1.3.110:30120
 #EXTINF:0 tvg-id="binhduong1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương (HD 8Mbps)
 udp://@225.1.3.64:30120
 #EXTINF:0 tvg-id="binhduong2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD _ TH Bình Dương (HD 8Mbps)
@@ -420,6 +424,8 @@ udp://@225.1.3.94:30120
 udp://@225.1.3.29:30120
 #EXTINF:0 tvg-id="kbsworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World (HD 8Mbps)
 udp://@225.1.3.93:30120
+#EXTINF:0 tvg-id="kix" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/pxigRGm.png",KIX (HD 8Mbps)
+udp://@225.1.3.78:30120
 #EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan (HD 8Mbps)
 udp://@225.1.3.92:30120
 #EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 8Mbps)
@@ -522,10 +528,8 @@ udp://@225.1.4.23:30120
 udp://@225.1.4.22:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/rxFZgIK.png",BLOOMBERG (HD 4Mbps)
 udp://@225.1.4.18:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 4Mbps)
-#udp://@225.1.4.15:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/NzROY7r.png",CINEMAX (HD 4Mbps)
-#udp://@225.1.4.205:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/rRDAzm4.png",Boomerang (HD 4Mbps)
+udp://@225.1.4.16:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK (HD 4Mbps)
 udp://@225.1.4.13:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 4Mbps)
@@ -703,8 +707,8 @@ udp://@225.1.1.2:30120
 udp://@225.1.4.199:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
 udp://@225.1.4.200:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Pladio
-udp://@225.1.2.244:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+udp://@225.1.2.243:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 udp://@225.1.1.10:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
@@ -769,9 +773,9 @@ udp://@225.1.1.123:30120
 #EXTINF:0 tvg-id="" group-title="FPT Advertisement",The Ocean Resort
 udp://@225.1.1.121:30120
 #-------------------Mua sắm-------------------#
-#EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping
+#EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping (HD 4Mbps)
 udp://@225.1.1.122:30120
-#EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping
+#EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping (HD 4Mbps)
 udp://@225.1.4.79:30120
 #-------------------K+-------------------#
 #EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
@@ -784,23 +788,7 @@ udp://@225.1.1.76:30120
 udp://@225.1.1.73:30120
 #EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
 udp://@225.1.1.77:30120
-#EXTINF:0,(MSky Infocard)
-udp://@225.1.1.138:30120
-#EXTINF:0,(MSky Infocard)
-udp://@225.1.4.16:30120
 #EXTINF:0,(VOV Infocard)
 udp://@225.1.2.171:30120
 #EXTINF:0,(VOV Infocard)
 udp://@225.1.4.220:30120
-#EXTINF:0,(Nhân Dân TV Infocard)
-udp://@225.1.3.41:30120
-#EXTINF:0,(Nhân Dân TV Infocard)
-udp://@225.1.1.91:30120
-#EXTINF:0,(Nhân Dân TV Infocard)
-udp://@225.1.4.98:30120
-#EXTINF:0,(VNEWS Infocard)
-udp://@225.1.4.219:30120
-#EXTINF:0,(VNEWS Infocard)
-udp://@225.1.3.61:30120
-#EXTINF:0,(VNEWS Infocard)
-udp://@225.1.1.167:30120
