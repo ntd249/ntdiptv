@@ -128,7 +128,7 @@ rtp://@239.12.252.88:5000
 rtp://@239.12.252.106:5000
 #EXTINF:0 tvg-id="quangtri" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/4TLTYfu.png",QRTV HD _ TH Quảng Trị
 rtp://@239.12.251.70:5000
-#EXTINF:0 tvg-id="hue" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/29px2Qy.png",TRT HD _ TH TP. Huế
+#EXTINF:0 tvg-id="hue" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV HD _ TH TP. Huế
 rtp://@239.12.252.5:5000
 #EXTINF:0 tvg-id="quangnam" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT HD _ TH Quảng Nam
 rtp://@239.12.252.111:5000
