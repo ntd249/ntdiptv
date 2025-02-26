@@ -425,7 +425,7 @@ rtp://@232.84.2.96:8922
 rtp://@232.84.2.98:9042
 #EXTINF:0 tvg-id="quangtri" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/4TLTYfu.png",QRTV _ TH Quảng Trị
 rtp://@232.84.2.105:9066
-#EXTINF:0 tvg-id="hue" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/29px2Qy.png",TRT _ TH TP. Huế
+#EXTINF:0 tvg-id="hue" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV _ TH TP. Huế
 rtp://@232.84.2.106:9120
 #EXTINF:0 tvg-id="danang1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 _ TH TP. Đà Nẵng
 rtp://@232.84.1.146:8850
