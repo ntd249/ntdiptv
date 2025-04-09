@@ -10,7 +10,7 @@ rtp://@239.12.251.206:5000
 rtp://@239.12.251.227:5000
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 HD
 rtp://@239.12.251.209:5000
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ HD
+#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ HD
 rtp://@239.12.252.21:5000
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 HD
 rtp://@239.12.252.22:5000
@@ -28,41 +28,51 @@ rtp://@239.12.252.7:5000
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
 rtp://@239.12.252.24:5000
 #------------------------VTVcab------------------------#
-#EXTINF:0 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf HD 
+#EXTINF:0 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf HD 
 rtp://@239.12.251.233:5000
-#EXTINF:0 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV HD
+#EXTINF:0 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV HD
 rtp://@239.12.252.42:5000
-#EXTINF:0 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life HD
+#EXTINF:0 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life HD
 rtp://@239.12.252.40:5000
-#EXTINF:0 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies HD
+#EXTINF:0 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies HD
 rtp://@239.12.252.39:5000
-#EXTINF:0 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music HD
+#EXTINF:0 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music HD
 rtp://@239.12.251.195:5000
-#EXTINF:0 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV HD
+#EXTINF:0 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV HD
 rtp://@239.12.251.91:5000
-#EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt HD
+#EXTINF:0 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt HD
 rtp://@239.12.252.41:5000
-#EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV HD
+#EXTINF:0 tvg-id="ontrending" group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV HD
 rtp://@239.12.252.43:5000
-#EXTINF:0 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily HD
+#EXTINF:0 tvg-id="onvfamily" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily HD
 rtp://@239.12.252.49:5000
-#EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie Dramas HD
+#EXTINF:0 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie Dramas HD
 rtp://@239.12.252.38:5000
+#EXTINF:0 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
+rtp://@239.12.251.208:5000
 #------------------------HTV------------------------#
+#EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel HD
+rtp://@239.12.252.75:5000
 #EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD
 rtp://@239.12.252.13:5000
 #EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD
 rtp://@239.12.252.9:5000
 #EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao HD
 rtp://@239.12.251.23:5000
-#EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
-rtp://@239.12.252.20:5000
 #EXTINF:0 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc HD
 rtp://@239.12.252.115:5000
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống HD
+rtp://@239.12.252.73:5000
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình HD
+rtp://@239.12.252.72:5000
 #EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ HD
 rtp://@239.12.252.114:5000
 #EXTINF:0 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ HD
 rtp://@239.12.252.113:5000
+#EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
+rtp://@239.12.252.20:5000
+#EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
+rtp://@239.12.252.8:5000
 #------------------------SCTV------------------------#.
 #EXTINF:0 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.imgur.com/UpBZOaH.png",SCTV2 HD
 rtp://@239.12.252.34:5000
@@ -71,6 +81,8 @@ rtp://@239.12.251.71:5000
 #------------------------Other------------------------#
 #EXTINF:0 tvg-id="" group-title="Other" tvg-logo="https://i.imgur.com/78fQx65.png",HiTV HD
 rtp://@239.12.252.11:5000
+#EXTINF:0 tvg-id="" group-title="Other" tvg-logo="https://i.imgur.com/DlZYnPf.png",YouTV
+rtp://@239.12.251.94:5000
 #------------------------Địa phương (HD)------------------------#
 #EXTINF:0 tvg-id="laocai" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC HD _ TH Lào Cai
 rtp://@239.12.252.109:5000
@@ -100,6 +112,10 @@ rtp://@239.12.251.46:5000
 rtp://@239.12.252.25:5000
 #EXTINF:0 tvg-id="bacgiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV HD _ TH Bắc Giang
 rtp://@239.12.252.83:5000
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh
+rtp://@239.12.252.66:5000
+#EXTINF:0 tvg-id="quangninh3" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh
+rtp://@239.12.252.71:5000
 #EXTINF:0 tvg-id="bacninh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV HD _ TH Bắc Ninh
 rtp://@239.12.251.12:5000
 #EXTINF:0 tvg-id="hanam" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/DCSPntI.png",THHN HD _ TH Hà Nam
@@ -116,6 +132,8 @@ rtp://@239.12.251.66:5000
 rtp://@239.12.251.76:5000
 #EXTINF:0 tvg-id="hungyen" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY HD _ TH Hưng Yên
 rtp://@239.12.251.35:5000
+#EXTINF:0 tvg-id="namdinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/qW62XEm.png",NTV HD _ TH Nam Định
+rtp://@239.12.252.74:5000
 #EXTINF:0 tvg-id="ninhbinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD _ TH Ninh Bình
 rtp://@239.12.252.102:5000
 #EXTINF:0 tvg-id="thaibinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV HD _ TH Thái Bình
@@ -172,6 +190,8 @@ rtp://@239.12.251.61:5000
 rtp://@239.12.252.96:5000
 #EXTINF:0 tvg-id="dongnai2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 HD _ TH Đồng Nai
 rtp://@239.12.251.75:5000
+#EXTINF:0 tvg-id="tayninh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 HD _ TH Tây Ninh
+rtp://@239.12.252.69:5000
 #EXTINF:0 tvg-id="dongthap" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 HD _ TH Đồng Tháp
 rtp://@239.12.252.97:5000
 #EXTINF:0 tvg-id="tiengiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang
@@ -188,12 +208,18 @@ rtp://@239.12.251.99:5000
 rtp://@239.12.251.100:5000
 #EXTINF:0 tvg-id="soctrang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 HD _ TH Sóc Trăng
 rtp://@239.12.252.90:5000
-#EXTINF:0 tvg-id="haugiang" group-title="Địa Phương (hD)" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH Hậu Giang
+#EXTINF:0 tvg-id="travinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh
+rtp://@239.12.252.70:5000
+#EXTINF:0 tvg-id="haugiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH Hậu Giang
 rtp://@239.12.252.121:5000
+#EXTINF:0 tvg-id="kiengiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/jCTogPb.png",KG HD _ TH Kiên Giang
+rtp://@239.12.252.68:5000
 #EXTINF:0 tvg-id="baclieu" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV HD _ TH Bạc Liêu
 rtp://@239.12.252.117:5000
 #EXTINF:0 tvg-id="camau" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH Cà Mau
 rtp://@239.12.251.19:5000
+#EXTINF:0 tvg-id="cantho" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD _ TH TP. Cần Thơ
+rtp://@239.12.252.67:5000
 #------------------------Địa phương (SD)------------------------#
 #EXTINF:0 tvg-id="laocai" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai
 rtp://@239.12.251.40:5000
@@ -322,31 +348,13 @@ rtp://@239.12.251.79:5000
 #EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
 rtp://@239.12.252.58:5000
 #------------------------Mua sắm------------------------#
+#EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping HD
+rtp://@239.12.252.79:5000
 #EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping
 rtp://@239.12.252.12:5000
-#EXTINF:0,(TV360 Infocard)
-rtp://@239.12.251.208:5000
-#EXTINF:0,(TV360 Infocard)
-rtp://@239.12.252.8:5000
-#EXTINF:0,(TV360 Infocard)
-rtp://@239.12.252.86:5000
-#EXTINF:0,(TV360 Infocard)
-rtp://@239.12.252.6:5000
-#EXTINF:0,(TV360 Infocard)
-rtp://@239.12.251.78:5000
-#EXTINF:0,(TV360 Infocard)
-rtp://@239.12.252.33:5000
-#EXTINF:0,(TV360 Infocard)
-rtp://@239.12.252.32:5000
-#EXTINF:0,(TV360 Infocard)
-rtp://@239.12.252.34:5000
-#EXTINF:0,(TV360 Infocard)
-rtp://@239.12.252.1:5000
-#EXTINF:0,(TV360 Infocard)
-rtp://@239.12.252.10:5000
-#EXTINF:0,(TV360 Infocard)
-rtp://@239.12.252.31:5000
-#EXTINF:0,(TV360 Infocard)
-rtp://@239.12.252.26:5000
-#EXTINF:0,(TV360 Infocard)
+#EXTINF:0,Hanoi FM 96MHz
+rtp://@239.12.252.76:5000
+#EXTINF:0,Hanoi FM 90MHz
+rtp://@239.12.252.77:5000
+#EXTINF:0,(VOVTV Infocard)
 rtp://@239.12.251.214:5000
