@@ -10,7 +10,7 @@ udp://@225.1.2.247:30120
 udp://@225.1.2.20:30120
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8Mbps)
 udp://@225.1.1.131:30120
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8Mbps)
+#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8Mbps)
 udp://@225.1.2.245:30120
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8Mbps)
 udp://@225.1.2.96:30120
@@ -60,17 +60,17 @@ udp://@225.1.1.177:30120
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 8Mbps)
 udp://@225.1.1.188:30120
 #-------------------Địa phương-------------------#
-#EXTINF:0 tvg-id="laocai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai (HD 8Mbps)
+#EXTINF:0 tvg-id="laocai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Báo Lào Cai (HD 8Mbps)
 udp://@225.1.1.119:30120
-#EXTINF:0 tvg-id="yenbai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái (HD 8Mbps)
+#EXTINF:0 tvg-id="yenbai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Báo Yên Bái (HD 8Mbps)
 udp://@225.1.1.39:30120
-#EXTINF:0 tvg-id="dienbien" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH Điện Biên (HD 8Mbps)
+#EXTINF:0 tvg-id="dienbien" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH Báo Điện Biên Phủ (HD 8Mbps)
 udp://@225.1.1.74:30120
-#EXTINF:0 tvg-id="hoabinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV HD _ TH Hòa Bình (HD 8Mbps)
+#EXTINF:0 tvg-id="hoabinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV HD _ TH Báo Hòa Bình (HD 8Mbps)
 udp://@225.1.2.168:30120
 #EXTINF:0 tvg-id="laichau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD _ TH Lai Châu (HD 8Mbps)
 udp://@225.1.2.36:30120
-#EXTINF:0 tvg-id="hagiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH Hà Giang (HD 8Mbps)
+#EXTINF:0 tvg-id="hagiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH Báo Hà Giang (HD 8Mbps)
 udp://@225.1.1.62:30120
 #EXTINF:0 tvg-id="caobang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH Cao Bằng (HD 8Mbps)
 udp://@225.1.1.102:30120
@@ -96,19 +96,21 @@ udp://@225.1.1.40:30120
 udp://@225.1.2.186:30120
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội (HD 8Mbps)
 udp://@225.1.1.125:30120
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_4K.png",H2 UHD _ TH Hà Nội (UHD 13Mbps)
+udp://@225.1.1.109:30120
 #EXTINF:0 tvg-id="haiduong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH Hải Dương (HD 8Mbps)
 udp://@225.1.1.158:30120
 #EXTINF:0 tvg-id="haiphong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. Hải Phòng (HD 8Mbps)
 udp://@225.1.1.44:30120
 #EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD _ TH Ninh Bình (HD 8Mbps)
 udp://@225.1.2.185:30120
-#EXTINF:0 tvg-id="thaibinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV HD _ TH Thái Bình (HD 8Mbps)
+#EXTINF:0 tvg-id="thaibinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV HD _ TH Báo Thái Bình (HD 8Mbps)
 udp://@225.1.1.99:30120
 #EXTINF:0 tvg-id="vinhphuc" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/rrxDn5n.png",VP HD _ TH Vĩnh Phúc (HD 8Mbps)
 udp://@225.1.2.99:30120
 #EXTINF:0 tvg-id="nghean" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Nghệ An (HD 8Mbps)
 udp://@225.1.2.183:30120
-#EXTINF:0 tvg-id="hatinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV HD _ TH Hà Tĩnh (HD 8Mbps)
+#EXTINF:0 tvg-id="hatinh" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BHTTV_BaoHaTinhTV.png",HTTV HD _ TH Báo Hà Tĩnh (HD 8Mbps)
 udp://@225.1.1.75:30120
 #EXTINF:0 tvg-id="quangbinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/8yOdFDx.png",QBTV _ TH Quảng Bình (HD 8Mbps)
 udp://@225.1.2.164:30120
@@ -120,13 +122,13 @@ udp://@225.1.1.147:30120
 udp://@225.1.1.146:30120
 #EXTINF:0 tvg-id="quangnam" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT HD _ TH Quảng Nam (HD 8Mbps)
 udp://@225.1.2.50:30120
-#EXTINF:0 tvg-id="quangngai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quảng Ngãi (HD 8Mbps)
+#EXTINF:0 tvg-id="quangngai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Báo Quảng Ngãi (HD 8Mbps)
 udp://@225.1.2.174:30120
-#EXTINF:0 tvg-id="binhdinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/APCkufv.png",BTV _ TH Bình Định (HD 8Mbps)
+#EXTINF:0 tvg-id="binhdinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/APCkufv.png",BTV _ TH Báo Bình Định (HD 8Mbps)
 udp://@225.1.1.145:30120
 #EXTINF:0 tvg-id="phuyen" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP HD _ TH Phú Yên (HD 8Mbps)
 udp://@225.1.2.58:30120
-#EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH Khánh Hòa (HD 8Mbps)
+#EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH Báo Khánh Hòa (HD 8Mbps)
 udp://@225.1.1.133:30120
 #EXTINF:0 tvg-id="ninhthuan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cx5AaTV.png",NTV HD _ TH Ninh Thuận (HD 8Mbps)
 udp://@225.1.2.178:30120
@@ -134,9 +136,9 @@ udp://@225.1.2.178:30120
 udp://@225.1.1.124:30120
 #EXTINF:0 tvg-id="kontum" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum (HD 8Mbps)
 udp://@225.1.1.36:30120
-#EXTINF:0 tvg-id="gialai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/csqFzvA.png",THGL HD _ TH Gia Lai (HD 8Mbps)
+#EXTINF:0 tvg-id="gialai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/csqFzvA.png",THGL HD _ TH Báo Gia Lai (HD 8Mbps)
 udp://@225.1.2.176:30120
-#EXTINF:0 tvg-id="daklak" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk (HD 8Mbps)
+#EXTINF:0 tvg-id="daklak" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Báo Đắk Lắk (HD 8Mbps)
 udp://@225.1.1.64:30120
 #EXTINF:0 tvg-id="lamdong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV HD _ TH Lâm Đồng (HD 8Mbps)
 udp://@225.1.2.177:30120
@@ -190,11 +192,11 @@ udp://@225.1.1.104:30120
 udp://@225.1.1.132:30120
 #EXTINF:0 tvg-id="sonla" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH Sơn La
 udp://@225.1.1.98:30120
-#EXTINF:0 tvg-id="hanam" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/DCSPntI.png",THHN _ TH Hà Nam
+#EXTINF:0 tvg-id="hanam" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/DCSPntI.png",THHN _ TH Báo Hà Nam
 udp://@225.1.1.63:30120
-#EXTINF:0 tvg-id="hungyen" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH Hưng Yên
+#EXTINF:0 tvg-id="hungyen" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH Báo Hưng Yên
 udp://@225.1.1.118:30120
-#EXTINF:0 tvg-id="namdinh" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/qW62XEm.png",NTV _ TH Nam Định
+#EXTINF:0 tvg-id="namdinh" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/qW62XEm.png",NTV _ TH Báo Nam Định
 udp://@225.1.1.120:30120
 #EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa
 udp://@225.1.2.184:30120
