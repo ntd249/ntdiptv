@@ -144,47 +144,6 @@ rtp://@232.84.1.207:9216
 rtp://@232.84.1.210:9234
 #EXTINF:0 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf (HD 8.5Mbps)
 rtp://@232.84.2.246:10876
-#------------------------SCTV------------------------#
-#EXTINF:0 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.imgur.com/imhFxSG.png",SCTV1 (HD 5Mbps)
-rtp://@232.84.3.34:11848
-#EXTINF:0 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.imgur.com/UpBZOaH.png",SCTV2 (HD 6Mbps)
-rtp://@232.84.3.33:11854
-#EXTINF:0 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.imgur.com/wZrGAtH.png",SCTV3 (HD 7Mbps)
-rtp://@232.84.3.32:11860
-#EXTINF:0 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://i.imgur.com/ntSnAMJ.png",SCTV4 (HD 7Mbps)
-rtp://@232.84.3.31:11866
-#EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 7Mbps)
-rtp://@232.84.3.30:11872
-#EXTINF:0 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.imgur.com/EdjXUUb.png",SCTV7 (HD 6Mbps)
-rtp://@232.84.3.29:11878
-#EXTINF:0 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://i.imgur.com/NULoCoA.png",SCTV8 (HD 5Mbps)
-rtp://@232.84.3.28:11884
-#EXTINF:0 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://i.imgur.com/6dvyvea.png",SCTV9 (HD 8Mbps)
-rtp://@232.84.3.27:11890
-#EXTINF:0 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://i.imgur.com/AP2o4bW.png",SCTV11 (HD 7Mbps)
-rtp://@232.84.3.26:11896
-#EXTINF:0 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://i.imgur.com/5nrSZd8.png",SCTV12 (HD 7Mbps)
-rtp://@232.84.3.25:11902
-#EXTINF:0 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://i.imgur.com/1yNMyEh.png",SCTV14 (HD 7Mbps)
-rtp://@232.84.3.23:11914
-#EXTINF:0 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://i.imgur.com/EPwjrlB.png",SCTV15 (HD 7Mbps)
-rtp://@232.84.3.22:11920
-#EXTINF:0 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.imgur.com/b4ZROQG.png",SCTV16 (HD 7Mbps)
-rtp://@232.84.3.21:11926
-#EXTINF:0 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://i.imgur.com/Ghjy4HY.png",SCTV17 (HD 7Mbps)
-rtp://@232.84.3.20:11932
-#EXTINF:0 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://i.imgur.com/k2Eg4T4.png",SCTV18 (HD 6Mbps)
-rtp://@232.84.3.19:11938
-#EXTINF:0 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://i.imgur.com/s4vfvNb.png",SCTV19 (HD 7Mbps)
-rtp://@232.84.3.18:11944
-#EXTINF:0 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://i.imgur.com/zwfqboB.png",SCTV20 (HD 7Mbps)
-rtp://@232.84.3.17:11950
-#EXTINF:0 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://i.imgur.com/aHKybQW.png",SCTV21 (HD 7Mbps)
-rtp://@232.84.3.16:11956
-#EXTINF:0 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.imgur.com/O0HdUpB.png",SCTV22 (HD 7Mbps)
-rtp://@232.84.3.15:11962
-#EXTINF:0 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV Phim Tổng Hợp (HD 6Mbps)
-rtp://@232.84.3.14:11968
 #------------------------K+------------------------#
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (HD 9Mbps)
 rtp://@232.84.1.38:8202
@@ -214,7 +173,6 @@ rtp://@232.84.1.123:10320
 rtp://@232.84.1.125:10326
 #EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (HD 9Mbps)
 rtp://@232.84.1.176:10374
-#------------------------VTC------------------------#
 #------------------------HTV/HTVC------------------------#
 #EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 (HD 6Mbps)
 rtp://@232.84.3.57:11710
@@ -276,232 +234,232 @@ rtp://@232.84.1.32:8166
 rtp://@232.84.3.118:9594
 #------------------------Other------------------------#
 #------------------------Địa phương (HD)------------------------#
-#EXTINF:0 tvg-id="yenbai" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Báo Yên Bái (HD 6Mbps)
+#EXTINF:0 tvg-id="laocai" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC HD | Báo Lào Cai (HD 6Mbps)
 rtp://@232.84.3.253:11440
-#EXTINF:0 tvg-id="hoabinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV HD _ TH Hòa Bình (HD 6Mbps)
-rtp://@232.84.3.213:11200
-#EXTINF:0 tvg-id="thainguyen" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD _ TH Thái Nguyên (HD 6Mbps)
+#EXTINF:0 tvg-id="thainguyen" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN | Báo và PTTH Thái Nguyên (HD 6Mbps)
 rtp://@232.84.3.146:10774
-#EXTINF:0 tvg-id="phutho" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH Phú Thọ (HD 6Mbps)
+#EXTINF:0 tvg-id="phutho" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD | Báo và Đài PTTH Phú Thọ (HD 6Mbps)
 rtp://@232.84.3.148:10792
-#EXTINF:0 tvg-id="bacgiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH Bắc Giang (HD 7.5Mbps)
+#EXTINF:0 tvg-id="phutho" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD | Báo và Đài PTTH Phú Thọ (HD 6Mbps)
+rtp://@232.84.3.213:11200
+#EXTINF:0 tvg-id="bacgiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BTV | Báo và PTTH Bắc Ninh (HD 7.5Mbps)
 rtp://@232.84.3.100:11452
-#EXTINF:0 tvg-id="caobang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH Cao Bằng (HD 6.5Mbps)
+#EXTINF:0 tvg-id="caobang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV | Báo Cao Bằng (HD 6.5Mbps)
 rtp://@232.84.3.202:11134
-#EXTINF:0 tvg-id="backan" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD _ TH Bắc Kạn (HD 8Mbps)
+#EXTINF:0 tvg-id="thainguyen" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN | Báo và PTTH Thái Nguyên (HD 8Mbps)
 rtp://@232.84.3.94:11488
-#EXTINF:0 tvg-id="langson" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH Lạng Sơn (HD 6Mbps)
+#EXTINF:0 tvg-id="langson" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD | Báo và Đài PTTH Lạng Sơn (HD 6Mbps)
 rtp://@232.84.3.203:11140
-#EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh (HD 6Mbps)
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD | Trung tâm Truyền thông Quảng Ninh (HD 6Mbps)
 rtp://@232.84.1.248:10978
-#EXTINF:0 tvg-id="quangninh3" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh (HD 6.5Mbps)
+#EXTINF:0 tvg-id="quangninh3" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD | Trung tâm Truyền thông Quảng Ninh (HD 6.5Mbps)
 rtp://@232.84.1.249:10984
-#EXTINF:0 tvg-id="bacninh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH Bắc Ninh (HD 6Mbps)
+#EXTINF:0 tvg-id="bacninh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV | Báo và PTTH Bắc Ninh (HD 6Mbps)
 rtp://@232.84.2.245:10506
-#EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội (HD 4Mbps)
+#EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD | Đài Hà Nội (HD 4Mbps)
 rtp://@232.84.3.143:10738
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội (HD 4Mbps)
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD | Đài Hà Nội (HD 4Mbps)
 rtp://@232.84.3.137:10744
-#EXTINF:0 tvg-id="haiduong" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH Hải Dương (HD 8Mbps)
-rtp://@232.84.3.44:11788
-#EXTINF:0 tvg-id="haiphong" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. Hải Phòng (HD 6Mbps)
+#EXTINF:0 tvg-id="haiphong" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP | Báo và PTTH Hải Phòng (HD 6Mbps)
 rtp://@232.84.3.142:10780
-#EXTINF:0 tvg-id="haiphongplus" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ HD _ TH TP. Hải Phòng (HD 6Mbps)
+#EXTINF:0 tvg-id="haiphongplus" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ | Báo và PTTH Hải Phòng (HD 6Mbps)
 rtp://@232.84.3.83:11554
-#EXTINF:0 tvg-id="hungyen" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY HD _ TH Báo Hưng Yên (HD 6Mbps)
+#EXTINF:0 tvg-id="haiduong" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THP3 | Báo và PTTH Hải Phòng (HD 8Mbps)
+rtp://@232.84.3.44:11788
+#EXTINF:0 tvg-id="hungyen" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY | Báo Hưng Yên (HD 6Mbps)
 rtp://@232.84.3.110:10786
-#EXTINF:0 tvg-id="ninhbinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD _ TH Ninh Bình (HD 8Mbps)
+#EXTINF:0 tvg-id="ninhbinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV HD | Báo và Đài PTTH Ninh Bình (HD 8Mbps)
 rtp://@232.84.3.89:11518
-#EXTINF:0 tvg-id="thanhhoa" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa (HD 7.5Mbps)
+#EXTINF:0 tvg-id="thanhhoa" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV | Báo và Đài PTTH Thanh Hóa (HD 7.5Mbps)
 rtp://@232.84.3.198:11110
-#EXTINF:0 tvg-id="nghean" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Nghệ An (HD 5Mbps)
+#EXTINF:0 tvg-id="nghean" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD | Báo và Đài PTTH Nghệ An (HD 5Mbps)
 rtp://@232.84.2.198:10972
-#EXTINF:0 tvg-id="hatinh" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BHTTV_BaoHaTinhTV.png",BHTTV _ TH Báo Hà Tĩnh (HD 8.5Mbps)
+#EXTINF:0 tvg-id="hatinh" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BHTTV_BaoHaTinhTV.png",BHTTV | Báo Hà Tĩnh (HD 8.5Mbps)
 rtp://@232.84.3.134:10768
-#EXTINF:0 tvg-id="quangtri" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/4TLTYfu.png",QRTV _ TH Quảng Trị (HD 7.5Mbps)
+#EXTINF:0 tvg-id="quangtri" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/4TLTYfu.png",QTTV | Báo và PTTH Quảng Trị (HD 7.5Mbps)
 rtp://@232.84.3.46:11776
-#EXTINF:0 tvg-id="quangngai" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quảng Ngãi (HD 6Mbps)
+#EXTINF:0 tvg-id="quangngai" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/McmKwa8.png",QNgTV | Báo và PTTH Quảng Ngãi (HD 6Mbps)
 rtp://@232.84.3.126:10798
-#EXTINF:0 tvg-id="kontum" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum (HD 5Mbps)
+#EXTINF:0 tvg-id="quangngai" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/McmKwa8.png",QNgTV | Báo và PTTH Quảng Ngãi (HD 5Mbps)
 rtp://@232.84.3.80:11572
-#EXTINF:0 tvg-id="daklak" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk (HD 5Mbps)
+#EXTINF:0 tvg-id="daklak" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD | Báo và PTTH Đắk Lắk (HD 5Mbps)
 rtp://@232.84.3.99:11464
-#EXTINF:0 tvg-id="binhphuoc1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương (HD 6Mbps)
+#EXTINF:0 tvg-id="binhphuoc1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD | Đài PTTH Bình Dương (HD 6Mbps)
 rtp://@232.84.3.109:10750
 #EXTINF:0 tvg-id="anvienhd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel (HD 8.5Mbps)
 rtp://@232.84.3.199:11116
-#EXTINF:0 tvg-id="dongnai1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD _ TH Đồng Nai (HD 6Mbps)
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD | Báo và Đài PTTH Đồng Nai (HD 6Mbps)
 rtp://@232.84.3.112:10762
-#EXTINF:0 tvg-id="tayninh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh (HD 6Mbps)
+#EXTINF:0 tvg-id="tayninh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV2 | Báo và PTTH Tây Ninh (HD 6Mbps)
 rtp://@232.84.3.233:11320
-#EXTINF:0 tvg-id="vungtau" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà Rịa Vũng Tàu (HD 8Mbps)
+#EXTINF:0 tvg-id="vungtau" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD | Đài PTTH Bà Rịa Vũng Tàu (HD 8Mbps)
 rtp://@232.84.3.47:11770
-#EXTINF:0 tvg-id="dongthap" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp (HD 8Mbps)
+#EXTINF:0 tvg-id="dongthap" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 | Báo và Đài PTTH Đồng Tháp (HD 8Mbps)
 rtp://@232.84.3.235:11332
-#EXTINF:0 tvg-id="tiengiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang (HD 6Mbps)
+#EXTINF:0 tvg-id="tiengiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD | Báo Ấp Bắc và Đài PTTH Tiền Giang (HD 6Mbps)
 rtp://@232.84.3.204:11146
-#EXTINF:0 tvg-id="angiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV _ TH An Giang (HD 8.5Mbps)
-rtp://@232.84.3.81:11566
-#EXTINF:0 tvg-id="bentre" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH Bến Tre (HD 8Mbps)
-rtp://@232.84.3.95:11482
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long (HD 7Mbps)
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD | Báo và Đài PTTH Vĩnh Long (HD 7Mbps)
 rtp://@232.84.3.152:10882
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long (HD 8Mbps)
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD | Báo và Đài PTTH Vĩnh Long (HD 8Mbps)
 rtp://@232.84.3.164:10888
-#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vĩnh Long (HD 7Mbps)
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD | Báo và Đài PTTH Vĩnh Long (HD 8Mbps)
+rtp://@232.84.3.95:11482
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD | Báo và Đài PTTH Vĩnh Long (HD 7Mbps)
 rtp://@232.84.3.165:10900
-#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vĩnh Long (HD 7Mbps)
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD | Báo và Đài PTTH Vĩnh Long (HD 7Mbps)
 rtp://@232.84.3.160:10912
-#EXTINF:0 tvg-id="kiengiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Kiên Giang (HD 6Mbps)
+#EXTINF:0 tvg-id="kiengiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/jCTogPb.png",ATV1 | Báo và PTTH An Giang (HD 6Mbps)
 rtp://@232.84.3.161:10918
-#EXTINF:0 tvg-id="soctrang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 HD _ TH Sóc Trăng (HD 8Mbps)
+#EXTINF:0 tvg-id="angiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV2 | Báo và PTTH An Giang (HD 8.5Mbps)
+rtp://@232.84.3.81:11566
+#EXTINF:0 tvg-id="soctrang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",THTPCT | Đài PTTH Thành phố Cần Thơ (HD 8Mbps)
 rtp://@232.84.3.97:11470
-#EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh (HD 6Mbps)
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD | Trung tâm Truyền thông Quảng Ninh (HD 6Mbps)
 rtp://@232.84.1.248:9462
-#EXTINF:0 tvg-id="quangninh3" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh (HD 6.5Mbps)
+#EXTINF:0 tvg-id="quangninh3" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD | Trung tâm Truyền thông Quảng Ninh (HD 6.5Mbps)
 rtp://@232.84.1.249:9468
 #------------------------Địa Phương (SD)------------------------#
-#EXTINF:0 tvg-id="laocai" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Báo Lào Cai
+#EXTINF:0 tvg-id="laocai" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC | Báo Lào Cai
 rtp://@232.84.2.93:8718
-#EXTINF:0 tvg-id="yenbai" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV _ TH Báo Yên Bái
+#EXTINF:0 tvg-id="laocai" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC | Báo Lào Cai
 rtp://@232.84.2.75:9162
-#EXTINF:0 tvg-id="dienbien" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH Điện Biên
+#EXTINF:0 tvg-id="dienbien" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV | Báo Điện Biên Phủ
 rtp://@232.84.3.116:8880
-#EXTINF:0 tvg-id="hoabinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV _ TH Báo Hòa Bình
-rtp://@232.84.3.130:8946
-#EXTINF:0 tvg-id="laichau" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV _ TH Lai Châu
+#EXTINF:0 tvg-id="laichau" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV | Báo Lai Châu
 rtp://@232.84.3.133:9174
-#EXTINF:0 tvg-id="sonla" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH Sơn La
+#EXTINF:0 tvg-id="sonla" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV | Báo và PTTH Sơn La
 rtp://@232.84.1.184:9078
-#EXTINF:0 tvg-id="hagiang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH Báo Hà Giang
+#EXTINF:0 tvg-id="tuyenquang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV | Báo và Đài PTTH Tuyên Quang
 rtp://@232.84.2.85:8910
-#EXTINF:0 tvg-id="caobang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV _ TH Cao Bằng
-rtp://@232.84.2.109:8844
-#EXTINF:0 tvg-id="backan" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/msjevyp.png",TBK _ TH Bắc Kạn
-rtp://@232.84.2.92:8760
-#EXTINF:0 tvg-id="langson" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV _ TH Lạng Sơn
-rtp://@232.84.2.107:8646
-#EXTINF:0 tvg-id="tuyenquang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH Tuyên Quang
+#EXTINF:0 tvg-id="tuyenquang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV | Báo và Đài PTTH Tuyên Quang
 rtp://@232.84.2.91:9138
-#EXTINF:0 tvg-id="thainguyen" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 _ TH Thái Nguyên
+#EXTINF:0 tvg-id="caobang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV | Báo Cao Bằng
+rtp://@232.84.2.109:8844
+#EXTINF:0 tvg-id="thainguyen" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN | Báo và PTTH Thái Nguyên
+rtp://@232.84.2.92:8760
+#EXTINF:0 tvg-id="thainguyen" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN | Báo và PTTH Thái Nguyên
 rtp://@232.84.2.87:9096
-#EXTINF:0 tvg-id="phutho" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV _ TH Phú Thọ
+#EXTINF:0 tvg-id="langson" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD | Báo và Đài PTTH Lạng Sơn
+rtp://@232.84.2.107:8646
+#EXTINF:0 tvg-id="phutho" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV | Báo và Đài PTTH Phú Thọ
 rtp://@232.84.2.95:9030
-#EXTINF:0 tvg-id="bacgiang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH Bắc Giang
-rtp://@232.84.2.89:8754
-#EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 _ TH Quảng Ninh
-rtp://@232.84.3.105:9060
-#EXTINF:0 tvg-id="bacninh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH Bắc Ninh
-rtp://@232.84.1.133:8772
-#EXTINF:0 tvg-id="hanam" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/DCSPntI.png",THHN _ TH Báo Hà Nam
-rtp://@232.84.2.82:8916
-#EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 _ TH Hà Nội
-rtp://@232.84.1.29:8148
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 _ TH Hà Nội
-rtp://@232.84.1.23:8112
-#EXTINF:0 tvg-id="haiduong" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH Hải Dương
-rtp://@232.84.2.79:8928
-#EXTINF:0 tvg-id="haiphong" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP _ TH TP. Hải Phòng
-rtp://@232.84.2.104:8934
-#EXTINF:0 tvg-id="haiphongplus" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ _ TH TP. Hải Phòng
-rtp://@232.84.3.82:11560
-#EXTINF:0 tvg-id="hungyen" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH Báo Hưng Yên
-rtp://@232.84.2.84:8952
-#EXTINF:0 tvg-id="namdinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/qW62XEm.png",NTV _ TH Báo Nam Định
-rtp://@232.84.3.119:9006
-#EXTINF:0 tvg-id="ninhbinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV _ TH Ninh Bình
-rtp://@232.84.2.80:9018
-#EXTINF:0 tvg-id="thaibinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV _ TH Báo Thái Bình
-rtp://@232.84.2.100:9090
-#EXTINF:0 tvg-id="vinhphuc" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/rrxDn5n.png",VP _ TH Vĩnh Phúc
+#EXTINF:0 tvg-id="phutho" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV | Báo và Đài PTTH Phú Thọ
 rtp://@232.84.2.83:9156
-#EXTINF:0 tvg-id="thanhhoa" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa
+#EXTINF:0 tvg-id="phutho" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV | Báo và Đài PTTH Phú Thọ
+rtp://@232.84.3.130:8946
+#EXTINF:0 tvg-id="bacninh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV | Báo và PTTH Bắc Ninh
+rtp://@232.84.2.89:8754
+#EXTINF:0 tvg-id="bacninh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV | Báo và PTTH Bắc Ninh
+rtp://@232.84.1.133:8772
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 | Trung tâm Truyền thông Quảng Ninh
+rtp://@232.84.3.105:9060
+#EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 | Đài Hà Nội
+rtp://@232.84.1.29:8148
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 | Đài Hà Nội
+rtp://@232.84.1.23:8112
+#EXTINF:0 tvg-id="haiphong" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP | Báo và PTTH Hải Phòng
+rtp://@232.84.2.104:8934
+#EXTINF:0 tvg-id="haiphongplus" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ | Báo và PTTH Hải Phòng
+rtp://@232.84.3.82:11560
+#EXTINF:0 tvg-id="haiduong" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THP3 | Báo và PTTH Hải Phòng
+rtp://@232.84.2.79:8928
+#EXTINF:0 tvg-id="hungyen" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY | Báo Hưng Yên
+rtp://@232.84.2.84:8952
+#EXTINF:0 tvg-id="hungyen" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY | Báo Hưng Yên
+rtp://@232.84.2.100:9090
+#EXTINF:0 tvg-id="ninhbinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV | Báo và Đài PTTH Ninh Bình
+rtp://@232.84.2.82:8916
+#EXTINF:0 tvg-id="ninhbinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV | Báo và Đài PTTH Ninh Bình
+rtp://@232.84.3.119:9006
+#EXTINF:0 tvg-id="ninhbinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV | Báo và Đài PTTH Ninh Bình
+rtp://@232.84.2.80:9018
+#EXTINF:0 tvg-id="thanhhoa" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV | Báo và Đài PTTH Thanh Hóa
 rtp://@232.84.2.111:9102
-#EXTINF:0 tvg-id="nghean" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV _ TH Nghệ An
+#EXTINF:0 tvg-id="nghean" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV | Báo và Đài PTTH Nghệ An
 rtp://@232.84.2.101:9012
-#EXTINF:0 tvg-id="hatinh" group-title="Địa Phương (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BHTTV_BaoHaTinhTV.png",BHTTV _ TH Báo Hà Tĩnh
+#EXTINF:0 tvg-id="hatinh" group-title="Địa Phương (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BHTTV_BaoHaTinhTV.png",BHTTV | Báo Hà Tĩnh
 rtp://@232.84.2.96:8922
-#EXTINF:0 tvg-id="quangbinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/8yOdFDx.png",QBTV _ TH Quảng Bình
+#EXTINF:0 tvg-id="quangtri" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/4TLTYfu.png",QTTV | Báo và PTTH Quảng Trị
 rtp://@232.84.2.98:9042
-#EXTINF:0 tvg-id="quangtri" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/4TLTYfu.png",QRTV _ TH Quảng Trị
+#EXTINF:0 tvg-id="quangtri" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/4TLTYfu.png",QTTV | Báo và PTTH Quảng Trị
 rtp://@232.84.2.105:9066
-#EXTINF:0 tvg-id="hue" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV _ TH TP. Huế
+#EXTINF:0 tvg-id="hue" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV | Báo và PTTH Huế
 rtp://@232.84.2.106:9120
-#EXTINF:0 tvg-id="danang1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 _ TH TP. Đà Nẵng
+#EXTINF:0 tvg-id="danang1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/6OWQ8lU.png",ĐNRT1 | Báo và Đài PTTH Đà Nẵng
 rtp://@232.84.1.146:8850
-#EXTINF:0 tvg-id="danang2" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/hkzIqEV.png",DaNangTV2 _ TH TP. Đà Nẵng
+#EXTINF:0 tvg-id="danang2" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/hkzIqEV.png",ĐNRT2 | Báo và Đài PTTH Đà Nẵng
 rtp://@232.84.3.122:8856
-#EXTINF:0 tvg-id="quangnam" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT _ TH Quảng Nam
+#EXTINF:0 tvg-id="danang2" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/hkzIqEV.png",ĐNRT2 | Báo và Đài PTTH Đà Nẵng
 rtp://@232.84.2.81:9048
-#EXTINF:0 tvg-id="quangngai" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quảng Ngãi
+#EXTINF:0 tvg-id="quangngai" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/McmKwa8.png",QNgTV | Báo và PTTH Quảng Ngãi
 rtp://@232.84.2.108:9054
-#EXTINF:0 tvg-id="binhdinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/APCkufv.png",BTV _ TH Bình Định
-rtp://@232.84.2.88:8784
-#EXTINF:0 tvg-id="phuyen" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP _ TH Phú Yên
-rtp://@232.84.3.108:10362
-#EXTINF:0 tvg-id="khanhhoa" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV _ TH Báo Khánh Hòa
-rtp://@232.84.2.99:8958
-#EXTINF:0 tvg-id="ninhthuan" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/cx5AaTV.png",NTV _ TH Ninh Thuận
-rtp://@232.84.2.74:9024
-#EXTINF:0 tvg-id="binhthuan" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV _ TH Bình Thuận
-rtp://@232.84.2.77:8820
-#EXTINF:0 tvg-id="kontum" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum
+#EXTINF:0 tvg-id="kontum" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",QNgTV | Báo và PTTH Quảng Ngãi
 rtp://@232.84.3.115:8970
-#EXTINF:0 tvg-id="gialai" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/csqFzvA.png",THGL _ TH Báo Gia Lai
+#EXTINF:0 tvg-id="gialai" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/csqFzvA.png",GTV | Báo và PTTH Gia Lai
+rtp://@232.84.2.88:8784
+#EXTINF:0 tvg-id="gialai" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/csqFzvA.png",GTV | Báo và PTTH Gia Lai
 rtp://@232.84.3.138:8904
-#EXTINF:0 tvg-id="daklak" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT _ TH Đắk Lắk
+#EXTINF:0 tvg-id="daklak" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT | Báo và PTTH Đắk Lắk
+rtp://@232.84.3.108:10362
+#EXTINF:0 tvg-id="daklak" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT | Báo và PTTH Đắk Lắk
 rtp://@232.84.1.149:8868
-#EXTINF:0 tvg-id="daknong" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/L2tMltg.png",PTD _ TH Đắk Nông
+#EXTINF:0 tvg-id="khanhhoa" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV | Báo và PTTH Khánh Hòa
+rtp://@232.84.2.99:8958
+#EXTINF:0 tvg-id="khanhhoa" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV1 | Báo và PTTH Khánh Hòa
+rtp://@232.84.2.74:9024
+#EXTINF:0 tvg-id="lamdong" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV | Báo và PTTH Lâm Đồng
+rtp://@232.84.2.77:8820
+#EXTINF:0 tvg-id="lamdong" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV | Báo và PTTH Lâm Đồng
 rtp://@232.84.3.140:8874
-#EXTINF:0 tvg-id="lamdong" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV _ TH Lâm Đồng
+#EXTINF:0 tvg-id="lamdong" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV | Báo và PTTH Lâm Đồng
 rtp://@232.84.2.78:8976
-#EXTINF:0 tvg-id="binhphuoc1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/DHWoGfP.png",BPTV1 _ TH Bình Phước
-rtp://@232.84.2.90:8814
-#EXTINF:0 tvg-id="binhduong1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 _ TH Bình Dương
+#EXTINF:0 tvg-id="binhduong1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 | Đài PTTH Bình Dương
 rtp://@232.84.1.136:8790
-#EXTINF:0 tvg-id="binhduong2" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 _ TH Bình Dương
+#EXTINF:0 tvg-id="binhduong2" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 | Đài PTTH Bình Dương
 rtp://@232.84.1.137:8796
-#EXTINF:0 tvg-id="dongnai1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 _ TH Đồng Nai
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 | Báo và Đài PTTH Đồng Nai
 rtp://@232.84.1.152:8886
-#EXTINF:0 tvg-id="dongnai2" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 _ TH Đồng Nai
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 | Báo và Đài PTTH Đồng Nai
+rtp://@232.84.2.90:8814
+#EXTINF:0 tvg-id="dongnai2" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 | Báo và Đài PTTH Đồng Nai
 rtp://@232.84.1.153:8892
-#EXTINF:0 tvg-id="tayninh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh
-rtp://@232.84.2.97:9084
-#EXTINF:0 tvg-id="vungtau" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT _ TH Bà Rịa Vũng Tàu
-rtp://@232.84.2.73:8748
-#EXTINF:0 tvg-id="longan" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/jBWD3It.png",LA34 _ TH Long An
+#EXTINF:0 tvg-id="longan" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/jBWD3It.png",TTV1 | Báo và PTTH Tây Ninh
 rtp://@232.84.1.171:9000
-#EXTINF:0 tvg-id="dongthap" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp
+#EXTINF:0 tvg-id="tayninh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV2 | Báo và PTTH Tây Ninh
+rtp://@232.84.2.97:9084
+#EXTINF:0 tvg-id="vungtau" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT | Đài PTTH Bà Rịa Vũng Tàu
+rtp://@232.84.2.73:8748
+#EXTINF:0 tvg-id="dongthap" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 | Báo và Đài PTTH Đồng Tháp
 rtp://@232.84.1.154:8898
-#EXTINF:0 tvg-id="tiengiang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG _ TH Tiền Giang
+#EXTINF:0 tvg-id="tiengiang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG | Báo Ấp Bắc và Đài PTTH Tiền Giang
 rtp://@232.84.1.189:9108
-#EXTINF:0 tvg-id="angiang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV _ TH An Giang
-rtp://@232.84.2.110:8742
-#EXTINF:0 tvg-id="bentre" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT _ TH Bến Tre
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 | Báo và Đài PTTH Vĩnh Long
 rtp://@232.84.2.115:8778
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 _ TH Vĩnh Long
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 | Báo và Đài PTTH Vĩnh Long
 rtp://@232.84.1.195:9144
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 _ TH Vĩnh Long
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 | Báo và Đài PTTH Vĩnh Long
 rtp://@232.84.1.196:9150
-#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 _ TH Vĩnh Long
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 | Báo và Đài PTTH Vĩnh Long
 rtp://@232.84.3.151:10894
-#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 _ TH Vĩnh Long
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 | Báo và Đài PTTH Vĩnh Long
 rtp://@232.84.3.150:10906
-#EXTINF:0 tvg-id="travinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV _ TH Trà Vinh
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 | Báo và Đài PTTH Vĩnh Long
 rtp://@232.84.2.102:9114
-#EXTINF:0 tvg-id="haugiang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV _ TH Hậu Giang
-rtp://@232.84.2.112:8940
-#EXTINF:0 tvg-id="kiengiang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Kiên Giang
+#EXTINF:0 tvg-id="kiengiang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/jCTogPb.png",ATV1 | Báo và PTTH An Giang
 rtp://@232.84.2.113:8964
-#EXTINF:0 tvg-id="soctrang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 _ TH Sóc Trăng
-rtp://@232.84.2.103:9072
-#EXTINF:0 tvg-id="baclieu" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV _ TH Bạc Liêu
+#EXTINF:0 tvg-id="angiang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV2 | Báo và PTTH An Giang
+rtp://@232.84.2.110:8742
+#EXTINF:0 tvg-id="camau" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV | Báo và Đài PTTH Cà Mau
 rtp://@232.84.2.116:8766
-#EXTINF:0 tvg-id="camau" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV _ TH Cà Mau
+#EXTINF:0 tvg-id="camau" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV | Báo và Đài PTTH Cà Mau
 rtp://@232.84.2.117:8826
-#EXTINF:0 tvg-id="cantho" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT _ TH TP. Cần Thơ
+#EXTINF:0 tvg-id="soctrang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",THTPCT | Đài PTTH Thành phố Cần Thơ
 rtp://@232.84.2.118:8838
-#EXTINF:0 tvg-id="haiduong" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH Hải Dương
+#EXTINF:0 tvg-id="soctrang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",THTPCT | Đài PTTH Thành phố Cần Thơ
+rtp://@232.84.2.112:8940
+#EXTINF:0 tvg-id="soctrang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",THTPCT | Đài PTTH Thành phố Cần Thơ
+rtp://@232.84.2.103:9072
+#EXTINF:0 tvg-id="haiduong" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THP3 | Báo và PTTH Hải Phòng
 rtp://@232.84.3.113:8928
 #------------------------Quốc Tế (HD)------------------------#
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 8.5Mbps)
@@ -759,7 +717,6 @@ rtp://@232.84.1.238:10296
 #------------------------Mua Sắm------------------------#
 #EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/Y8JlcPP.png",BTV6
 rtp://@232.84.2.197:10966
-#------------------------DRM------------------------#
 #------------------------Unknown------------------------#
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
 rtp://@232.84.3.222:11254
@@ -781,8 +738,6 @@ rtp://@232.84.3.194:11086
 rtp://@232.84.1.18:8082
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
 rtp://@232.84.2.143:10678
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(VOV TV Infocard)
-rtp://@232.84.1.46:8256
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",(Testcard)
 rtp://@232.84.3.210:11182
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",(Testcard)
