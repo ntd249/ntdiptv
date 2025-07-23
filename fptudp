@@ -86,8 +86,6 @@ udp://@225.1.2.181:30120
 udp://@225.1.2.180:30120
 #EXTINF:0 tvg-id="hanoi1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD | Đài Hà Nội (HD 8Mbps)
 udp://@225.1.2.186:30120
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD | Đài Hà Nội (HD 8Mbps)
-udp://@225.1.1.125:30120
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png",H2 UHD | Đài Hà Nội (HD 8Mbps)
 udp://@225.1.1.109:30120
 #EXTINF:0 tvg-id="haiphong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP | Báo và PTTH Hải Phòng (HD 8Mbps)
@@ -160,8 +158,10 @@ udp://@225.1.2.25:30120
 udp://@225.1.1.104:30120
 #EXTINF:0 tvg-id="cantho" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THTPCT_CanTho.png",THTPCT | Đài PTTH Thành phố Cần Thơ (HD 8Mbps)
 udp://@225.1.1.157:30120
-#EXTINF:0 tvg-id="cantho" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THTPCT_CanTho.png",THTPCT | Đài PTTH Thành phố Cần Thơ (HD 8Mbps)
+#EXTINF:0 tvg-id="cantho" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THTPCT2_CanTho.png",THTPCT2 | Đài PTTH Thành phố Cần Thơ (HD 8Mbps)
 udp://@225.1.1.132:30120
+#EXTINF:0 tvg-id="cantho" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THTPCT3_CanTho.png",THTPCT3 | Đài PTTH Thành phố Cần Thơ (HD 8Mbps)
+udp://@225.1.1.159:30120
 #EXTINF:0 tvg-id="sonla" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV | Báo và PTTH Sơn La
 udp://@225.1.1.98:30120
 #EXTINF:0 tvg-id="hungyen" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY | Báo và PTTH Hưng Yên
@@ -174,8 +174,6 @@ udp://@225.1.2.184:30120
 udp://@225.1.1.161:30120
 #EXTINF:0 tvg-id="longan" group-title="Địa phương (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV1_TayNinh.png",TTV1 | Báo và PTTH Tây Ninh
 udp://@225.1.1.162:30120
-#EXTINF:0 tvg-id="cantho" group-title="Địa phương (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THTPCT_CanTho.png",THTPCT | Đài PTTH Thành phố Cần Thơ
-udp://@225.1.1.159:30120
 #EXTINF:0 tvg-id="phutho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD | Báo và PTTH Phú Thọ (HD 8Mbps)
 udp://@225.1.2.168:30120
 #EXTINF:0 tvg-id="tuyenquang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV | Báo và Đài PTTH Tuyên Quang (HD 8Mbps)
@@ -320,14 +318,24 @@ udp://@225.1.3.36:30120
 udp://@225.1.3.127:30120
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 8Mbps)
 udp://@225.1.3.34:30120
+#EXTINF:0 tvg-id="laocai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC | Báo và PTTH Lào Cai (HD 8Mbps)
+udp://@225.1.3.158:30120
+#EXTINF:0 tvg-id="langson" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD | Báo và Đài PTTH Lạng Sơn (HD 8Mbps)
+udp://@225.1.3.157:30120
+#EXTINF:0 tvg-id="dienbien" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV | Báo và PTTH Điện Biên (HD 8Mbps)
+udp://@225.1.3.149:30120
 #EXTINF:0 tvg-id="tuyenquang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV | Báo và Đài PTTH Tuyên Quang (HD 8Mbps)
 udp://@225.1.3.101:30120
+#EXTINF:0 tvg-id="caobang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV | Báo Cao Bằng (HD 8Mbps)
+udp://@225.1.3.148:30120
 #EXTINF:0 tvg-id="thainguyen" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_ThaiNguyen.png",TN | Báo và PTTH Thái Nguyên (HD 8Mbps)
 udp://@225.1.3.62:30120
 #EXTINF:0 tvg-id="phutho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD | Báo và PTTH Phú Thọ (HD 8Mbps)
 udp://@225.1.3.71:30120
 #EXTINF:0 tvg-id="bacninh" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BTV_BacNinh.png",BTV | Báo và PTTH Bắc Ninh (HD 8Mbps)
 udp://@225.1.3.145:30120
+#EXTINF:0 tvg-id="bacninh" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BTV_BacNinh.png",BTV | Báo và PTTH Bắc Ninh (HD 8Mbps)
+udp://@225.1.3.147:30120
 #EXTINF:0 tvg-id="quangninh1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD | Trung tâm Truyền thông Quảng Ninh (HD 8Mbps)
 udp://@225.1.3.32:30120
 #EXTINF:0 tvg-id="quangninh3" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD | Trung tâm Truyền thông Quảng Ninh (HD 8Mbps)
@@ -336,22 +344,34 @@ udp://@225.1.3.162:30120
 udp://@225.1.3.22:30120
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD | Đài Hà Nội (HD 8Mbps)
 udp://@225.1.3.49:30120
-#EXTINF:0 tvg-id="haiphong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD | Báo và PTTH Hải Phòng (HD 8Mbps)
+#EXTINF:0 tvg-id="haiphong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP | Báo và PTTH Hải Phòng (HD 8Mbps)
 udp://@225.1.3.80:30120
-#EXTINF:0 tvg-id="phutho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD | Báo và PTTH Phú Thọ (HD 8Mbps)
-udp://@225.1.3.43:30120
+#EXTINF:0 tvg-id="haiduong" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THP3_HaiPhong.png",THP3 | Báo và PTTH Hải Phòng (HD 8Mbps)
+udp://@225.1.3.153:30120
+#EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV HD | Báo và PTTH Ninh Bình (HD 8Mbps)
+udp://@225.1.3.160:30120
+#EXTINF:0 tvg-id="hungyen" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY HD | Báo và PTTH Hưng Yên (HD 8Mbps)
+udp://@225.1.3.164:30120
 #EXTINF:0 tvg-id="nghean" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD | Báo và Đài PTTH Nghệ An (HD 8Mbps)
 udp://@225.1.3.159:30120
+#EXTINF:0 tvg-id="hatinh" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BHTTV_BaoHaTinhTV.png",BHTTV | Báo Hà Tĩnh (HD 8Mbps)
+udp://@225.1.3.138:30120
+#EXTINF:0 tvg-id="quangtri" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QTTV_QuangTri.png",QTTV | Báo và PTTH Quảng Trị (HD 8Mbps)
+udp://@225.1.3.118:30120
 #EXTINF:0 tvg-id="danang1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT1_DaNang.png",ĐNRT1 | Báo và PTTH Đà Nẵng (HD 8Mbps)
 udp://@225.1.3.99:30120
 #EXTINF:0 tvg-id="danang2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT2_DaNang.png",ĐNRT2 | Báo và PTTH Đà Nẵng (HD 8Mbps)
 udp://@225.1.3.106:30120
+#EXTINF:0 tvg-id="danang2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT2_DaNang.png",ĐNRT2 | Báo và PTTH Đà Nẵng (HD 8Mbps)
+udp://@225.1.3.116:30120
+#EXTINF:0 tvg-id="quangngai" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV_QuangNgai.png",QNgTV | Báo và PTTH Quảng Ngãi (HD 8Mbps)
+udp://@225.1.3.110:30120
 #EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD | Báo và PTTH Khánh Hòa (HD 8Mbps)
 udp://@225.1.3.74:30120
 #EXTINF:0 tvg-id="lamdong" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV1_LamDong.png",LTV1 | Báo và PTTH Lâm Đồng (HD 8Mbps)
+udp://@225.1.3.111:30120
+#EXTINF:0 tvg-id="lamdong" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV2_LamDong.png",LTV2 | Báo và PTTH Lâm Đồng (HD 8Mbps)
 udp://@225.1.3.104:30120
-#EXTINF:0 tvg-id="quangngai" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV_QuangNgai.png",QNgTV | Báo và PTTH Quảng Ngãi (HD 8Mbps)
-udp://@225.1.3.110:30120
 #EXTINF:0 tvg-id="binhduong1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD | Đài PTTH Bình Dương (HD 8Mbps)
 udp://@225.1.3.64:30120
 #EXTINF:0 tvg-id="binhduong2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD | Đài PTTH Bình Dương (HD 8Mbps)
@@ -396,7 +416,7 @@ udp://@225.1.3.100:30120
 udp://@225.1.3.69:30120
 #EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV | Báo và Đài PTTH Thanh Hóa
 udp://@225.1.3.165:30120
-#EXTINF:0 tvg-id="cantho" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 _ TH Sóc Trăng
+#EXTINF:0 tvg-id="cantho" group-title="Địa phương (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THTPCT3_CanTho.png",THTPCT3 | Đài PTTH Thành phố Cần Thơ
 udp://@225.1.3.119:30120
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia (HD 8Mbps)
 udp://@225.1.3.91:30120
@@ -480,8 +500,6 @@ udp://@225.1.4.211:30120
 udp://@225.1.4.221:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 4Mbps)
 udp://@225.1.4.170:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV HD _ TH Bắc Giang
-udp://@225.1.4.173:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD | Đài Hà Nội (HD 4Mbps)
 udp://@225.1.4.203:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 HD _ TH Đồng Tháp (HD 4Mbps)
@@ -496,7 +514,7 @@ udp://@225.1.4.87:30120
 udp://@225.1.4.176:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD | Báo và Đài PTTH Vĩnh Long (HD 4Mbps)
 udp://@225.1.4.217:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD | Báo và Đài PTTH Vĩnh Long (HD 4Mbps)
 udp://@225.1.4.164:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH Hậu Giang (HD 4Mbps)
 udp://@225.1.4.133:30120
@@ -606,8 +624,6 @@ udp://@225.1.4.122:30120
 udp://@225.1.4.123:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Đồng Nai 1 HD
 udp://@225.1.4.124:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Gia Lai HD
-udp://@225.1.4.126:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Tuyên Quang HD
 udp://@225.1.4.127:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Hà Nam
@@ -618,8 +634,6 @@ udp://@225.1.4.129:30120
 udp://@225.1.4.130:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Hải Phòng HD
 udp://@225.1.4.131:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hà Nội 2 HD
-udp://@225.1.4.132:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Hòa Bình HD
 udp://@225.1.4.134:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Thừa Thiên Huế
@@ -642,8 +656,6 @@ udp://@225.1.4.142:30120
 udp://@225.1.4.143:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Long An
 udp://@225.1.4.144:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Nam Định
-udp://@225.1.4.145:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Nghệ An HD
 udp://@225.1.4.146:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Ninh Bình HD
@@ -680,16 +692,10 @@ udp://@225.1.4.162:30120
 udp://@225.1.4.163:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Tuyên Quang HD
 udp://@225.1.4.165:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Vĩnh Phúc HD
-udp://@225.1.4.166:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Yên Bái HD
-udp://@225.1.4.167:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",An Giang HD
 udp://@225.1.4.171:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Vũng Tàu HD
 udp://@225.1.4.172:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bắc Kạn HD
-udp://@225.1.4.174:30120
 #-------------------FPT Service-------------------#
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
 udp://@225.1.1.2:30120
