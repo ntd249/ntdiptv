@@ -8,8 +8,14 @@ udp://@225.1.2.13:30120
 udp://@225.1.2.247:30120
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 8Mbps)
 udp://@225.1.2.20:30120
+#EXTINF:0 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today (HD 8Mbps)
+udp://@225.1.2.190:30120
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8Mbps)
 udp://@225.1.1.131:30120
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 8Mbps)
+udp://@225.1.2.236:30120
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 8Mbps)
+udp://@225.1.1.108:30120
 #EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8Mbps)
 udp://@225.1.2.245:30120
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8Mbps)
@@ -18,10 +24,6 @@ udp://@225.1.2.96:30120
 udp://@225.1.2.166:30120
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 8Mbps)
 udp://@225.1.1.128:30120
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 8Mbps)
-udp://@225.1.2.236:30120
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 8Mbps)
-udp://@225.1.1.108:30120
 #-------------------Thiết yếu-------------------#
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD (HD 8Mbps)
 udp://@225.1.2.169:30120
