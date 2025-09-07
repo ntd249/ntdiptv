@@ -172,8 +172,6 @@ udp://@225.1.2.184:30120
 udp://@225.1.1.162:30120
 #EXTINF:0 tvg-id="quangngai" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV_QuangNgai.png",QNgTV | Báo và PTTH Quảng Ngãi (HD 8Mbps)
 udp://@225.1.1.36:30120
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD | Báo và Đài PTTH Vĩnh Long (HD 8Mbps)
-udp://@225.1.1.156:30120
 #-------------------Quốc tế-------------------#
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia (HD 8Mbps)
 udp://@225.1.2.21:30120
@@ -250,8 +248,14 @@ udp://@225.1.3.5:30120
 udp://@225.1.3.2:30120
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 8.5Mbps)
 udp://@225.1.3.6:30120
+#EXTINF:0 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today (HD 8.5Mbps)
+udp://@225.1.3.95:30120
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8.5Mbps)
 udp://@225.1.3.4:30120
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 8.5Mbps)
+udp://@225.1.3.42:30120
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 8.5Mbps)
+udp://@225.1.3.30:30120
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8.5Mbps)
 udp://@225.1.3.3:30120
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8.5Mbps)
@@ -260,10 +264,6 @@ udp://@225.1.3.15:30120
 udp://@225.1.3.11:30120
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 8.5Mbps)
 udp://@225.1.3.9:30120
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 8.5Mbps)
-udp://@225.1.3.42:30120
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 8.5Mbps)
-udp://@225.1.3.30:30120
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD (HD 8.5Mbps)
 udp://@225.1.3.23:30120
 #EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 8Mbps)
@@ -374,8 +374,6 @@ udp://@225.1.3.168:30120
 udp://@225.1.3.24:30120
 #EXTINF:0 tvg-id="" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây (HD 8Mbps)
 udp://@225.1.3.77:30120
-#EXTINF:0 tvg-id="dongthap" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THDT_DongThap.png",THĐT | Báo và Đài PTTH Đồng Tháp (HD 8Mbps)
-udp://@225.1.3.46:30120
 #EXTINF:0 tvg-id="angiang" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV2_AnGiang.png",ATV2 | Báo và PTTH An Giang (HD 8Mbps)
 udp://@225.1.3.167:30120
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD | Báo và Đài PTTH Vĩnh Long (HD 8Mbps)
@@ -386,6 +384,8 @@ udp://@225.1.3.19:30120
 udp://@225.1.3.16:30120
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD | Báo và Đài PTTH Vĩnh Long (HD 8Mbps)
 udp://@225.1.3.20:30120
+#EXTINF:0 tvg-id="vinhlong5hd" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",THVL5 HD | Báo và Đài PTTH Vĩnh Long (HD 8Mbps)
+udp://@225.1.3.44:30120
 #EXTINF:0 tvg-id="camau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD | Báo và Đài PTTH Cà Mau (HD 8Mbps)
 udp://@225.1.3.100:30120
 #EXTINF:0 tvg-id="cantho1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho1.png",THTPCT1 | Đài PTTH Thành phố Cần Thơ (HD 8Mbps)
@@ -410,8 +410,6 @@ udp://@225.1.3.47:30120
 udp://@225.1.3.86:30120
 #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 8Mbps)
 udp://@225.1.3.90:30120
-#EXTINF:0 tvg-id="boomerang" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito (HD 8Mbps)
-udp://@225.1.3.63:30120
 #EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 8Mbps)
 udp://@225.1.3.51:30120
 #EXTINF:0 tvg-id="dw" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) (HD 8Mbps)
@@ -524,6 +522,8 @@ udp://@225.1.4.22:30120
 udp://@225.1.4.18:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK (HD 4Mbps)
 udp://@225.1.4.13:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito (HD 4Mbps)
+udp://@225.1.4.16:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 4Mbps)
 udp://@225.1.4.76:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 4Mbps)
@@ -576,10 +576,6 @@ udp://@225.1.4.74:30120
 udp://@225.1.4.77:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",BTV9 An Viên HD
 udp://@225.1.4.99:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Cà Mau HD
-udp://@225.1.4.109:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Vĩnh Long 2 HD
-udp://@225.1.4.111:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Gia Lai HD
 udp://@225.1.4.112:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Lâm Đồng 2 HD
@@ -652,8 +648,6 @@ udp://@225.1.4.159:30120
 udp://@225.1.4.161:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Thanh Hóa
 udp://@225.1.4.162:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Đồng Tháp 2 HD
-udp://@225.1.4.163:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Tuyên Quang HD
 udp://@225.1.4.165:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",An Giang 2 HD
