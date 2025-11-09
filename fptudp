@@ -164,10 +164,10 @@ udp://@225.1.2.25:30120
 udp://@225.1.2.172:30120
 #EXTINF:0 tvg-id="angiang1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV1_AnGiang.png",ATV1 | An Giang (HD 8Mbps)
 udp://@225.1.1.174:30120
-#EXTINF:0 tvg-id="angiang1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV1_AnGiang.png",ATV1 | An Giang (HD 8Mbps)
-udp://@225.1.2.182:30120
 #EXTINF:0 tvg-id="angiang2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV2_AnGiang.png",ATV2 | An Giang (HD 8Mbps)
 udp://@225.1.2.173:30120
+#EXTINF:0 tvg-id="angiang3" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV3_AnGiang.png",ATV3 | An Giang (HD 8Mbps)
+udp://@225.1.2.182:30120
 #EXTINF:0 tvg-id="camau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD | Cà Mau (HD 8Mbps)
 udp://@225.1.1.104:30120
 #EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV | Thanh Hóa
