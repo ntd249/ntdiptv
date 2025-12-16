@@ -8,6 +8,8 @@ rtp://@232.84.2.31:10594
 rtp://@232.84.1.118:10260
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 8.5Mbps)
 rtp://@232.84.3.106:10600
+#EXTINF:0 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today (HD 9Mbps)
+rtp://@232.84.1.234:10290
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8.5Mbps)
 rtp://@232.84.2.33:10606
 #EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8.5Mbps)
@@ -58,6 +60,8 @@ rtp://@232.84.2.32:10600
 rtp://@232.84.3.251:11428
 #EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 6.5Mbps)
 rtp://@232.84.3.252:11434
+#EXTINF:0 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today (HD 9Mbps)
+rtp://@232.84.2.181:10290
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 8.5Mbps)
 rtp://@232.84.2.34:10612
 #------------------------Thiết Yếu------------------------#
@@ -508,6 +512,8 @@ rtp://@232.84.3.117:10654
 rtp://@232.84.2.55:10540
 #EXTINF:0 tvg-id="cna" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 6.5Mbps)
 rtp://@232.84.3.155:10540
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CNBC.png",CNBC (HD 8.5Mbps)
+rtp://@232.84.3.179:10488
 #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 8Mbps)
 rtp://@232.84.3.153:10690
 #EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 7.5Mbps)
@@ -619,8 +625,8 @@ rtp://@232.84.1.44:8244
 rtp://@232.84.1.20:8094
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA
 rtp://@232.84.1.5:8004
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
-rtp://@232.84.3.179:10488
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CNBC.png",CNBC
+rtp://@232.84.3.93:11494
 #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN
 rtp://@232.84.2.126:8076
 #EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci
@@ -651,8 +657,14 @@ rtp://@232.84.3.188:11050
 rtp://@232.84.3.187:11044
 #EXTINF:0 tvg-id="kbsworld" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
 rtp://@232.84.2.136:9612
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="",KMTV Korea
+rtp://@232.84.2.149:10714
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="",KMTV Korea
+rtp://@232.84.3.147:10714
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/Lotus_Macau.png",Lotus Macau
 rtp://@232.84.3.192:11074
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/MBC.png",MBC
+rtp://@232.84.3.141:10732
 #EXTINF:0 tvg-id="musicbox" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DoCK1GY.png",Music Box
 rtp://@232.84.2.132:9588
 #EXTINF:0 tvg-id="musicbox" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DoCK1GY.png",Music Box
@@ -685,6 +697,8 @@ rtp://@232.84.1.11:8040
 rtp://@232.84.1.12:8046
 #EXTINF:0 tvg-id="tlchd" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC
 rtp://@232.84.1.49:8274
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TPBS3.png",TPBS
+rtp://@232.84.3.136:10720
 #EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TV5_Monde_Asie.png",TV5 Monde Asie
 rtp://@232.84.1.45:8250
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
