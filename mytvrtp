@@ -257,7 +257,7 @@ rtp://@232.84.3.134:10768
 rtp://@232.84.3.46:11776
 #EXTINF:0 tvg-id="quangngai1" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV1_QuangNgai.png",QNgTV1 | Quảng Ngãi (HD 6Mbps)
 rtp://@232.84.3.126:10798
-#EXTINF:0 tvg-id="quangngai2" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV2_QuangNgai.png",QNgTV2 | Quảng Ngãi (HD 5Mbps)
+#EXTINF:0 tvg-id="quangngai2" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV1_QuangNgai.png",QNgTV1 | Quảng Ngãi (HD 5Mbps)
 rtp://@232.84.3.80:11572
 #EXTINF:0 tvg-id="daklak" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD | Đắk Lắk (HD 5Mbps)
 rtp://@232.84.3.99:11464
@@ -352,7 +352,7 @@ rtp://@232.84.1.146:8850
 rtp://@232.84.3.122:8856
 #EXTINF:0 tvg-id="quangngai1" group-title="Địa Phương (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV1_QuangNgai.png",QNgTV1 | Quảng Ngãi
 rtp://@232.84.2.108:9054
-#EXTINF:0 tvg-id="quangngai2" group-title="Địa Phương (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV2_QuangNgai.png",QNgTV2 | Quảng Ngãi
+#EXTINF:0 tvg-id="quangngai2" group-title="Địa Phương (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV1_QuangNgai.png",QNgTV1 | Quảng Ngãi
 rtp://@232.84.3.115:8970
 #EXTINF:0 tvg-id="khanhhoa" group-title="Địa Phương (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/KTV_KhanhHoa.png",KTV | Khánh Hòa
 rtp://@232.84.2.99:8958
