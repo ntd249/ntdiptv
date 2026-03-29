@@ -12,18 +12,18 @@ rtp://@232.84.3.106:10600
 rtp://@232.84.1.234:10290
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8.5Mbps)
 rtp://@232.84.2.33:10606
-#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8.5Mbps)
-rtp://@232.84.1.119:10266
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 8.5Mbps)
+rtp://@232.84.3.86:11542
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 8.5Mbps)
+rtp://@232.84.3.66:11656
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8.5Mbps)
 rtp://@232.84.2.202:10996
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 8.5Mbps)
 rtp://@232.84.3.104:10612
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 8.5Mbps)
 rtp://@232.84.2.35:10618
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 8.5Mbps)
-rtp://@232.84.3.86:11542
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 8.5Mbps)
-rtp://@232.84.3.66:11656
+#EXTINF:0 tvg-id="vtv10" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10 (HD 8.5Mbps)
+rtp://@232.84.1.119:10266
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 rtp://@232.84.1.27:8136
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
@@ -36,18 +36,18 @@ rtp://@232.84.1.40:8214
 rtp://@232.84.1.66:8370
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 rtp://@232.84.1.41:8220
-#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
-rtp://@232.84.1.42:8226
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
+rtp://@232.84.3.85:11536
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
+rtp://@232.84.3.67:11650
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
 rtp://@232.84.2.201:10990
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
 rtp://@232.84.1.148:8862
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 rtp://@232.84.1.241:9420
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-rtp://@232.84.3.85:11536
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
-rtp://@232.84.3.67:11650
+#EXTINF:0 tvg-id="vtv10" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10
+rtp://@232.84.1.42:8226
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 7Mbps)
 rtp://@232.84.3.247:11404
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 6.5Mbps)
@@ -58,14 +58,14 @@ rtp://@232.84.3.249:11416
 rtp://@232.84.3.250:11422
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 8.5Mbps)
 rtp://@232.84.2.32:10600
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 6.5Mbps)
-rtp://@232.84.3.251:11428
-#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 6.5Mbps)
-rtp://@232.84.3.252:11434
 #EXTINF:0 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today (HD 8Mbps)
 rtp://@232.84.2.181:10290
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 6.5Mbps)
+rtp://@232.84.3.251:11428
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 8.5Mbps)
 rtp://@232.84.2.34:10612
+#EXTINF:0 tvg-id="vtv10" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10 (HD 6.5Mbps)
+rtp://@232.84.3.252:11434
 #------------------------Thiết Yếu------------------------#
 #EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 7.5Mbps)
 rtp://@232.84.3.127:10816
@@ -157,8 +157,10 @@ rtp://@232.84.3.57:11710
 rtp://@232.84.2.182:9306
 #EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3 (HD 8Mbps)
 rtp://@232.84.3.56:11716
-#EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys (HD 6Mbps)
+#EXTINF:0 tvg-id="htv4" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/HTV4.png",HTV4 (HD 6Mbps)
 rtp://@232.84.3.55:11722
+#EXTINF:0 tvg-id="htv5" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/HTV5_BChannel.png",HTV5 BChannel (HD 8.5Mbps)
+rtp://@232.84.3.199:11116
 #EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 (HD 8.5Mbps)
 rtp://@232.84.1.223:9312
 #EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 (HD 8.5Mbps)
@@ -185,7 +187,7 @@ rtp://@232.84.1.35:8184
 rtp://@232.84.1.36:8190
 #EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
 rtp://@232.84.1.104:8598
-#EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys
+#EXTINF:0 tvg-id="htv4" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/HTV4.png",HTV4
 rtp://@232.84.1.25:8124
 #EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7
 rtp://@232.84.1.21:8100
@@ -225,9 +227,9 @@ rtp://@232.84.3.203:11140
 rtp://@232.84.1.248:10978
 #EXTINF:0 tvg-id="quangninh3" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD | Quảng Ninh (HD 8Mbps)
 rtp://@232.84.1.249:10984
-#EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD | Hà Nội (HD 4Mbps)
+#EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H1_HaNoi.png",H1 | Hà Nội (HD 4Mbps)
 rtp://@232.84.3.143:10738
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD | Hà Nội (HD 4Mbps)
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HaNoi.png",H2 | Hà Nội (HD 4Mbps)
 rtp://@232.84.3.137:10744
 #EXTINF:0 tvg-id="haiphong" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP | Hải Phòng (HD 4Mbps)
 rtp://@232.84.3.142:10780
@@ -255,8 +257,6 @@ rtp://@232.84.3.99:11464
 rtp://@232.84.3.58:11704
 #EXTINF:0 tvg-id="lamdong2" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV2_LamDong.png",LTV2 | Lâm Đồng (HD 8Mbps)
 rtp://@232.84.3.87:11530
-#EXTINF:0 tvg-id="anvienhd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel (HD 8.5Mbps)
-rtp://@232.84.3.199:11116
 #EXTINF:0 tvg-id="dongnai1" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",ĐNNRTV1 HD | Đồng Nai (HD 8Mbps)
 rtp://@232.84.3.112:10762
 #EXTINF:0 tvg-id="tayninh" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_TayNinh.png",TN | Tây Ninh (HD 8Mbps)
@@ -308,9 +308,9 @@ rtp://@232.84.2.95:9030
 rtp://@232.84.2.89:8754
 #EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 | Quảng Ninh
 rtp://@232.84.3.105:9060
-#EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 | Hà Nội
+#EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H1_HaNoi.png",H1 | Hà Nội
 rtp://@232.84.1.29:8148
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 | Hà Nội
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HaNoi.png",H2 | Hà Nội
 rtp://@232.84.1.23:8112
 #EXTINF:0 tvg-id="haiphong" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP | Hải Phòng
 rtp://@232.84.2.104:8934
@@ -589,7 +589,7 @@ rtp://@232.84.3.147:10714
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/Lotus_Macau.png",Lotus Macau
 rtp://@232.84.3.192:11074
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/MBC.png",MBC
-#rtp://@232.84.3.141:10732
+rtp://@232.84.3.141:10732
 #EXTINF:0 tvg-id="musicbox" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DoCK1GY.png",Music Box
 rtp://@232.84.2.132:9588
 #EXTINF:0 tvg-id="musicbox" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DoCK1GY.png",Music Box
@@ -613,7 +613,7 @@ rtp://@232.84.2.124:8358
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/JRVJl0L.png",Russia Today
 rtp://@232.84.2.125:8538
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/yhWvggM.png",Russia Today Deutsch
-#rtp://@232.84.3.45:11782
+rtp://@232.84.3.45:11782
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/6bUPlxA.png",Shenzhen
 rtp://@232.84.3.186:11038
 #EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV
