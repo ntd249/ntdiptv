@@ -110,7 +110,7 @@ udp://@225.1.1.102:30120
 udp://@225.1.1.160:30120
 #EXTINF:0 tvg-id="thainguyen" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_ThaiNguyen.png",TN | Thái Nguyên (HD 8Mbps)
 udp://@225.1.2.179:30120
-#EXTINF:0 tvg-id="phutho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD | Phú Thọ (HD 8Mbps)
+#EXTINF:0 tvg-id="phutho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV | Phú Thọ (HD 8Mbps)
 udp://@225.1.2.165:30120
 #EXTINF:0 tvg-id="bacninh" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BTV_BacNinh.png",BTV | Bắc Ninh (HD 8Mbps)
 udp://@225.1.1.164:30120
@@ -543,6 +543,12 @@ udp://@225.1.1.52:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 udp://@225.1.1.53:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+udp://@225.1.1.54:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+udp://@225.1.1.55:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+udp://@225.1.1.56:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 udp://@225.1.1.68:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 udp://@225.1.1.69:30120
@@ -564,6 +570,8 @@ udp://@225.1.1.81:30120
 udp://@225.1.1.82:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 udp://@225.1.1.83:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+udp://@225.1.1.84:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
 udp://@225.1.1.85:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
