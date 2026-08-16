@@ -292,6 +292,8 @@ udp://@225.1.1.12:30120
 udp://@225.1.1.15:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 17
 udp://@225.1.1.17:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 20
+udp://@225.1.1.20:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 27
 udp://@225.1.1.27:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 28
@@ -384,12 +386,24 @@ udp://@225.1.1.97:30120
 udp://@225.1.1.100:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 101
 udp://@225.1.1.101:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event (H264 FHD)
-udp://@225.1.1.203:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event (H265 UHD)
-udp://@225.1.2.203:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event (H265 FHD)
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 48 (H265 FHD)
+udp://@225.1.2.48:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 50 (H265 FHD)
+udp://@225.1.2.50:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 53 (H265 FHD)
+udp://@225.1.2.53:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 57 (H265 FHD)
+udp://@225.1.2.57:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 58 (H265 FHD)
+udp://@225.1.2.58:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 82 (H265 FHD)	
+udp://@225.1.2.82:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 84 (H265 FHD)
 udp://@225.1.2.84:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 153 (H265 UHD)
+udp://@225.1.2.153:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 203 (H265 UHD)
+udp://@225.1.2.203:30120
 #-------------------FPT Advertisement-------------------#
 #EXTINF:0 tvg-id="" group-title="FPT Advertisement",Dolife Hospital
 udp://@225.1.1.127:30120
