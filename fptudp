@@ -390,6 +390,8 @@ udp://@225.1.1.86:30120
 udp://@225.1.1.87:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 88
 udp://@225.1.1.88:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 89
+udp://@225.1.1.89:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 92
 udp://@225.1.1.92:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 93
@@ -426,6 +428,8 @@ udp://@225.1.2.80:30120
 udp://@225.1.2.82:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 84 (H265 FHD)
 udp://@225.1.2.84:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 89 (H265 FHD)
+udp://@225.1.2.89:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 150 (H265 UHD)
 udp://@225.1.2.150:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 152 (H265 UHD)
